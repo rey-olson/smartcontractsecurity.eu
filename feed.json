@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Learn Blockchain &amp; Smart Contract Security",
+    "title": "smartcontractsecurity.eu",
     "description": "",
     "home_page_url": "https://smartcontractsecurity.eu",
     "feed_url": "https://smartcontractsecurity.eu/feed.json",
@@ -22,6 +22,36 @@
             ],
             "date_published": "3210-01-01T23:59:00+01:00",
             "date_modified": "3210-01-01T23:59:00+01:00"
+        },
+        {
+            "id": "https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/",
+            "url": "https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/",
+            "title": "Markets in Crypto-Assets (MiCA) Regulation",
+            "content_html": "<p> </p>\n<p><em>&lt;Coming soon&gt;</em></p>\n<p>Four essential objectives:</p>\n<ol>\n<li>Ensuring legal certainty for crypto-assets</li>\n<li>Supporting innovation and fair competition</li>\n<li>Protecting consumers, investors and market integrity</li>\n<li>Ensuring financial stability, with the inclusion of safeguards</li>\n</ol>\n<hr>\n<ul>\n<li>Photo by <a href=\"https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Maxim Hopman</a> on <a href=\"https://unsplash.com/s/photos/crypto-exchange?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></li>\n<li>Sources: <a href=\"https://securities.cib.bnpparibas/markets-in-crypto-assets-regulation/\">BNP Paribas </a></li>\n</ul>",
+            "image": "https://smartcontractsecurity.eu/media/posts/54/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Regulation"
+            ],
+            "date_published": "2022-10-19T23:34:15+02:00",
+            "date_modified": "2022-10-19T23:34:15+02:00"
+        },
+        {
+            "id": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
+            "url": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
+            "title": "Digital Operational Resilience Act (DORA)",
+            "content_html": "<p><em>&lt;Coming soon&gt;</em></p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/55/guillaume-perigois-0NRkVddA2fw-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Regulation"
+            ],
+            "date_published": "2022-10-19T23:34:04+02:00",
+            "date_modified": "2022-10-19T23:34:04+02:00"
         },
         {
             "id": "https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/",
@@ -59,7 +89,7 @@
             "url": "https://smartcontractsecurity.eu/a-tool-for-detecting-metamorphic-smart-contracts-by-michael-blau-a16z-crypto/",
             "title": "A Tool for Detecting Metamorphic Smart Contracts by Michael Blau (a16z crypto)",
             "content_html": "<p><strong>Michael Blau</strong> released his detector for metamorphic smart contracts:  <a href=\"https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/\">https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/</a></p>\n<blockquote>\n<p>A critical Ethereum security assumption is that smart contract code is immutable and therefore cannot be changed once it is deployed on the blockchain. In practice, some smart contracts <i>can</i> change – even after they’ve been deployed. With a few clever tricks, you can create metamorphic smart contracts that “<a href=\"https://medium.com/@0age/the-promise-and-the-peril-of-metamorphic-contracts-9eb8b8413c5e\" target=\"_blank\" rel=\"noopener\">metamorphose</a>” into something else – and by understanding what makes them possible, you can detect them.</p>\n</blockquote>\n<p>Detector tool: <a href=\"https://metamorphic.a16zcrypto.com/\">https://metamorphic.a16zcrypto.com/</a> <br>GitHub: <a href=\"https://github.com/a16z/metamorphic-contract-detector\">https://github.com/a16z/metamorphic-contract-detector</a> </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://smartcontractsecurity.eu/media/posts/49//Anatomy-of-a-Metamorphic-Contract-1536x846.jpeg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-xs.jpeg 300w ,https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-sm.jpeg 480w ,https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-md.jpeg 768w\"  alt=\"Anatomy of a metamorphic smart contract\" width=\"1536\" height=\"846\">\n<figcaption >(c) Michael Blau / az16 crypto</figcaption>\n</figure>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@chanportofolio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Chan</a> on <a href=\"https://unsplash.com/s/photos/twins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>\n<p>az16 crypto (az16 is perhaps not the most ethical VC firm in existence, but then again what company truly is?) also has other great resources:</p>\n<ul>\n<li><a href=\"https://a16zcrypto.substack.com/p/crypto-summer\">Web3 Weekly</a> newsletter</li>\n<li>State of Crypto Report (here is the <a href=\"https://a16zcrypto.com/state-of-crypto-report-a16z-2022/\">2022 edition</a>)</li>\n<li>Other <a href=\"https://a16z.com/category/blockchain-cryptocurrencies/\">blockchain and cryptocurrency</a> related articles. They also have a section on <a href=\"https://a16z.com/category/security-privacy/\">security and privacy</a>.</li>\n</ul>\n<p> </p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/49/chan-tw7btb8vfrk-unsplash.jpg",
+            "image": "https://smartcontractsecurity.eu/media/posts/49/metamorphic.png",
             "author": {
                 "name": "Anonymous"
             },
@@ -68,7 +98,7 @@
                    "Ethereum"
             ],
             "date_published": "2022-07-29T09:48:20+02:00",
-            "date_modified": "2022-07-29T09:48:20+02:00"
+            "date_modified": "2022-10-19T23:45:06+02:00"
         },
         {
             "id": "https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/",
@@ -135,38 +165,6 @@
             ],
             "date_published": "2022-05-19T14:24:51+02:00",
             "date_modified": "2022-06-08T13:55:05+02:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/",
-            "url": "https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/",
-            "title": "The Anti-Ape on what&#x27;s wrong with bridges",
-            "content_html": "<p><a href=\"https://twitter.com/TheAntiApe\">The Anti-Ape</a> posted a great article on today's challenges with <strong>cross-chain bridges.</strong></p>\n<p class=\"post-title short unpublished\"><a href=\"What's wrong with bridges？ Perils, Present and Future of Cross-Chain Communication: the road after Layer Zero\">What's wrong with bridges? Perils, Present and Future of Cross-Chain Communication: the road after Layer Zero</a></p>\n<p>It's a <em>very</em> enlightening read, to which I don't have anything remotely useful to add.🙃</p>\n<p>Go read and learn!</p>\n<h3>Additional <span style=\"text-decoration: line-through;\">reading </span>viewing (via <a href=\"https://spearbit.com\">Spearbit</a> 🙌)</h3>\n<p class=\"style-scope ytd-watch-metadata\"><strong>Understanding Bridge Security with Connext's Arjun Bhuptani</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/gQzRpU6GYhc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=0s\" dir=\"auto\">0:00</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Intro<br></span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=94s\" dir=\"auto\">1:34</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Background<br></span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=435s\" dir=\"auto\">7:15</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Current bridge landscape</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=811s\" dir=\"auto\">13:31</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> The next thing: Optimistic bridge</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1200s\" dir=\"auto\">20:00</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Why 30 minute window ? Non-technical ways to mitigate the risk<br></span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1580s\" dir=\"auto\">26:20</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Veryfing off chain with more conviction<br></span> <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1808s\" dir=\"auto\">30:08</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Centralized wallet integration - transaction valid before the time limit<br></span> <a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1983s\" dir=\"auto\">33:03</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Complexity comparisson</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2407s\" dir=\"auto\">40:07</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Standards accross chains</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2534s\" dir=\"auto\">42:14</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Bridges as fundamental blocks between nation states</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2656s\" dir=\"auto\">44:16</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Are you just proving the state of the bridge on one side of the other?</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2744s\" dir=\"auto\">45:44</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Approach for audit orgs</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2852s\" dir=\"auto\">47:32</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Recommended training curicculum</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3075s\" dir=\"auto\">51:15</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Type of hacks:</span> <br><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> - implementation hacks (ex. Poly Network)<br>- </span><span class=\"style-scope yt-formatted-string\" dir=\"auto\">complexity of dependencies (ex. Wormhole hack)</span> <br><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> - compromise root of trust (ex. Ronin)<br></span><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3324s\" dir=\"auto\">55:24</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Q&amp;A: Technical risks vs social engineering/corparate risks</span><br><a class=\"yt-simple-endpoint style-scope yt-formatted-string\" spellcheck=\"false\" href=\"https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3517s\" dir=\"auto\">58:37</a><span class=\"style-scope yt-formatted-string\" dir=\"auto\"> Wrap up</span></p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@arnykoor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Arny Mogensen</a> on <a href=\"https://unsplash.com/s/photos/dumpster-fire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>\n<p> </p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/44/arny-mogensen-rRgO49i8w2s-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2022-04-26T19:50:03+02:00",
-            "date_modified": "2022-05-30T21:18:14+02:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/my-lightning-talk-secureum-trustx/",
-            "url": "https://smartcontractsecurity.eu/my-lightning-talk-secureum-trustx/",
-            "title": "My Lightning Talk @ Secureum TrustX",
-            "content_html": "<p>🙏Thanks to the kind folks from <a href=\"https://spearbit.com/\">Spearbit</a>, I gave a short talk at <a href=\"https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-22/\">Secureum TrustX</a> titled <strong>\"Security risk management: what crypto can learn from TradFi\"</strong>.</p>\n<p>Slides (in .pdf) are available through my ProtonDrive:</p>\n<figure class=\"post__image post__image--center\"><a href=\"https://drive.protonmail.com/urls/KH5XZ478TW#1yOZ1LlydBSb\"><img loading=\"lazy\"  src=\"https://smartcontractsecurity.eu/media/posts/43/security-risk-management.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/43/responsive/security-risk-management-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/43/responsive/security-risk-management-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/43/responsive/security-risk-management-md.png 768w\"  alt=\"\" width=\"545\" height=\"305\"></figure></a></p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@convertkit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">ConvertKit</a> on <a href=\"https://unsplash.com/s/photos/presenter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>\n<p><em>This talk will be livestreamed, so it will probably get me <a href=\"https://www.urbandictionary.com/define.php?term=doxxed\" rel=\"nofollow\">doxxed</a>. Meh, it is what it is.</em>🤷‍♂️</p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/43/convertkit-iUvLnysxOnQ-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Secureum",
-                   "Ethereum"
-            ],
-            "date_published": "2022-04-22T23:41:00+02:00",
-            "date_modified": "2022-04-26T21:25:26+02:00"
         }
     ]
 }
