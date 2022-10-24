@@ -24,6 +24,22 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
+            "url": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
+            "title": "Digital Operational Resilience Act (DORA)",
+            "content_html": "<p>The <strong>Digital Operational Resilience Act, </strong> in short DORA, is (currently still draft) regulation that aims to strengthen the resilience of the financial sector. This because the financial sector as a whole extensively relies on ICT, which brings its own set of risks.</p>\n<p>DORA is actually part of the <a href=\"https://finance.ec.europa.eu/publications/digital-finance-package_en\">EU Digital Finance Package</a> (which also focuses on crypto-assets), and tries to align several ongoing security / resilience related initiatives:</p>\n<ul>\n<li>EBA guidelines on ICT and security risk management</li>\n<li>NIS Directive (and the upcoming NIS2 directive)</li>\n<li>EBA guidelines on outsourcing</li>\n<li>(and others)</li>\n</ul>\n<p class=\"msg msg--info\"><strong>Fun fact: </strong>DORA applies to \"crypto-asset service providers, issuers of crypto-assets, issuers of asset-referenced tokens and issuers of significant asset-referenced tokens\"</p>\n<p>Now, on to the interesting parts, DORA prescribes the following requirements.</p>\n<p><em>Please note that these requirements are actually nothing new for existing financial institutions (TradFi). DORA will more or less align and/or streamline current security &amp; IT risk measures which is a welcome change for once. 👍</em></p>\n<h4><strong>ICT risk management</strong></h4>\n<ul>\n<li>Governance and organisation</li>\n<li>ICT risk management framework</li>\n<li>ICT systems, protocols and tools</li>\n<li>Identification</li>\n<li>Protection and prevention</li>\n<li>Detection</li>\n<li>Response and recovery</li>\n<li>Backup policies, restoration and recovery methods</li>\n<li>Learning and evolving</li>\n<li>Communication</li>\n<li>Further organisation of ICT risk management tools, methods, processes and policies</li>\n<li>Simplified ICT risk management framework</li>\n</ul>\n<h4><strong>ICT-related incident management, classification and reporting</strong></h4>\n<ul>\n<li>ICT-related incident management process</li>\n<li>Classification of ICT-related incidents and cyber threats</li>\n<li>Reporting of major ICT-related incidents and voluntary notification of significant cyber threats</li>\n<li>Harmonisation of reporting content and templates</li>\n<li>Centralisation of reporting of major ICT-related incidents</li>\n<li>Supervisory feedback</li>\n<li>Operational or security payment-related incidents concerning credit institutions, payment institutions, account information service providers, and electronic money institutions</li>\n</ul>\n<h4><strong>Digital operational resilience testing</strong></h4>\n<ul>\n<li>General requirements for the performance of digital operational resilience testing</li>\n<li>Testing of ICT tools and systems</li>\n<li>Advanced testing of ICT tools, systems and processes based on threat led penetration testing</li>\n<li>Requirements for testers</li>\n</ul>\n<h4><strong>ICT third-party risk</strong></h4>\n<h6>Key principles for sound management of ICT third party risk</h6>\n<ul>\n<li>General principles</li>\n<li>Preliminary assessment of ICT concentration risk and further sub-outsourcing arrangements</li>\n<li>Key contractual provisions</li>\n</ul>\n<h6>Oversight framework of critical ICT third-party service providers</h6>\n<ul>\n<li>Designation of critical ICT third-party service providers</li>\n<li>Structure of the Oversight Framework</li>\n<li>Tasks of the Lead Overseer</li>\n<li>Powers of the Lead Overseer</li>\n<li>Request for Information</li>\n<li>General investigations </li>\n<li> On-site inspections </li>\n<li> Ongoing Oversight </li>\n<li>Harmonisation of conditions enabling the conduct of the Oversight</li>\n<li> Follow-up by competent authorities </li>\n<li> Oversight fees </li>\n<li> International cooperation </li>\n</ul>\n<h4><strong>Information sharing</strong></h4>\n<ul>\n<li>Information-sharing arrangements on cyber threat information and intelligence</li>\n</ul>\n<h4>Competent authorities</h4>\n<ul>\n<li>\n<p class=\"Titrearticle\">Another 9 articles 😅, but the most important aspects are: Administrative penalties (including criminal penalties) and remedial measures</p>\n</li>\n</ul>\n<hr>\n<p>You can download a copy of the proposed regulation here: <a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0595\">Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014 and (EU) No 909/2014</a> </p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/55/guillaume-perigois-0NRkVddA2fw-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Regulation"
+            ],
+            "date_published": "2022-10-24T18:49:44+02:00",
+            "date_modified": "2022-10-24T22:00:57+02:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/web3-security-library-by-immunefi/",
             "url": "https://smartcontractsecurity.eu/web3-security-library-by-immunefi/",
             "title": "Web3 Security Library by Immunefi",
@@ -53,21 +69,6 @@
             ],
             "date_published": "2022-10-19T23:34:15+02:00",
             "date_modified": "2022-10-19T23:34:15+02:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
-            "url": "https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/",
-            "title": "Digital Operational Resilience Act (DORA)",
-            "content_html": "<p><em>&lt;Coming soon&gt;</em></p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/55/guillaume-perigois-0NRkVddA2fw-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Regulation"
-            ],
-            "date_published": "2022-10-19T23:34:04+02:00",
-            "date_modified": "2022-10-19T23:34:04+02:00"
         },
         {
             "id": "https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/",
