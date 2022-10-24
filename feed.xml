@@ -119,6 +119,34 @@
         </content>
     </entry>
     <entry>
+        <title>Web3 Security Library by Immunefi</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/web3-security-library-by-immunefi/"/>
+        <id>https://smartcontractsecurity.eu/web3-security-library-by-immunefi/</id>
+            <category term="Security"/>
+            <category term="Lists"/>
+
+        <updated>2022-10-24T15:04:05+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/57/Immunefi-png.png" alt="" />
+                <p>Another list with Web3 security resources. I like the idea of the community being able to contribute with information/articles/... </p>
+<p>Direct link: <a href="https://github.com/immunefi-team/Web3-Security-Library">https://github.com/immunefi-team/Web3-Security-Library</a></p>
+<p> </p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Immunefi is proud to present the Web3 Security Library, which aims to be the go-to resource for Web3 security.<br><br>You can access the repository here: <a href="https://t.co/4nI5ZpeZHh">https://t.co/4nI5ZpeZHh</a><br>Keep an eye on the repository as we will regularly update it with new resources 📚</p>
+— Immunefi (@immunefi) <a href="https://twitter.com/immunefi/status/1583139374866526208?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Markets in Crypto-Assets (MiCA) Regulation</title>
         <author>
             <name>Anonymous</name>
@@ -367,40 +395,6 @@
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> Nascent&#x27;s Simple Security Toolkit</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/nascents-simple-security-toolkit/"/>
-        <id>https://smartcontractsecurity.eu/nascents-simple-security-toolkit/</id>
-            <category term="Security"/>
-            <category term="Lists"/>
-
-        <updated>2022-06-08T13:55:05+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/45/max-saeling-GFDNXpOsQjU-unsplash.jpg" alt="" />
-                <p>The <a href="https://nascent.xyz">Nascent</a>🌱 team shared their collection of practical security-focused guides and checklists for smart contract development:</p>
-<p><a href="https://github.com/nascentxyz/simple-security-toolkit">https://github.com/nascentxyz/simple-security-toolkit</a> </p>
-<p>It covers the following 4 areas:</p>
-<ol dir="auto">
-<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md">Development Process</a></li>
-<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md">Audit Readiness Checklist</a></li>
-<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/pre-launch-security-checklist.md">Pre-Launch Security Checklist</a></li>
-<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/incident-response-plan-template.md">Incident Response Plan Template</a></li>
-</ol>
-<h3>Additional listening and viewing</h3>
-<p>Twitter Spaces by <a href="https://forta.org/" target="_blank" rel="noopener noreferrer">Forta</a> discussing the Simple Security Checklist: <a href="https://twitter.com/i/spaces/1ZkJzbkrnNDJv?s=20">https://twitter.com/i/spaces/1ZkJzbkrnNDJv?s=20</a> </p>
-<p>Simple Security Checklist walkthrough by Nascent's Brock Elmore:</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/fir0-YiPtrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p>Someone cross-posted this on the <a href="https://spearbit.com/">Spearbit </a>Discord, and to be honest, this is one of the most practical and hands-on list of resources I have come across.🔥</p>
-<p>Photo by <a href="https://unsplash.com/@maxsaeling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Max Saeling</a> on <a href="https://unsplash.com/s/photos/seed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
             ]]>
         </content>
     </entry>

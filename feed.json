@@ -24,6 +24,22 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/web3-security-library-by-immunefi/",
+            "url": "https://smartcontractsecurity.eu/web3-security-library-by-immunefi/",
+            "title": "Web3 Security Library by Immunefi",
+            "content_html": "<p>Another list with Web3 security resources. I like the idea of the community being able to contribute with information/articles/... </p>\n<p>Direct link: <a href=\"https://github.com/immunefi-team/Web3-Security-Library\">https://github.com/immunefi-team/Web3-Security-Library</a></p>\n<p> </p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">Immunefi is proud to present the Web3 Security Library, which aims to be the go-to resource for Web3 security.<br><br>You can access the repository here: <a href=\"https://t.co/4nI5ZpeZHh\">https://t.co/4nI5ZpeZHh</a><br>Keep an eye on the repository as we will regularly update it with new resources 📚</p>\n— Immunefi (@immunefi) <a href=\"https://twitter.com/immunefi/status/1583139374866526208?ref_src=twsrc%5Etfw\">October 20, 2022</a></blockquote>\n<p>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</p>\n<p> </p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/57/Immunefi-png.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Lists"
+            ],
+            "date_published": "2022-10-24T15:04:05+02:00",
+            "date_modified": "2022-10-24T15:04:05+02:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/",
             "url": "https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/",
             "title": "Markets in Crypto-Assets (MiCA) Regulation",
@@ -149,22 +165,6 @@
             ],
             "date_published": "2022-05-19T14:38:24+02:00",
             "date_modified": "2022-10-17T21:35:39+02:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/nascents-simple-security-toolkit/",
-            "url": "https://smartcontractsecurity.eu/nascents-simple-security-toolkit/",
-            "title": " Nascent&#x27;s Simple Security Toolkit",
-            "content_html": "<p>The <a href=\"https://nascent.xyz\">Nascent</a>🌱 team shared their collection of practical security-focused guides and checklists for smart contract development:</p>\n<p><a href=\"https://github.com/nascentxyz/simple-security-toolkit\">https://github.com/nascentxyz/simple-security-toolkit</a> </p>\n<p>It covers the following 4 areas:</p>\n<ol dir=\"auto\">\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md\">Development Process</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md\">Audit Readiness Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/pre-launch-security-checklist.md\">Pre-Launch Security Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/incident-response-plan-template.md\">Incident Response Plan Template</a></li>\n</ol>\n<h3>Additional listening and viewing</h3>\n<p>Twitter Spaces by <a href=\"https://forta.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Forta</a> discussing the Simple Security Checklist: <a href=\"https://twitter.com/i/spaces/1ZkJzbkrnNDJv?s=20\">https://twitter.com/i/spaces/1ZkJzbkrnNDJv?s=20</a> </p>\n<p>Simple Security Checklist walkthrough by Nascent's Brock Elmore:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/fir0-YiPtrE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<p>Someone cross-posted this on the <a href=\"https://spearbit.com/\">Spearbit </a>Discord, and to be honest, this is one of the most practical and hands-on list of resources I have come across.🔥</p>\n<p>Photo by <a href=\"https://unsplash.com/@maxsaeling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Max Saeling</a> on <a href=\"https://unsplash.com/s/photos/seed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/45/max-saeling-GFDNXpOsQjU-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Lists"
-            ],
-            "date_published": "2022-05-19T14:24:51+02:00",
-            "date_modified": "2022-06-08T13:55:05+02:00"
         }
     ]
 }
