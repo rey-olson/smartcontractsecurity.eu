@@ -250,20 +250,34 @@
         <id>https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/</id>
             <category term="Regulation"/>
 
-        <updated>2022-10-24T23:04:59+02:00</updated>
+        <updated>2022-10-25T08:54:05+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://smartcontractsecurity.eu/media/posts/54/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" alt="" />
-                <p>Markets in Crypto-Assets, or short MiCA, is new planned regulation that is part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a>. Expected application: somewhere in 2023-2024</p>
-<p>MiCA has four main objectives:</p>
+                <p><strong>Markets in Crypto-Assets</strong>, or short MiCA, is new planned regulation that is part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a>.</p>
+<p>Expected application date: somewhere in 2023-2024</p>
+<p>MiCA has four <strong>main objectives</strong>:</p>
 <ol>
 <li>Ensuring legal certainty for crypto-assets</li>
 <li>Supporting innovation and fair competition</li>
 <li>Protecting consumers, investors and market integrity</li>
 <li>Ensuring financial stability, with the inclusion of safeguards</li>
 </ol>
-<p>It proposes the following set of rules:</p>
+<p>and will be targeting the following<strong> eight types of "providers of services in crypto-assets</strong>, that are not financial instruments under <a href="https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir/">MiFID II</a>":</p>
+<ol>
+<li>The custody and administration of crypto-assets on behalf of third parties</li>
+<li>The operation of trading platforms for crypto-assets</li>
+<li>The exchange of crypto-assets for fiat currency that is a legal tender</li>
+<li>The exchange of crypto-assets for other crypto-assets</li>
+<li>The execution of orders in crypto-assets on behalf of third parties placing crypto-assets</li>
+<li>The reception and transmission of orders for crypto-assets on behalf of third parties</li>
+<li>The provision of advice on crypto-assets</li>
+</ol>
+<h3>Summary</h3>
+<p>Please refer to <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/03f73e05/mica-regulating-provision-of-services-in-crypto-assets">MiCA: Regulating provision of services in crypto-assets</a> (Norton Rose Fulbright) for a succint analysis of this proposed regulation.</p>
+<h3>Overview</h3>
+<p>MiCA proposes (more or less) the following set of rules:</p>
 <h5><span class="doceo-font-family-base doceo-font-size-base">Subject Matter, Scope and Definitions</span></h5>
 <h5><span class="doceo-font-family-base doceo-font-size-base">Crypto-Assets, other than asset-referenced tokens or e-money tokens</span></h5>
 <ul>
@@ -450,12 +464,10 @@
 <li>For the curious, here you can find the latest version (including -very interesting- amendments): <a href="https://www.europarl.europa.eu/doceo/document/A-9-2022-0052_EN.html#_section1" target="_blank" rel="noopener noreferrer">DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION on the proposal for a regulation of the European Parliament and of the Council on markets in crypto-assets and amending Directive (EU) 2019/1937</a></li>
 <li>For the banking enthusiasts: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021AB0004&amp;from=EN">Opinion of the European Central Bank of 19 February 2021 on a proposal for a regulation on Markets in Crypto-assets, and amending Directive (EU) 2019/1937 (CON/2021/4) 2021/C 152/01</a></li>
 <li><span class="notion-enable-hover" data-token-index="0" data-reactroot="">For the privacy enthusiasts: <a href="https://edps.europa.eu/system/files/2021-06/21-06-24_edps_opinion_mica_en.pdf">European Data Protection Supervisor (EDPS) Opinion on the Proposal for a Regulation on Markets in Crypto-assets, and amending Directive (EU) 2019/1937</a> </span></li>
+<li>Yet another summary, this time by BNP Paribas Corporate &amp; Institutional Banking: <a href="https://securities.cib.bnpparibas/markets-in-crypto-assets-regulation/">MiCA – Markets in Crypto-Assets regulation memo</a>  </li>
 </ul>
 <hr>
-<ul>
-<li>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/crypto-exchange?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></li>
-<li>Sources: <a href="https://securities.cib.bnpparibas/markets-in-crypto-assets-regulation/">BNP Paribas </a>, <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/03f73e05/mica-regulating-provision-of-services-in-crypto-assets">Norton Rose Fulbright</a></li>
-</ul>
+<p>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/crypto-exchange?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><a href="https://www.nortonrosefulbright.com/en/knowledge/publications/03f73e05/mica-regulating-provision-of-services-in-crypto-assets"></a></p>
 <p> </p>
             ]]>
         </content>
