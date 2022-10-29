@@ -119,6 +119,103 @@
         </content>
     </entry>
     <entry>
+        <title>Yearn&#x27;s Risk Based Approach to Security by storm0x</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/"/>
+        <id>https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/</id>
+            <category term="Security"/>
+            <category term="DeFi"/>
+
+        <updated>2022-10-29T14:50:09+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/62/YEARN_LOGO_BLUE_RGB_SMALL.png" alt="" />
+                <p>Super interesting talk by <a href="https://github.com/yearn/yearn-security/blob/master/SECURITY.md">storm0x </a>about Yearn's risk based approach to security. It explains their security due diligence process before launching new vaults etc.</p>
+<p>It strongly reminds me of what the folks at <a href="https://www.defisafety.com/">https://www.defisafety.com/</a> are doing. It all seems very logical from a process point-of-view.</p>
+<p>While you cannot, never ever, guarantee 100% "safety" or "security", you can very well try your damndest...</p>
+<p>storm0x's talk is one of the many from <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022</a> 👈</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/j90Bdv13gC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Smart Contracts, a Law and Technology Perspective by Thibault Schrepel</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/"/>
+        <id>https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/</id>
+            <category term="Regulation"/>
+
+        <updated>2022-10-29T14:44:34+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/61/bud-helisson-kqguzgvYrtM-unsplash.jpg" alt="" />
+                <p>This study, released by the European Commission, is quite an interesting read. It tries to make sense of blockchain(s), smart contracts and their legal implication in the current <a href="https://en.wikipedia.org/wiki/Digital_Single_Market">'Digital Single Market'</a>.</p>
+<p><a href="https://digital-strategy.ec.europa.eu/en/library/smart-contracts-and-digital-single-market-through-lens-law-plus-technology-approach">https://digital-strategy.ec.europa.eu/en/library/smart-contracts-and-digital-single-market-through-lens-law-plus-technology-approach</a> </p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/61/smart-contract-topology-thibault-schrepel.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-md.png 768w"  alt="" width="1417" height="1140">
+<figcaption >Excerpt with a (proposed) topology of smart contracts</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/"/>
+        <id>https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/</id>
+            <category term="Regulation"/>
+
+        <updated>2022-10-29T14:23:36+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/58/ECB.jpg" alt="" />
+                <p><strong>Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</strong>, or short "DLT Pilot Regime", is another proposal that is part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a>.</p>
+<p>Expected application date: March 2023</p>
+<h3>Summary</h3>
+<p>Please refer to <a href="https://www2.deloitte.com/lu/en/pages/financial-services/articles/dlt-pilot-regime-out-now-eu-digital-securities-metaverse.html">DLT Pilot regime released: how EU is preparing for tomorrow’s digital securities market</a> (Deloitte Luxembourg) for a succint analysis of this proposed regulation.</p>
+<p class="msg msg--info"><strong>Important distinction with MiCA<br><br></strong>DLT Pilot Regime provides a legal framework for the trading and settlement of transactions in those<strong> crypto-assets that qualify as financial instruments</strong> within the meaning of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0065&amp;from=DE">Directive 2014/65/EU ("MiFID II"), hence true digital securities.</a><br><br>For the <strong>other crypto-assets</strong> that do not qualify as financial instruments (such as stablecoins, e-money tokens and utility tokens), <strong>a dedicated regulatory framework at EU level </strong>(<strong>MiCA)</strong> is currently well underway. The overall objective of MiCA is to provide a harmonized EU framework for those crypto assets which are not currently captured by EU financial service legislation. <br><br>Source: Deloitte Luxembourg</p>
+<h3>Overview of information security &amp; IT risk requirements</h3>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p class="oj-normal">(41)</p>
+</td>
+<td valign="top">
+<p class="oj-normal">DLT market infrastructures should have <strong>specific and robust IT and cyber arrangements</strong> related to the use of distributed ledger technology. Such arrangements should be proportionate to the nature, scale and complexity of the business plan of the operator of the DLT market infrastructure. Those arrangements should also <strong>ensure the continuity and continued transparency, availability, reliability and security of the services</strong> provided, including the <strong>reliability of any smart contracts</strong> that are used, <span style="text-decoration: underline;">irrespective of whether those smart contracts are created by the DLT market infrastructure itself or by a third party following outsourcing</span> procedures. DLT market infrastructures should also <strong>ensure the integrity, security, confidentiality, availability and accessibility of data stored on the distributed ledger</strong>. The competent authority for a DLT market infrastructure should be <strong>allowed to require an audit</strong> to ensure that the overall IT and cyber arrangements of the DLT market infrastructure are <span style="text-decoration: underline;">fit for purpose</span>. The costs of the audit should be borne by the operator of the DLT market infrastructure.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="oj-normal"> </p>
+</td>
+<td>
+<p class="oj-normal"> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<hr>
+<h3>Additional reading</h3>
+<ul>
+<li>For the curious, here you can find the latest version: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0858">Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU</a></li>
+<li><span class="notion-enable-hover" data-token-index="0" data-reactroot="">For the privacy enthusiasts: </span><span class="field field--name-title field--type-string field--label-hidden"><a href="https://edps.europa.eu/data-protection/our-work/publications/opinions/edps-opinion-pilot-regime-market-infrastructures_en">EDPS Opinion on the Pilot regime for market infrastructures based on Distributed Ledger Technology</a></span></li>
+<li>For the further guidance on certain technical elements, and to read feedback from participants: <a href="https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-dlt-pilot-regime">ESMA report on the DLT Pilot Regime</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Digital Operational Resilience Act (DORA)</title>
         <author>
             <name>Anonymous</name>
@@ -128,7 +225,7 @@
             <category term="Security"/>
             <category term="Regulation"/>
 
-        <updated>2022-10-24T22:23:15+02:00</updated>
+        <updated>2022-10-29T13:27:00+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -250,7 +347,7 @@
         <id>https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/</id>
             <category term="Regulation"/>
 
-        <updated>2022-10-25T08:54:05+02:00</updated>
+        <updated>2022-10-29T14:44:20+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -473,6 +570,33 @@
         </content>
     </entry>
     <entry>
+        <title>Article Series on EU Cryptocurreny Regulation</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/article-series-on-eu-cryptocurreny-regulation/"/>
+        <id>https://smartcontractsecurity.eu/article-series-on-eu-cryptocurreny-regulation/</id>
+            <category term="Regulation"/>
+
+        <updated>2022-10-29T14:47:33+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/60/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" alt="" />
+                <p class="msg msg--info">⚠️ <strong>Warning</strong><br>I am definitely not a lawyer, so please inform yourself properly before relying on the information I share here.</p>
+<p>With all the fuss lately about "regulation" coming to cryptocurrencies, I have been reading up on European regulation with regard to this topic.</p>
+<p>Since the focus of this website is still very much "security" focused, I will try my best to highlight the various security related requirements. They are often called (cyber) secuity and IT risk measures.</p>
+<h4>(<a href="https://smartcontractsecurity.eu/tags/legislation/">All Articles</a>)</h4>
+<h4><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a></h4>
+<h4><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a></h4>
+<h4><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a></h4>
+<h4><a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law and Technology Perspective by Thibault Schrepel</a></h4>
+<h4> </h4>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>DeFi Security Summit 2022 by Stanford</title>
         <author>
             <name>Anonymous</name>
@@ -557,121 +681,6 @@
 <hr>
 <p>Photo by <a href="https://unsplash.com/es/@andreaelphotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrea Lightfoot</a> on <a href="https://unsplash.com/s/photos/sheep?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Tool for Detecting Metamorphic Smart Contracts by Michael Blau (a16z crypto)</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/a-tool-for-detecting-metamorphic-smart-contracts-by-michael-blau-a16z-crypto/"/>
-        <id>https://smartcontractsecurity.eu/a-tool-for-detecting-metamorphic-smart-contracts-by-michael-blau-a16z-crypto/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-10-19T23:45:06+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/49/metamorphic.png" alt="" />
-                <p><strong>Michael Blau</strong> released his detector for metamorphic smart contracts:  <a href="https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/">https://a16zcrypto.com/metamorphic-smart-contract-detector-tool/</a></p>
-<blockquote>
-<p>A critical Ethereum security assumption is that smart contract code is immutable and therefore cannot be changed once it is deployed on the blockchain. In practice, some smart contracts <i>can</i> change – even after they’ve been deployed. With a few clever tricks, you can create metamorphic smart contracts that “<a href="https://medium.com/@0age/the-promise-and-the-peril-of-metamorphic-contracts-9eb8b8413c5e" target="_blank" rel="noopener">metamorphose</a>” into something else – and by understanding what makes them possible, you can detect them.</p>
-</blockquote>
-<p>Detector tool: <a href="https://metamorphic.a16zcrypto.com/">https://metamorphic.a16zcrypto.com/</a> <br>GitHub: <a href="https://github.com/a16z/metamorphic-contract-detector">https://github.com/a16z/metamorphic-contract-detector</a> </p>
-<figure class="post__image" ><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/49//Anatomy-of-a-Metamorphic-Contract-1536x846.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-xs.jpeg 300w ,https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-sm.jpeg 480w ,https://smartcontractsecurity.eu/media/posts/49//responsive/Anatomy-of-a-Metamorphic-Contract-1536x846-md.jpeg 768w"  alt="Anatomy of a metamorphic smart contract" width="1536" height="846">
-<figcaption >(c) Michael Blau / az16 crypto</figcaption>
-</figure>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@chanportofolio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chan</a> on <a href="https://unsplash.com/s/photos/twins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
-<p>az16 crypto (az16 is perhaps not the most ethical VC firm in existence, but then again what company truly is?) also has other great resources:</p>
-<ul>
-<li><a href="https://a16zcrypto.substack.com/p/crypto-summer">Web3 Weekly</a> newsletter</li>
-<li>State of Crypto Report (here is the <a href="https://a16zcrypto.com/state-of-crypto-report-a16z-2022/">2022 edition</a>)</li>
-<li>Other <a href="https://a16z.com/category/blockchain-cryptocurrencies/">blockchain and cryptocurrency</a> related articles. They also have a section on <a href="https://a16z.com/category/security-privacy/">security and privacy</a>.</li>
-</ul>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ethereum Smart Contract Security Best Practices by ConsenSys Diligence</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/"/>
-        <id>https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-07-26T16:56:53+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/48/consensys-diligence.png" alt="" />
-                <p>Never dismiss something published by <a href="https://consensys.net/diligence/">ConsenSys Diligence</a>, so here you go:</p>
-<h2><a href="https://consensys.github.io/smart-contract-best-practices/">Ethereum Smart Contract Security Best Practices</a></h2>
-<ul>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/general-philosophy/">General Philosophy</a> describes the smart contract security mindset</li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/development-recommendations/">Development Recommendations</a> contains examples of good code patterns</li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/attacks/">Known Attacks</a> describes the different classes of vulnerabilities to avoid</li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/security-tools/">Security Tools</a> lists tools for improving code quality, and detecting vulnerabilities</li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/bug-bounty-programs/">Bug Bounties</a> List of bug bounties in the ecosystem.</li>
-</ul>
-<hr>
-<p>Other practical best practices from SkidsDAO wrt GitHub Actions &amp; DevSecOps can be found here: <a href="https://github.com/SkidsDAO/security-policies">https://github.com/SkidsDAO/security-policies</a> 💪</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Auditooor Grindset</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/the-auditooor-grindset/"/>
-        <id>https://smartcontractsecurity.eu/the-auditooor-grindset/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-
-        <updated>2022-10-24T15:15:00+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/47/muhammad-raufan-yusup-rYRE6ju-2K8-unsplash.jpg" alt="" />
-                <p><span class="subtitle"><strong>The Auditooor Grindset</strong>, or a c</span><span class="subtitle">rash course on smart contract auditing for vulnerability researchers by Stephen (<a href="https://twitter.com/gf_256" target="_blank" rel="noopener noreferrer">@gf_256</a>) from audit firm <a href="https://zellic.io" target="_blank" rel="noopener noreferrer">Zellic</a>.</span></p>
-<p>A <em>slightly</em> biased, hilarious and yet ridiculously informative piece on Web3 auditing: <a href="https://blog.zellic.io/2022/02/11/auditor-grindset/">https://blog.zellic.io/2022/02/11/auditor-grindset/</a> 🙌</p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@muhraufan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Muhammad Raufan Yusup</a> on <a href="https://unsplash.com/s/photos/laptop-night?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>. I have also added a great song:</p>
-<div class="post__iframe"><iframe loading="lazy" width="100%" height="380" style="border-radius: 12px;" src="https://open.spotify.com/embed/track/4aHi701FKuFYj7QSeSEftV?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sanny&#x27;s Solana security resources</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/sannys-solana-security-resources/"/>
-        <id>https://smartcontractsecurity.eu/sannys-solana-security-resources/</id>
-            <category term="Solana"/>
-            <category term="Security"/>
-            <category term="Lists"/>
-
-        <updated>2022-10-17T21:35:39+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/46/solanalogo2.png" alt="" />
-                <p>I can hardly keep up with all that is going on in the Ethereum security space, let alone the Solana security space...</p>
-<p>Cross-posted from CryptoTwitter on the SkidsDAO Discord, here is another treasure trove of Solana security resources. 👇</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">There are a ton of awesome Solana Security resources out there<br><br>From validating accounts to Anchor checks to post-mortems of major hacks<br><br>If you want to learn more about auditing smart contracts and exploits on <a href="https://twitter.com/solana?ref_src=twsrc%5Etfw">@solana</a>, check out these resources below 👇🧵 <a href="https://t.co/KucjPimqXp">pic.twitter.com/KucjPimqXp</a></p>
-— sanny 🌸 (@0xsanny) <a href="https://twitter.com/0xsanny/status/1508868586890223626?ref_src=twsrc%5Etfw">March 29, 2022</a></blockquote>
-<p>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
             ]]>
         </content>
     </entry>
