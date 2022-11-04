@@ -578,7 +578,7 @@
         <id>https://smartcontractsecurity.eu/article-series-on-eu-cryptocurreny-regulation/</id>
             <category term="Regulation"/>
 
-        <updated>2022-10-29T14:47:33+02:00</updated>
+        <updated>2022-11-04T15:11:39+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -586,12 +586,14 @@
                 <p class="msg msg--info">⚠️ <strong>Warning</strong><br>I am definitely not a lawyer, so please inform yourself properly before relying on the information I share here.</p>
 <p>With all the fuss lately about "regulation" coming to cryptocurrencies, I have been reading up on European regulation with regard to this topic.</p>
 <p>Since the focus of this website is still very much "security" focused, I will try my best to highlight the various security related requirements. They are often called (cyber) secuity and IT risk measures.</p>
+<p>Please also have a look the European Commission's <a href="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy">Blockchain Strategy</a> and the EC's vision of a <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">legal and regulatory framework for blockchain</a>.</p>
 <h4>(<a href="https://smartcontractsecurity.eu/tags/legislation/">All Articles</a>)</h4>
 <h4><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a></h4>
 <h4><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a></h4>
 <h4><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a></h4>
 <h4><a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law and Technology Perspective by Thibault Schrepel</a></h4>
-<h4> </h4>
+<p> </p>
+<p> </p>
 <p> </p>
             ]]>
         </content>
