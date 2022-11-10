@@ -24,6 +24,23 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/",
+            "url": "https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/",
+            "title": "A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry",
+            "content_html": "<p>Another great presentation by <a href=\"https://twitter.com/stonecoldpat0\">Patrick McCorry</a> on bridges and their security implications and challenges (please also check out his <a href=\"https://smartcontractsecurity.eu/patrick-mccorrys-cryptocurrency-class-2022/\">Cryptocurrency Class of 2022</a>🔥).</p>\n<p>You can download the slides <a href=\"https://docs.google.com/presentation/d/1FudG-TJi1S_pFFGxA-UFz1MbiucJxrmTnBHDiiMisQs/edit#slide=id.g3478aab1684501d4_1210\">here (Google Docs)</a>. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Z1dDVW7QTTM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<p> </p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/64/veluwemeer-aqueduct.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Ethereum",
+                   "Bridges"
+            ],
+            "date_published": "2022-11-11T00:01:55+01:00",
+            "date_modified": "2022-11-11T00:01:55+01:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/",
             "url": "https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/",
             "title": "Belgian Anti-Money Laundering Act",
@@ -145,22 +162,6 @@
             ],
             "date_published": "2022-10-18T13:41:00+02:00",
             "date_modified": "2022-11-10T23:06:44+01:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/",
-            "url": "https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/",
-            "title": "DeFi Security Summit 2022 by Stanford",
-            "content_html": "<p class=\"msg msg--highlight \">I came back from a long and refreshing summer holiday, so I haven't had much time to catch up with all the latest security news, but here it goes!</p>\n<p>A lazy post pointing to the <a href=\"https://defisecuritysummit.org/\">First Annual DeFi Security Summit (2022)</a>. You can find all the recordings on their <a href=\"https://www.youtube.com/playlist?list=PL5r4vTR0gHj4hpWSe2w6593AZnc5iwmVt\">YouTube channel.</a> Some presentations (in PDF) can be found on their website as well.</p>\n<p>Its line-up of speakers is chockful with <em>very </em>knowledgeable folks from the Web3 / DeFi / smart contract security sphere:</p>\n<ul>\n<li>Mitchell Amador, CEO of Immunefi</li>\n<li>Kurt Barry, Smart Contract Specialist, MakerDao</li>\n<li>Emiliano Bonassi, Co-Founder of DeFi Italy</li>\n<li>Anton Permenev, Founding Partner at ChainSecurity</li>\n<li>Julien Bouteloup, Founder of Rekt, Blackpool &amp; Stake DAO, Curve Team Member</li>\n<li>Tarun Chitra, CEO and Co-Founder of Gauntlet</li>\n<li>Nurit Dor, VP Product at Certora</li>\n<li>Jared Flatow, VP of Engineering at Compound Labs</li>\n<li>Emilio Frangella,  Head of Smart Contracts at AAVE BGD</li>\n<li>Jesse Tasman, Head of product at Redefine</li>\n<li>Mudit Gupta, Chief Security Officer at Polygon</li>\n<li>Hugh Karp, Founder of Nexus Mutual</li>\n<li>samczsun, Research Partner at Paradigm and White-Hat Hacker</li>\n<li>Gonçalo Sa, Co-Founder and Security Researcher ConsenSys Diligence</li>\n<li>Mehdi Zerouali, Co-Founder and Director of Sigma Prime</li>\n<li>Christopher Whinfrey, Co-Founder at Hop</li>\n<li>Ryan Zarick, Co-Founder and CTO of LayerZero</li>\n<li>Nicolás Venturo, Head of Smart Contracts at Balancer Labs</li>\n<li>Tina Qian, Blockchain Security Engineer at Coinbase</li>\n<li>Richard Chen, General Partner at 1confirmation</li>\n<li>Jonathan Alexander, CTO of Openzeppelin</li>\n<li>Michael George, Director of Product at Certora</li>\n<li>Joran Honig, Security Researcher &amp; Product Lead at ConsenSys Diligence</li>\n<li>storm0x, Contributor in Security and Core Development, Yearn Finance</li>\n<li>Everett Hildenbrandt, CTO of Runtime Verification</li>\n<li>Kostas Ferles, Principal Scientist at Veridise</li>\n<li>Layne Haber, Research Lead, Connext</li>\n<li>Nick Selby, VP, Software Assurance Practice, Trail of Bits</li>\n<li>Filipe Casal, Cryptography Analyst at Trail of Bits</li>\n<li>Neville Grech, Security Engineer and Founder of Dedaub</li>\n<li>Mark Toda, Protocol Engineer, Uniswap Labs</li>\n<li>Yuchen Lin, Lead Security Engineer, TrustToken</li>\n<li>Denys Ivanov, Hacken COO</li>\n<li>David Tarditi, VP of Engineering at CertiK</li>\n<li>Yoav Weiss, Security Fellow at the Ethereum Foundation</li>\n<li>Jan Gorzny, Head of L2 Scaling, Quantstamp</li>\n</ul>\n<hr>\n<p>Thank you <a href=\"https://twitter.com/SpencerMac101\">Spencer</a> from <a href=\"https://spearbit.com\">Spearbit </a>👋</p>\n<div style=\"width: 100%; height: 0; padding-bottom: 75%; position: relative;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"100%\" style=\"position: absolute;\" src=\"https://giphy.com/embed/Q1D2YJnWHX20w\" frameborder=\"0\" class=\"giphy-embed\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
-            "image": "https://smartcontractsecurity.eu/media/posts/51/Screenshot_4.png",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "DeFi"
-            ],
-            "date_published": "2022-09-13T22:23:54+02:00",
-            "date_modified": "2022-09-13T22:23:54+02:00"
         }
     ]
 }
