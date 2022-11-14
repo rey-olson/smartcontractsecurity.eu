@@ -151,11 +151,11 @@
         <id>https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/</id>
             <category term="Regulation"/>
 
-        <updated>2022-11-14T20:00:39+01:00</updated>
+        <updated>2022-11-14T22:01:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/63/luiza-giannelli-JWlsHE-dSus-unsplash.jpg" alt="" />
+                    <img src="https://smartcontractsecurity.eu/media/posts/63/luiza-giannelli-JWlsHE-dSus-unsplash.jpg" alt="Financial Services and Markets Authority (FSMA) Logo" />
                 <p class="msg msg--info">Since I am located in Belgium, this is -for a change- an article purely focused on Belgian legislation...</p>
 <p>The Belgian Anti-Money Laundering Act, or "Belgian AML Act", entered into force on Monday 21 February 2021. It is Belgium's next step in regulating crypto-service providers, in line with the EU's 5th AML Directive.</p>
 <p>It's not necessarily directly related to (new or additional) security requirements, but as you can imagine Know-Your-Customer (KYC ) &amp; Know-Your-Transaction (KYT) requirements bring heavy operational burdens. 😕</p>
