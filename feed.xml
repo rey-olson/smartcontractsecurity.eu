@@ -151,15 +151,15 @@
         <id>https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/</id>
             <category term="Regulation"/>
 
-        <updated>2022-11-14T22:01:19+01:00</updated>
+        <updated>2022-11-14T22:02:12+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/63/luiza-giannelli-JWlsHE-dSus-unsplash.jpg" alt="Financial Services and Markets Authority (FSMA) Logo" />
+                    <img src="https://smartcontractsecurity.eu/media/posts/63/luiza-giannelli-JWlsHE-dSus-unsplash.jpg" alt="Belgian flag on roof of royal palace in Brussels" />
                 <p class="msg msg--info">Since I am located in Belgium, this is -for a change- an article purely focused on Belgian legislation...</p>
 <p>The Belgian Anti-Money Laundering Act, or "Belgian AML Act", entered into force on Monday 21 February 2021. It is Belgium's next step in regulating crypto-service providers, in line with the EU's 5th AML Directive.</p>
 <p>It's not necessarily directly related to (new or additional) security requirements, but as you can imagine Know-Your-Customer (KYC ) &amp; Know-Your-Transaction (KYT) requirements bring heavy operational burdens. 😕</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/63//FSMA-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-md.png 768w"  alt="" width="632" height="316"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/63//FSMA-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-md.png 768w"  alt="Financial Services and Markets Authority (FSMA) Logo" width="632" height="316"></figure>
 <p>Summary of changes:</p>
 <ul>
 <li>It provides clear definitions of crypto-service providers;</li>
