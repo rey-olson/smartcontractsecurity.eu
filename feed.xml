@@ -119,6 +119,33 @@
         </content>
     </entry>
     <entry>
+        <title>QuillAudit&#x27;s Smart Contract Auditor Roadmap</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/quillaudits-smart-contract-auditor-roadmap/"/>
+        <id>https://smartcontractsecurity.eu/quillaudits-smart-contract-auditor-roadmap/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Lists"/>
+            <category term="Ethereum"/>
+
+        <updated>2022-11-23T17:23:38+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/66/vivek-kumar-JS_ohjocm00-unsplash.jpg" alt="" />
+                <p>Another roadmap with resources that can help you on your journey in becoming a smart contract auditor.</p>
+<p>What more can I say? It's <strong>b-e-a-u-t-i-f-u-l</strong>. Go check it out:<br><a href="https://github.com/Quillhash/QuillAudit_Auditor_Roadmap">https://github.com/Quillhash/QuillAudit_Auditor_Roadmap</a> </p>
+<figure class="post__image post__image--center"><a href="https://github.com/Quillhash/QuillAudit_Auditor_Roadmap"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/66//roadmap-captured.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-md.png 768w"  alt="" width="500" height="693"></figure></a></p>
+<p> </p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@qriusv?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vivek Kumar</a> on <a href="https://unsplash.com/s/photos/tea-plantation-road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<p>It seems based on <a href="https://github.com/razzorsec/AuditorsRoadmap">Razzorsec's Auditor Roadmap</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry</title>
         <author>
             <name>Anonymous</name>
@@ -428,221 +455,6 @@
 <p>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Markets in Crypto-Assets (MiCA) Regulation</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/"/>
-        <id>https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/</id>
-            <category term="Regulation"/>
-
-        <updated>2022-11-16T17:02:30+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/54/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" alt="" />
-                <p><strong>Markets in Crypto-Assets</strong>, or short MiCA, is new planned regulation that is part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a>.</p>
-<p>Expected application date: somewhere in 2023-2024</p>
-<h3>Summary</h3>
-<p>Please refer to <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/03f73e05/mica-regulating-provision-of-services-in-crypto-assets">MiCA: Regulating provision of services in crypto-assets</a> (Norton Rose Fulbright) for a succint analysis of this proposed regulation.</p>
-<p class="msg msg--info">(...) <strong>MiCA has four main objectives</strong>:<br><br>1/ Ensuring legal certainty for crypto-assets<br>2/ Supporting innovation and fair competition<br>3/ Protecting consumers, investors and market integrity<br>4/ Ensuring financial stability, with the inclusion of safeguards<br><br>and will be targeting the following<strong> types of "providers of services in crypto-assets</strong>, that are not financial instruments under <a href="https://www.esma.europa.eu/policy-rules/mifid-ii-and-mifir/">MiFID II</a>":<br><br>1/ The custody and administration of crypto-assets on behalf of third parties<br>2/ The operation of trading platforms for crypto-assets<br>3/ The exchange of crypto-assets for fiat currency that is a legal tender<br>4/ The exchange of crypto-assets for other crypto-assets<br>5/ The execution of orders in crypto-assets on behalf of third parties placing crypto-assets<br>6/ The reception and transmission of orders for crypto-assets on behalf of third parties<br>7/ The provision of advice on crypto-assets<br>(...)<br><br>(source: Norton Rose Fulbrigth)</p>
-<h3>Overview</h3>
-<p>MiCA proposes (more or less) the following set of rules:</p>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Subject Matter, Scope and Definitions</span></h5>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Crypto-Assets, other than asset-referenced tokens or e-money tokens</span></h5>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Offers of crypto-assets, other than asset-referenced tokens or e-money tokens, to the public, and admission of such crypto-assets to trading on a trading platform for crypto-assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Content and form of the crypto-asset white paper</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Marketing communications</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Notification of the crypto-asset white paper, and, where applicable, of the marketing communications</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Publication of the crypto-asset white paper, and, where applicable, of the marketing communications</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Offers to the public of crypto-assets, other than asset-referenced tokens or e-money tokens, that are limited in time</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Permission to offer crypto-assets, other than asset-referenced tokens or e-money tokens, to the public or to seek admission for trading such crypto-assets on a trading platform for crypto-assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Modification of published crypto-asset white papers and, where applicable, published marketing communications after their publication</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Right of withdrawal</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Obligations of issuers of crypto-assets, other than asset-referenced tokens or e-money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Liability of issuers of crypto-assets, other than asset-referenced tokens or e-money tokens for the information given in a crypto-asset white paper</span></li>
-</ul>
-<h5 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Asset-referenced tokens</span></h5>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Authorisation to offer asset-referenced tokens to the public and to seek their admission to trading on a trading platform for crypto-assets</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Application for authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Content and form of the crypto-asset white paper for asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Assessment of the application for authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Grant or refusal of the authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Withdrawal of the authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Modification of published crypto-asset white papers for asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Liability of issuers of asset-referenced tokens for the information given in a crypto-asset white paper</span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Obligations of all issuers of asset-referenced tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Obligation to act honestly, fairly and professionally in the best interest of the holders of asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Publication of the crypto-asset white paper, and, where applicable, of the marketing communications</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Marketing communications</span><span class="doceo-font-family-base doceo-font-size-base"> </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Ongoing information to holders of asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Reporting obligations to ESMA</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Complaint handling procedure</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prevention, identification, management and disclosure of conflicts of interest</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Information to competent authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Governance arrangements</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Own funds requirements</span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Reserve of assets</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Obligation to have reserve assets, and composition and management of such reserve of assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Custody of reserve assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Investment of the reserve assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Rights on issuers of asset-referenced tokens or on the reserve assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prohibition of interest</span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Acquisitions of issuers of asset-referenced tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Assessment of intended acquisitions of issuers of asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Content of the assessment of intended acquisitions of issuers of asset-referenced tokens </span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Significant asset-referenced tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Classification of asset-referenced tokens as significant asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Voluntary classification of asset-referenced tokens as significant asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Quasi e-money tokens and payment asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Specific additional obligations for issuers of significant asset-referenced tokens</span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Orderly wind-down</span></h6>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Electronic money tokens</span></h5>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Requirements to be fulfilled by all issuers of electronic money tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Issuance and redeemability of electronic money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prohibition of interests</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Content and form of the crypto-asset white paper for electronic money tokens </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Liability of issuers of e-money tokens for the information given in a crypto-asset white paper</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base"> </span><span class="doceo-font-family-base doceo-font-size-base">Marketing communications</span><span class="doceo-font-family-base doceo-font-size-base"> </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Investment of funds received in exchange of e-money token issuers</span></li>
-</ul>
-<h6 class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Significant e-money tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Classification of e-money tokens as significant e-money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Voluntary classification of e-money tokens as significant e-money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Specific additional obligations for issuers of significant e-money tokens</span></li>
-</ul>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Authorisation and operating conditions for Crypto-Asset Service providers</span></h5>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Authorisation of crypto-asset service providers</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Application for authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Assessment of the application for authorisation and grant or refusal of authorisation</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Withdrawal of authorisation</span></li>
-<li class="doceo-line-height-base doceo-font-size-base"><span class="doceo-font-family-base doceo-font-size-base">Provision of crypto-asset services at the own exclusive initiative of the client </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Register of crypto-asset service providers</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cross-border provision of crypto-asset services</span></li>
-</ul>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Obligation for all crypto-asset service providers</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Obligation to act honestly, fairly and professionally in the best interest of clients and information to clients</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prudential requirements</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Organisational requirements</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Know-your-customer policy </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">ESMA register of non-compliant crypto-assets service providers</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Information to competent authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Safekeeping of clients’ crypto-assets and funds</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Complaint handling procedure </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prevention, identification, management and disclosure of conflicts of interest </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Outsourcing</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Orderly wind-down of providers</span></li>
-</ul>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Obligations for the provision of specific crypto-asset services</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Custody and administration of crypto-assets on behalf of third parties</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Operation of a trading platform for crypto-assets </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Exchange of crypto-assets against fiat currency or exchange of crypto-assets against other crypto-assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Execution of orders for crypto-assets on behalf of third parties</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Placing of crypto-assets</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Reception and transmission of orders on behalf of third parties</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Advice on crypto-assets </span></li>
-</ul>
-<h6><span class="doceo-font-family-base doceo-font-size-base"> Acquisition of crypto-asset service providers</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Assessment of intended acquisitions of crypto-asset service providers</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Content of the assessment of intended acquisitions of crypto-asset service providers</span></li>
-</ul>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Prevention of Market Abuse involving crypto-assets</span></h5>
-<p class="msg msg--info">No more rug pulls? 😂</p>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Scope of the rules on market abuse</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Disclosure of inside information</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prohibition of insider dealing</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prohibition of unlawful disclosure of inside information</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Prohibition of market manipulation</span></li>
-</ul>
-<h5><span class="doceo-font-family-base doceo-font-size-base">Competent Authorities, the EBA and ESMA</span></h5>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Powers of competent authorities and cooperation between competent authorities, the EBA and ESMA</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Competent authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Powers of competent authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cooperation between competent authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cooperation with the EBA and ESMA </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cooperation with other authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Notification duties</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Professional secrecy</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Data protection</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Precautionary measures</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cooperation with third countries</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Complaint handling by competent authorities</span></li>
-</ul>
-<h6><span class="doceo-font-family-base doceo-font-size-base">Administrative measures and sanctions by competent authorities</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Administrative sanctions and other administrative measures</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Exercise of supervisory powers and powers to impose penalties</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Right of appeal</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Publication of decisions</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Reporting of penalties and administrative measures to ESMA and EBA</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Reporting of breaches and protection of reporting persons</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Supervisory responsibilities of ESMA on issuers of significant asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Supervisory responsibilities of the EBA on issuers of significant e-money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Colleges for issuers of significant asset-referenced tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Non-binding opinions of the colleges for issuers of significant asset-referenced tokens </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">College for issuers of significant electronic money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Non-binding opinions of the college for issuers of significant electronic money tokens</span></li>
-</ul>
-<h6><span class="doceo-font-family-base doceo-font-size-base">ESMA</span><span class="doceo-font-family-base doceo-font-size-base">’s powers and competences on issuers of significant asset-referenced tokens </span><span class="doceo-font-family-base doceo-font-size-base">and EBA’s powers and competences on issuers of significant e-money tokens</span></h6>
-<ul>
-<li><span class="doceo-font-family-base doceo-font-size-base">Exercise of powers referred to in Articles 104 to 107</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Request for information in order to carry out its duties under Article 98 by ESMA regarding </span><span class="doceo-font-family-base doceo-font-size-base">asset-referenced tokens</span> </li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Request for information by the EBA regarding e-money tokens</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">General investigative powers </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">On-site inspections </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Exchange of information </span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Administrative agreements on exchange of information between </span><span class="doceo-font-family-base doceo-font-size-base">ESMA and</span><span class="doceo-font-family-base doceo-font-size-base"> the EBA and third countries</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Disclosure of information from third countries</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Cooperation with other authorities</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Professional secrecy</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Supervisory measures by </span><span class="doceo-font-family-base doceo-font-size-base">ESMA and </span><span class="doceo-font-family-base doceo-font-size-base">EBA</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Fines</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Periodic penalty payments</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Disclosure, nature, enforcement and allocation of fines and periodic penalty payments</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Procedural rules for taking supervisory measures and imposing fines</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Hearing of persons concerned</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Review by the Court of Justice</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Supervisory fees</span></li>
-<li><span class="doceo-font-family-base doceo-font-size-base">Delegation of tasks by ESMA and EBA to competent authorities</span></li>
-<li>etcetera!</li>
-</ul>
-<hr>
-<h3>Additional reading</h3>
-<ul>
-<li>For the curious, here you can find the latest version (including -very interesting- amendments): <a href="https://www.europarl.europa.eu/doceo/document/A-9-2022-0052_EN.html#_section1" target="_blank" rel="noopener noreferrer">DRAFT EUROPEAN PARLIAMENT LEGISLATIVE RESOLUTION on the proposal for a regulation of the European Parliament and of the Council on markets in crypto-assets and amending Directive (EU) 2019/1937</a></li>
-<li>For the banking enthusiasts: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021AB0004&amp;from=EN">Opinion of the European Central Bank of 19 February 2021 on a proposal for a regulation on Markets in Crypto-assets, and amending Directive (EU) 2019/1937 (CON/2021/4) 2021/C 152/01</a></li>
-<li><span class="notion-enable-hover" data-token-index="0" data-reactroot="">For the privacy enthusiasts: <a href="https://edps.europa.eu/system/files/2021-06/21-06-24_edps_opinion_mica_en.pdf">European Data Protection Supervisor (EDPS) Opinion on the Proposal for a Regulation on Markets in Crypto-assets, and amending Directive (EU) 2019/1937</a> </span></li>
-<li>Yet another summary, this time by BNP Paribas Corporate &amp; Institutional Banking: <a href="https://securities.cib.bnpparibas/markets-in-crypto-assets-regulation/">MiCA – Markets in Crypto-Assets regulation memo</a>  </li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/crypto-exchange?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a><a href="https://www.nortonrosefulbright.com/en/knowledge/publications/03f73e05/mica-regulating-provision-of-services-in-crypto-assets"></a></p>
 <p> </p>
             ]]>
         </content>
