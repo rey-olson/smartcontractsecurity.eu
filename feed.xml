@@ -119,18 +119,51 @@
         </content>
     </entry>
     <entry>
-        <title>QuillAudit&#x27;s Smart Contract Auditor Roadmap</title>
+        <title>Bridge Security Introduction by Spearbit</title>
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://smartcontractsecurity.eu/quillaudits-smart-contract-auditor-roadmap/"/>
-        <id>https://smartcontractsecurity.eu/quillaudits-smart-contract-auditor-roadmap/</id>
+        <link href="https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/"/>
+        <id>https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/</id>
+            <category term="Security"/>
+            <category term="Bridges"/>
+
+        <updated>2022-12-05T22:15:08+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/67/richard-lee-C_q-e_aBRcA-unsplash.jpg" alt="" />
+                <p><a href="https://spearbit.com">Spearbit </a>held another <strong>Bridge Security Roundtable</strong> 👇</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="zxx"><a href="https://t.co/lGeyOH4AQZ">https://t.co/lGeyOH4AQZ</a></p>
+— Spearbit (@SpearbitDAO) <a href="https://twitter.com/SpearbitDAO/status/1598360365758226433?ref_src=twsrc%5Etfw">December 1, 2022</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>At the same time they published two new guides:</p>
+<ul>
+<li><a href="https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityIntroduction.md">Bridge Security Introduction</a></li>
+<li><a href="https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md"></a><a href="https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md">Bridge Security Checklist </a></li>
+</ul>
+<p>Do not forget to drop by the Spearbit <a href="https://discord.gg/spearbit">Discord</a>! </p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Richard Lee</a> on <a href="https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Smart Contract Auditor Roadmap by QuillAudit</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/"/>
+        <id>https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/</id>
             <category term="Solidity"/>
             <category term="Security"/>
             <category term="Lists"/>
             <category term="Ethereum"/>
 
-        <updated>2022-11-23T17:23:38+01:00</updated>
+        <updated>2022-12-05T22:15:39+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -178,7 +211,7 @@
         <id>https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/</id>
             <category term="Regulation"/>
 
-        <updated>2022-11-14T22:02:12+01:00</updated>
+        <updated>2022-12-05T22:21:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -211,16 +244,18 @@
             <category term="Security"/>
             <category term="DeFi"/>
 
-        <updated>2022-11-14T20:01:17+01:00</updated>
+        <updated>2022-12-05T21:35:29+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/62/YEARN_LOGO_BLUE_RGB_SMALL.png" alt="" />
+                    <img src="https://smartcontractsecurity.eu/media/posts/62/agnis-leznins-Lf6iovoj-Qg-unsplash.jpg" alt="" />
                 <p>Super interesting talk by <a href="https://github.com/yearn/yearn-security/blob/master/SECURITY.md">storm0x </a>about Yearn's risk based approach to security. It explains their security due diligence process before launching new vaults etc.</p>
 <p>It strongly reminds me of what the folks at <a href="https://www.defisafety.com/">https://www.defisafety.com/</a> are doing. It all seems very logical from a process point-of-view.</p>
 <p>While you cannot, never ever, guarantee 100% "safety" or "security", you can very well try your damndest...</p>
 <p>storm0x's talk is one of the many from <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022</a> 👈</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/j90Bdv13gC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@agnis_leznins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Agnis Leznins</a> on <a href="https://unsplash.com/s/photos/japan-rain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
@@ -267,7 +302,7 @@
         <id>https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/</id>
             <category term="Regulation"/>
 
-        <updated>2022-11-14T20:05:37+01:00</updated>
+        <updated>2022-12-05T22:23:04+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -286,14 +321,6 @@
 </td>
 <td valign="top">
 <p class="oj-normal">DLT market infrastructures should have <strong>specific and robust IT and cyber arrangements</strong> related to the use of distributed ledger technology. Such arrangements should be proportionate to the nature, scale and complexity of the business plan of the operator of the DLT market infrastructure. Those arrangements should also <strong>ensure the continuity and continued transparency, availability, reliability and security of the services</strong> provided, including the <strong>reliability of any smart contracts</strong> that are used, <span style="text-decoration: underline;">irrespective of whether those smart contracts are created by the DLT market infrastructure itself or by a third party following outsourcing</span> procedures. DLT market infrastructures should also <strong>ensure the integrity, security, confidentiality, availability and accessibility of data stored on the distributed ledger</strong>. The competent authority for a DLT market infrastructure should be <strong>allowed to require an audit</strong> to ensure that the overall IT and cyber arrangements of the DLT market infrastructure are <span style="text-decoration: underline;">fit for purpose</span>. The costs of the audit should be borne by the operator of the DLT market infrastructure.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="oj-normal"> </p>
-</td>
-<td>
-<p class="oj-normal"> </p>
 </td>
 </tr>
 </tbody>
@@ -319,7 +346,7 @@
             <category term="Security"/>
             <category term="Bridges"/>
 
-        <updated>2022-11-14T21:11:38+01:00</updated>
+        <updated>2022-12-05T22:17:13+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -329,8 +356,11 @@
 <p class="style-scope ytd-watch-metadata"><strong>Understanding Bridge Security with Connext's Arjun Bhuptani</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gQzRpU6GYhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=0s" dir="auto">0:00</a><span class="style-scope yt-formatted-string" dir="auto"> Intro<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=94s" dir="auto">1:34</a><span class="style-scope yt-formatted-string" dir="auto"> Background<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=435s" dir="auto">7:15</a><span class="style-scope yt-formatted-string" dir="auto"> Current bridge landscape</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=811s" dir="auto">13:31</a><span class="style-scope yt-formatted-string" dir="auto"> The next thing: Optimistic bridge</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1200s" dir="auto">20:00</a><span class="style-scope yt-formatted-string" dir="auto"> Why 30 minute window ? Non-technical ways to mitigate the risk<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1580s" dir="auto">26:20</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Veryfing off chain with more conviction<br></span> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1808s" dir="auto">30:08</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Centralized wallet integration - transaction valid before the time limit<br></span> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1983s" dir="auto">33:03</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Complexity comparisson</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2407s" dir="auto">40:07</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Standards accross chains</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2534s" dir="auto">42:14</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Bridges as fundamental blocks between nation states</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2656s" dir="auto">44:16</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Are you just proving the state of the bridge on one side of the other?</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2744s" dir="auto">45:44</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Approach for audit orgs</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2852s" dir="auto">47:32</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Recommended training curicculum</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3075s" dir="auto">51:15</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Type of hacks:</span> <br><span class="style-scope yt-formatted-string" dir="auto"> - implementation hacks (ex. Poly Network)<br>- </span><span class="style-scope yt-formatted-string" dir="auto">complexity of dependencies (ex. Wormhole hack)</span> <br><span class="style-scope yt-formatted-string" dir="auto"> - compromise root of trust (ex. Ronin)<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3324s" dir="auto">55:24</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Technical risks vs social engineering/corparate risks</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3517s" dir="auto">58:37</a><span class="style-scope yt-formatted-string" dir="auto"> Wrap up</span></p>
+<h3>Additional viewing</h3>
+<p>Here is another panel discussion about bridges featuring Connext's <a href="https://twitter.com/LayneHaber">Layne Haber</a> @ <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022</a>: </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/RHptzk1HkPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <hr>
-<p>Holy cow, Arjun and his friend have a Twitter account called <a href="https://twitter.com/BridgeArsonists">"Burning Bridges"</a>, <em>e</em><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><em>ducating users about bridging architectures, one hack at a time</em>🔥</span></p>
+<p>Arjun and his friend have a Twitter account called <a href="https://twitter.com/BridgeArsonists">"Burning Bridges"</a>, <em>e</em><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><em>ducating users about bridging architectures, one hack at a time</em>🔥</span></p>
 <p>Photo by <a href="https://unsplash.com/@angelopantazis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Angelo Pantazis</a> on <a href="https://unsplash.com/s/photos/causeway?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p> </p>
             ]]>
@@ -346,12 +376,12 @@
             <category term="Security"/>
             <category term="Regulation"/>
 
-        <updated>2022-11-14T20:08:07+01:00</updated>
+        <updated>2022-12-05T22:35:07+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://smartcontractsecurity.eu/media/posts/55/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" alt="" />
-                <p>The <strong>Digital Operational Resilience Act, </strong> in short DORA, is (currently still draft) regulation that aims to strengthen the resilience of the financial sector. This because the financial sector as a whole extensively relies on ICT, which brings its own set of risks.</p>
+                <p>The <strong>Digital Operational Resilience Act, </strong> in short DORA, is new regulation that aims to strengthen the resilience of the financial sector. This because the financial sector as a whole extensively relies on ICT, which brings its own set of risks.</p>
 <p>DORA is actually part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a> (which also focuses on crypto-assets), and tries to align several ongoing security / resilience related initiatives:</p>
 <ul>
 <li>EBA guidelines on ICT and security risk management</li>
@@ -428,34 +458,6 @@
 </ul>
 <hr>
 <p>You can download a copy of the proposed regulation here: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0595">Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014 and (EU) No 909/2014</a> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Web3 Security Library by Immunefi</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/web3-security-library-by-immunefi/"/>
-        <id>https://smartcontractsecurity.eu/web3-security-library-by-immunefi/</id>
-            <category term="Security"/>
-            <category term="Lists"/>
-
-        <updated>2022-11-14T20:07:45+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/57/Immunefi-png.png" alt="" />
-                <p>Another list with Web3 security resources. I like the idea of the community being able to contribute with information/articles/... </p>
-<p>Direct link: <a href="https://github.com/immunefi-team/Web3-Security-Library">https://github.com/immunefi-team/Web3-Security-Library</a></p>
-<p> </p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Immunefi is proud to present the Web3 Security Library, which aims to be the go-to resource for Web3 security.<br><br>You can access the repository here: <a href="https://t.co/4nI5ZpeZHh">https://t.co/4nI5ZpeZHh</a><br>Keep an eye on the repository as we will regularly update it with new resources 📚</p>
-— Immunefi (@immunefi) <a href="https://twitter.com/immunefi/status/1583139374866526208?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote>
-<p>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-<p> </p>
             ]]>
         </content>
     </entry>
