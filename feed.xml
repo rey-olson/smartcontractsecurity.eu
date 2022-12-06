@@ -119,6 +119,35 @@
         </content>
     </entry>
     <entry>
+        <title>Account Abstraction by Julien Niset (Argent)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/"/>
+        <id>https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2022-12-06T19:04:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/68/ivy-barn-u8hO6z05VH0-unsplash.jpg" alt="" />
+                <p><a href="https://twitter.com/jniset">Julien Niset</a> from <a href="https://www.argent.xyz/">Argent</a> wrote an educational blog series about <strong>account abstraction</strong>:</p>
+<h3><strong><a href="https://www.argent.xyz/blog/wtf-is-account-abstraction/">Part I: WTF is Account Abstraction</a></strong></h3>
+<p><em>Learn why it’s a game changer for crypto's adoption</em></p>
+<h3 class="css-3gmyo1"><a href="https://www.argent.xyz/blog/part-2-wtf-is-account-abstraction/">Part 2: WTF is Account Abstraction</a></h3>
+<p class="css-gul5wb"><em>The challenges of bringing Account Abstraction to Ethereum</em></p>
+<h3 class="css-3gmyo1"><a href="https://www.argent.xyz/blog/part-3-wtf-is-account-abstraction/">Part 3: WTF is Account Abstraction</a></h3>
+<p class="css-gul5wb"><em>Scaling the UX and security of crypto by 10X</em></p>
+<hr>
+<p>Argent has a decent newsletter that is actually <strong>not boring. </strong>You can find it <a href="https://www.argent.xyz/blog/tag/newsletter/">here</a>. </p>
+<p>It is also interesting to see what they are doing with <a href="https://www.argent.xyz/argent-x/">Argent X</a>, their StarkNet (L2) wallet</p>
+<p>Photo by <a href="https://unsplash.com/@ivybarn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ivy Barn</a> on <a href="https://unsplash.com/s/photos/prism-asia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Bridge Security Introduction by Spearbit</title>
         <author>
             <name>Anonymous</name>
@@ -337,16 +366,16 @@
         </content>
     </entry>
     <entry>
-        <title>Understanding Bridge Security with Connext&#x27;s Arjun Bhuptani</title>
+        <title>Understanding Bridge Security by Arjun Bhuptani (Connext)</title>
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://smartcontractsecurity.eu/understanding-bridge-security-with-connexts-arjun-bhuptani/"/>
-        <id>https://smartcontractsecurity.eu/understanding-bridge-security-with-connexts-arjun-bhuptani/</id>
+        <link href="https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/"/>
+        <id>https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/</id>
             <category term="Security"/>
             <category term="Bridges"/>
 
-        <updated>2022-12-05T22:17:13+01:00</updated>
+        <updated>2022-12-06T14:01:52+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -363,101 +392,6 @@
 <p>Arjun and his friend have a Twitter account called <a href="https://twitter.com/BridgeArsonists">"Burning Bridges"</a>, <em>e</em><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><em>ducating users about bridging architectures, one hack at a time</em>🔥</span></p>
 <p>Photo by <a href="https://unsplash.com/@angelopantazis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Angelo Pantazis</a> on <a href="https://unsplash.com/s/photos/causeway?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Digital Operational Resilience Act (DORA)</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/"/>
-        <id>https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/</id>
-            <category term="Security"/>
-            <category term="Regulation"/>
-
-        <updated>2022-12-05T22:35:07+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/55/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" alt="" />
-                <p>The <strong>Digital Operational Resilience Act, </strong> in short DORA, is new regulation that aims to strengthen the resilience of the financial sector. This because the financial sector as a whole extensively relies on ICT, which brings its own set of risks.</p>
-<p>DORA is actually part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a> (which also focuses on crypto-assets), and tries to align several ongoing security / resilience related initiatives:</p>
-<ul>
-<li>EBA guidelines on ICT and security risk management</li>
-<li>NIS Directive (and the upcoming NIS2 directive)</li>
-<li>EBA guidelines on outsourcing</li>
-<li>(and others)</li>
-</ul>
-<p class="msg msg--info"><strong>Fun fact: </strong>DORA applies to "crypto-asset service providers, issuers of crypto-assets, issuers of asset-referenced tokens and issuers of significant asset-referenced tokens"</p>
-<p>Now, on to the interesting parts, DORA prescribes the following requirements.</p>
-<p><em>Please note that these requirements are actually nothing new for existing financial institutions (TradFi). DORA will more or less align and/or streamline current security &amp; IT risk measures which is a welcome change for once. 👍</em></p>
-<h4><strong>ICT risk management</strong></h4>
-<ul>
-<li>Governance and organisation</li>
-<li>ICT risk management framework</li>
-<li>ICT systems, protocols and tools</li>
-<li>Identification</li>
-<li>Protection and prevention</li>
-<li>Detection</li>
-<li>Response and recovery</li>
-<li>Backup policies, restoration and recovery methods</li>
-<li>Learning and evolving</li>
-<li>Communication</li>
-<li>Further organisation of ICT risk management tools, methods, processes and policies</li>
-<li>Simplified ICT risk management framework</li>
-</ul>
-<h4><strong>ICT-related incident management, classification and reporting</strong></h4>
-<ul>
-<li>ICT-related incident management process</li>
-<li>Classification of ICT-related incidents and cyber threats</li>
-<li>Reporting of major ICT-related incidents and voluntary notification of significant cyber threats</li>
-<li>Harmonisation of reporting content and templates</li>
-<li>Centralisation of reporting of major ICT-related incidents</li>
-<li>Supervisory feedback</li>
-<li>Operational or security payment-related incidents concerning credit institutions, payment institutions, account information service providers, and electronic money institutions</li>
-</ul>
-<h4><strong>Digital operational resilience testing</strong></h4>
-<ul>
-<li>General requirements for the performance of digital operational resilience testing</li>
-<li>Testing of ICT tools and systems</li>
-<li>Advanced testing of ICT tools, systems and processes based on threat led penetration testing</li>
-<li>Requirements for testers</li>
-</ul>
-<h4><strong>ICT third-party risk</strong></h4>
-<h6>Key principles for sound management of ICT third party risk</h6>
-<ul>
-<li>General principles</li>
-<li>Preliminary assessment of ICT concentration risk and further sub-outsourcing arrangements</li>
-<li>Key contractual provisions</li>
-</ul>
-<h6>Oversight framework of critical ICT third-party service providers</h6>
-<ul>
-<li>Designation of critical ICT third-party service providers</li>
-<li>Structure of the Oversight Framework</li>
-<li>Tasks of the Lead Overseer</li>
-<li>Powers of the Lead Overseer</li>
-<li>Request for Information</li>
-<li>General investigations </li>
-<li> On-site inspections </li>
-<li> Ongoing Oversight </li>
-<li>Harmonisation of conditions enabling the conduct of the Oversight</li>
-<li> Follow-up by competent authorities </li>
-<li> Oversight fees </li>
-<li> International cooperation </li>
-</ul>
-<h4><strong>Information sharing</strong></h4>
-<ul>
-<li>Information-sharing arrangements on cyber threat information and intelligence</li>
-</ul>
-<h4>Competent authorities</h4>
-<ul>
-<li>
-<p class="Titrearticle">Another 9 articles 😅, but the most important aspects are: Administrative penalties (including criminal penalties) and remedial measures</p>
-</li>
-</ul>
-<hr>
-<p>You can download a copy of the proposed regulation here: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0595">Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014 and (EU) No 909/2014</a> </p>
             ]]>
         </content>
     </entry>
