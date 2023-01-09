@@ -28,7 +28,7 @@
 <p>I am still thinking about:</p>
 <ol>
 <li>How to best structure posts. One aspect is that alot of these resources are also on other's guides (e.g. see <a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it's a big issue. Each of these items is worthy of a blog post, as there is alot of content to cover.</li>
-<li>I reckon the Publii theme I've chosen is not the most sensible one from a UX perspective (especially on Mobile), but I'll see how it goes... 🙈</li>
+<li>I reckon the Publii theme I've chosen is not the most sensible one from a UX perspective (especially on mobile), but I'll see how it goes... 🙈</li>
 </ol>
 <p><strong>General</strong></p>
 <ul>
@@ -48,7 +48,7 @@
 <p><strong>Security</strong></p>
 <ul>
 <li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph">https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️-&gt;<a href="https://smartcontractsecurity.eu/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️-&gt; <a href="https://smartcontractsecurity.eu/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
 <li><a href="https://docs.openzeppelin.com/contracts/4.x/">https://docs.openzeppelin.com/contracts/4.x/</a> </li>
 <li><a href="https://docs.openzeppelin.com/learn/developing-smart-contracts">https://docs.openzeppelin.com/learn/developing-smart-contracts</a> </li>
 <li><a href="https://docs.soliditylang.org/en/latest/security-considerations.html">https://docs.soliditylang.org/en/latest/security-considerations.html#</a> </li>
@@ -115,6 +115,155 @@
 <hr>
 <p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Diving into the security and audit services proposals for Compound DAO</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/security-and-audit-services-for-compound-dao/"/>
+        <id>https://smartcontractsecurity.eu/security-and-audit-services-for-compound-dao/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+            <category term="DeFi"/>
+
+        <updated>2023-01-09T21:37:14+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/70/arnie-chou-6rw3gljpeX8-unsplash.jpg" alt="" />
+                <h3>Introduction</h3>
+<p>Liam (<a href="https://twitter.com/0xleastwood">0xleastwood</a>) shared a post in the <a href="https://spearbit.com">Spearbit </a>Discord that <a href="https://www.openzeppelin.com/">OpenZeppelin </a>succesfully extended its audit mandate for the Compound Protocol in Q1 2023 (for the mere sum of... <strong>$1,000,000 per quarter 😏</strong>)</p>
+<ul>
+<li><a href="https://www.comp.xyz/t/openzeppelin-security-partnership-q1-2023-compensation-proposal/3825" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">https://www.comp.xyz/t/openzeppelin-security-partnership-q1-2023-compensation-proposal/3825</a></li>
+<li><a href="https://compound.finance/governance/proposals/139">https://compound.finance/governance/proposals/139</a> </li>
+</ul>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/70/compound-finance-logo-small-3.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/70/responsive/compound-finance-logo-small-3-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/70/responsive/compound-finance-logo-small-3-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/70/responsive/compound-finance-logo-small-3-md.png 768w"  alt="" width="480" height="252"></figure>
+<h3>OpenZeppelin vs Trail of Bits vs ChainSecurity</h3>
+<p>The extension refers to the original proposal from November 2021, wherein several audit firms were bidding to support Compound (after suffering an exploit, Compound was looking for help to improve their security practices):</p>
+<ul>
+<li><a href="https://www.comp.xyz/t/auditing-compound-protocol/2543">https://www.comp.xyz/t/auditing-compound-protocol/2543</a></li>
+</ul>
+<p class="msg msg--highlight ">A notable post in the thread is where Compound realizes it does not have a proper (if any) vendor selection process (<a href="https://www.comp.xyz/t/auditing-compound-protocol/2543/35">https://www.comp.xyz/t/auditing-compound-protocol/2543/35)</a> . For the mere sum of <strong>$75,000😅</strong> a DAO contributor (<a href="https://www.reverie.ooo" target="_blank" rel="noopener noreferrer">Reverie</a>) sets this up for Compound DAO. Apparently reaching out to three (oh dear, three!) audit firms and explaining Compound DAO's requirements, is worth quite alot of $$$. But I digress.</p>
+<h3>Comparing offers</h3>
+<p>Let us dive into what OpenZeppelin, <a href="https://www.trailofbits.com/">Trail of Bits</a> and <a href="https://chainsecurity.com/">ChainSecurity </a>are actually offering, summarized.</p>
+<h4>OpenZeppelin</h4>
+<p>In their <a href="https://docs.google.com/document/d/1HVeQ5rbdzN2m7AR06eF-lbQHwFKZdvDj7WEiyMGdBdA/edit" target="_blank" rel="noopener noreferrer">final offer</a>, OpenZeppelin (OZ) proposes the following services: </p>
+<ul>
+<li>DAO Security Advisory
+<ul>
+<li>Dedicated security advisor who will:
+<ul>
+<li><span style="font-weight: 400;">Smooth incorporation of continuous audits in the DAO governance process</span></li>
+<li><span style="font-weight: 400;">Documenting and iterating security requirements and best practices</span></li>
+</ul>
+</li>
+<li>Audit Suite &amp; Security Coordination</li>
+</ul>
+</li>
+<li>Protocol audits
+<ul>
+<li>Review new governance proposals and write security reports</li>
+</ul>
+</li>
+<li>Security monitoring (based on OZ's Forta)</li>
+</ul>
+<p>Interesting tidbits:</p>
+<ul>
+<li><span style="text-decoration: underline;">Pricing:</span> $1M per quarter. OZ doesn't provide a full break down of costs (or provide estimations). So it is not totally transparent. There has been plenty of discussion on the initial pricing model (i.e. performance fee which was removed after community feedback). OZ openly states they charge approx. between $30,000 - $35,000/week for their audit services.</li>
+<li><span style="text-decoration: underline;">Terms of Service (§ dispute resolution):</span> claims cannot be settled in court (before a judge or jury), but only through legally binding arbitration. Not sure, how common this is for blockchain companies, but it sounds like some VC bullshit to me 🤷‍♂️.</li>
+<li><span style="text-decoration: underline;">Scope:</span> setting up a bug bounty program is out-of-scope, as is emergency/security response. OZ's rationale is included the FAQ. The latter I understand, but the former is a bit strange, if you aim to offer all-encompassing security services. Perhaps the bug bounty part would increase the proposed fee too much, I'm not sure (it's already $1M per quarter so...).</li>
+</ul>
+<h4>ChainSecurity</h4>
+<p>In their <a href="https://compound.finance/governance/proposals/75" target="_blank" rel="noopener noreferrer">offer</a>, ChainSecurity (CS) proposes the following services: </p>
+<ul>
+<li>Training: 2 auditors will be trained to perform a full audit of the Compound protocol and to establish an audit suite (which is composed of all the tests that are run by the auditors)</li>
+<li>Retainer (note: for these 2 auditors): to review Compound improvement proposals and to improve test suite (24 mandays per month per auditor @ $300,000 per quarter. ~ $20,000/week of $4167/manday)</li>
+<li>CS also proposed that Compound DAO hires an external service provider as a security program manager (with project management &amp; IT security expertise), compensated for $80,000 per year (or $20,000</li>
+</ul>
+<p>Interesting tidbits:</p>
+<ul>
+<li><span style="text-decoration: underline;">Pricing:</span> the proposed fee is substantially lower: approx. $620,000 per quarter <em>(2 x $300,000 auditor salary + $20,000 program manager salary)</em></li>
+<li><span style="text-decoration: underline;">Overall:</span> content wise it is probably on point, but the proposal seems a bit rough on the edges, especially compared to the competition <em>(maybe due to time constraints?)</em></li>
+<li><span style="text-decoration: underline;">Review process:</span> CS provides a a nice visual overview of the process they suggest<br><a href="https://www.comp.xyz/t/auditing-compound-protocol/2543/27?u=chainsecurity#suggested-process-in-a-nutshell-3"><figure class="post__image post__image--center"><img loading="lazy"  src="https://global.discourse-cdn.com/standard17/uploads/compoundcommunity/optimized/1X/1fda1bcce6fca61414022996c61847e6fbec1a0d_2_1035x582.jpeg" data-is-external-image="true"  alt="" width="1035" height="582"></figure></a></li>
+<li><span style="text-decoration: underline;">Terms of business:</span> while difficult to find (thank you <a href="https://webcache.googleusercontent.com/search?q=cache:LXQlda4ixMYJ:https://chainsecurity.com/wp-content/uploads/2022/01/DS_TermsofBusiness2022.pdf">Google cache</a>!), these terms contain much more usual/common/standard clauses (e.g. Swiss law applies, disputes are to be settled before court in Zurich).</li>
+</ul>
+<h4>Trail of Bits (ToB)</h4>
+<p>In their <a href="https://compound.finance/governance/proposals/77">offer</a>, Trail of Bits (ToB) proposes the following services: </p>
+<ul>
+<li>
+<div class="details-panel__description__header">Consulting services</div>
+<ul>
+<li>Maintain a presence on Discord and the Compound forums</li>
+<li>Provide proposal authors with 1:1 counseling sessions</li>
+<li>Review and report any identified security issues in the code for proposals</li>
+<li>Define security properties for proposals</li>
+<li>Document “Security Considerations” for every proposal</li>
+<li>Provide our analysis directly to the community</li>
+<li>Host bi-weekly Office Hours with developers</li>
+<li>Evaluate new security techniques for adoption by Compound</li>
+<li>Ad-hoc services sourced from across ToB</li>
+</ul>
+</li>
+<li>Security engineering
+<ul>
+<li>Ensure that <a class="details-panel__link" target="__blank" rel="external" href="https://github.com/crytic/slither">Slither</a>, our static analysis framework, and <a class="details-panel__link" target="__blank" rel="external" href="https://github.com/crytic/echidna">Echidna</a>, our rapid security property tester, always work on Compound code</li>
+<li>Customize Slither and Echidna to the Compound codebase</li>
+<li>Customize Slither to evaluate the security of upgrades</li>
+<li>Develop scaffolding for new proposals with pre-integrated security analyses from Slither, Echidna, Certora, or others, as appropriate</li>
+<li>Continuously define and evaluate security properties across the Compound codebase with analyses from Slither, Echidna, Certora, or other techniques, as appropriate</li>
+</ul>
+</li>
+<li>Establish repeatable processes for:
+<ul>
+<li>Design a repeatable process for starting a new proposal. </li>
+<li>Design a repeatable process for proposal <a class="details-panel__link" target="__blank" rel="external" href="https://github.com/cncf/tag-security/blob/main/assessments/guide/self-assessment.md">self-assessment</a></li>
+<li>Design a repeatable process for risk assessment by the community.</li>
+<li>Design a repeatable process for evaluating <a class="details-panel__link" target="__blank" rel="external" href="https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md">third-party protocol integration risks</a>. </li>
+<li>Design a repeatable process for other protocols to securely integrate with Compound. </li>
+<li>Regularly update a “treasure map” for bug hunting in Compound.</li>
+</ul>
+</li>
+</ul>
+<p>Interesting tidbits:</p>
+<ul>
+<li><span style="text-decoration: underline;">Presentation:</span> ToB did a presentation on their proposal during Compound Community Dev Call, it is valuable <a href="https://www.comp.xyz/t/auditing-compound-protocol/2543/30">to hear their arguments.</a> </li>
+<li><span style="text-decoration: underline;">Pricing:</span> identical to OZ's offering; $1M per quarter <em>(oof...)</em></li>
+</ul>
+<h3>Closing thoughts</h3>
+<ul>
+<li>This seems like a messy/chaotic/tumultious/ ... request for proposal process <em>(note: messy is okay! DAO's are still people interacting with each other, over the internet, so misunderstandings are the rule, not the exception).</em> E.g. I have been reading and re-reading OZ's final offer and you can see that the contents of the proposal (significantly) changed during the request for proposal period documented in the forum discussion <em>(note: again, which is fine. That is why you have a request for information &amp; request for proposal process. There is nothing wrong in adapting your proposal to match evolving expectations)</em><br>I am genuinely interested in what exactly they produced for Compound DAO last year and if it (sufficiently) corresponds with what they promised in their final offer. I reckon all should be well, because they won the extension for Q1 2023, but still... I wouldn't be surprised if parties just vote yes and don't have a clue of what is actually going on <em>(note: this 100% speculation on my part)</em></li>
+<li>This is one of the articles where I've spent way too much time (too many hours over too many days), so I kind of lost track of the essence of this article ("what point am I trying to make for readers?"), but I decided to go through with it. At the very least, you get a summary of the different offers, and I saved you a couple of clicks so you don't need to comb through each document or forum post 🙃</li>
+</ul>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@arniechou?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">arnie chou</a> on <a href="https://unsplash.com/photos/6rw3gljpeX8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FSMA Communication: Classification of crypto-assets as securities, investment instruments or financial instruments</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/fsma-classification-of-crypto-assets-as-securities-investment-instruments-or-financial-instruments/"/>
+        <id>https://smartcontractsecurity.eu/fsma-classification-of-crypto-assets-as-securities-investment-instruments-or-financial-instruments/</id>
+            <category term="Regulation"/>
+
+        <updated>2022-12-06T21:51:24+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/69/FSMA.png" alt="" />
+                <p>The Belgian Financial Services and Markets Authority (FSMA) just released guidance on how to classify crypto-assets:</p>
+<ul>
+<li><a href="https://www.fsma.be/en/news/classification-crypto-assets-securities-investment-instruments-or-financial-instruments">https://www.fsma.be/en/news/classification-crypto-assets-securities-investment-instruments-or-financial-instruments</a> (EN)</li>
+<li><a href="https://www.fsma.be/fr/news/qualification-de-crypto-actifs-en-tant-que-valeurs-mobilieres-instruments-de-placement-ou">https://www.fsma.be/fr/news/qualification-de-crypto-actifs-en-tant-que-valeurs-mobilieres-instruments-de-placement-ou</a> (FR)</li>
+<li><a href="https://www.fsma.be/nl/news/kwalificatie-van-cryptoactiva-als-effecten-beleggingsinstrumenten-financiele-instrumenten">https://www.fsma.be/nl/news/kwalificatie-van-cryptoactiva-als-effecten-beleggingsinstrumenten-financiele-instrumenten</a> (NL)</li>
+</ul>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/69//FSMA-decision-tree.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/69//responsive/FSMA-decision-tree-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/69//responsive/FSMA-decision-tree-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/69//responsive/FSMA-decision-tree-md.png 768w"  alt="" width="640" height="487"></figure>
+<p class="msg msg--info">Spoiler alert: according to <a href="https://www.coindesk.com/policy/2022/11/24/bitcoin-ether-neednt-follow-financial-rules-belgian-regulator-says/">Coindesk </a>BTC and ETH are not considered as securities by the FSMA since there is "no issuer".</p>
             ]]>
         </content>
     </entry>
@@ -318,79 +467,6 @@
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </li>
 </ul>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/"/>
-        <id>https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/</id>
-            <category term="Regulation"/>
-
-        <updated>2022-12-05T22:23:04+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/58/ECB.jpg" alt="" />
-                <p><strong>Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</strong>, or short "DLT Pilot Regime", is another proposal that is part of the <a href="https://finance.ec.europa.eu/publications/digital-finance-package_en">EU Digital Finance Package</a>.</p>
-<p>Expected application date: March 2023</p>
-<h3>Summary</h3>
-<p>Please refer to <a href="https://www2.deloitte.com/lu/en/pages/financial-services/articles/dlt-pilot-regime-out-now-eu-digital-securities-metaverse.html">DLT Pilot regime released: how EU is preparing for tomorrow’s digital securities market</a> (Deloitte Luxembourg) for a succint analysis of this proposed regulation.</p>
-<p class="msg msg--info"><strong>Important distinction with MiCA<br><br></strong>DLT Pilot Regime provides a legal framework for the trading and settlement of transactions in those<strong> crypto-assets that qualify as financial instruments</strong> within the meaning of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0065&amp;from=DE">Directive 2014/65/EU ("MiFID II"), hence true digital securities.</a><br><br>For the <strong>other crypto-assets</strong> that do not qualify as financial instruments (such as stablecoins, e-money tokens and utility tokens), <strong>a dedicated regulatory framework at EU level </strong>(<strong>MiCA)</strong> is currently well underway. The overall objective of MiCA is to provide a harmonized EU framework for those crypto assets which are not currently captured by EU financial service legislation. <br><br>Source: Deloitte Luxembourg</p>
-<h3>Overview of information security &amp; IT risk requirements</h3>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top">
-<p class="oj-normal">(41)</p>
-</td>
-<td valign="top">
-<p class="oj-normal">DLT market infrastructures should have <strong>specific and robust IT and cyber arrangements</strong> related to the use of distributed ledger technology. Such arrangements should be proportionate to the nature, scale and complexity of the business plan of the operator of the DLT market infrastructure. Those arrangements should also <strong>ensure the continuity and continued transparency, availability, reliability and security of the services</strong> provided, including the <strong>reliability of any smart contracts</strong> that are used, <span style="text-decoration: underline;">irrespective of whether those smart contracts are created by the DLT market infrastructure itself or by a third party following outsourcing</span> procedures. DLT market infrastructures should also <strong>ensure the integrity, security, confidentiality, availability and accessibility of data stored on the distributed ledger</strong>. The competent authority for a DLT market infrastructure should be <strong>allowed to require an audit</strong> to ensure that the overall IT and cyber arrangements of the DLT market infrastructure are <span style="text-decoration: underline;">fit for purpose</span>. The costs of the audit should be borne by the operator of the DLT market infrastructure.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<hr>
-<h3>Additional reading</h3>
-<ul>
-<li>For the curious, here you can find the latest version: <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0858">Regulation (EU) 2022/858 of the European Parliament and of the Council of 30 May 2022 on a pilot regime for market infrastructures based on distributed ledger technology, and amending Regulations (EU) No 600/2014 and (EU) No 909/2014 and Directive 2014/65/EU</a></li>
-<li><span class="notion-enable-hover" data-token-index="0" data-reactroot="">For the privacy enthusiasts: </span><span class="field field--name-title field--type-string field--label-hidden"><a href="https://edps.europa.eu/data-protection/our-work/publications/opinions/edps-opinion-pilot-regime-market-infrastructures_en">EDPS Opinion on the Pilot regime for market infrastructures based on Distributed Ledger Technology</a></span></li>
-<li>For the further guidance on certain technical elements, and to read feedback from participants: <a href="https://www.esma.europa.eu/press-news/esma-news/esma-publishes-report-dlt-pilot-regime">ESMA report on the DLT Pilot Regime</a></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Understanding Bridge Security by Arjun Bhuptani (Connext)</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/"/>
-        <id>https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/</id>
-            <category term="Security"/>
-            <category term="Bridges"/>
-
-        <updated>2022-12-06T14:01:52+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/65/greece-bridge-cropped.png" alt="" />
-                <p><a href="https://spearbit.com">Spearbit </a>hosted this great presentation from <a href="https://twitter.com/arjunbhuptani/">Arjun Bhuptani</a> from <a href="https://www.connext.network/">Connext </a>about bridge security!</p>
-<p>I originally included this talk as additional <span style="text-decoration: line-through;">reading </span><em>viewing </em>in <a href="https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/">"The Anti-Ape on what's wrong with bridges"</a> but it really deserves a post on its own.</p>
-<p class="style-scope ytd-watch-metadata"><strong>Understanding Bridge Security with Connext's Arjun Bhuptani</strong></p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gQzRpU6GYhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<p><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=0s" dir="auto">0:00</a><span class="style-scope yt-formatted-string" dir="auto"> Intro<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=94s" dir="auto">1:34</a><span class="style-scope yt-formatted-string" dir="auto"> Background<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=435s" dir="auto">7:15</a><span class="style-scope yt-formatted-string" dir="auto"> Current bridge landscape</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=811s" dir="auto">13:31</a><span class="style-scope yt-formatted-string" dir="auto"> The next thing: Optimistic bridge</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1200s" dir="auto">20:00</a><span class="style-scope yt-formatted-string" dir="auto"> Why 30 minute window ? Non-technical ways to mitigate the risk<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1580s" dir="auto">26:20</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Veryfing off chain with more conviction<br></span> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1808s" dir="auto">30:08</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Centralized wallet integration - transaction valid before the time limit<br></span> <a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=1983s" dir="auto">33:03</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Complexity comparisson</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2407s" dir="auto">40:07</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Standards accross chains</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2534s" dir="auto">42:14</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Bridges as fundamental blocks between nation states</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2656s" dir="auto">44:16</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Are you just proving the state of the bridge on one side of the other?</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2744s" dir="auto">45:44</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Approach for audit orgs</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=2852s" dir="auto">47:32</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Recommended training curicculum</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3075s" dir="auto">51:15</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Type of hacks:</span> <br><span class="style-scope yt-formatted-string" dir="auto"> - implementation hacks (ex. Poly Network)<br>- </span><span class="style-scope yt-formatted-string" dir="auto">complexity of dependencies (ex. Wormhole hack)</span> <br><span class="style-scope yt-formatted-string" dir="auto"> - compromise root of trust (ex. Ronin)<br></span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3324s" dir="auto">55:24</a><span class="style-scope yt-formatted-string" dir="auto"> Q&amp;A: Technical risks vs social engineering/corparate risks</span><br><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/watch?v=gQzRpU6GYhc&amp;t=3517s" dir="auto">58:37</a><span class="style-scope yt-formatted-string" dir="auto"> Wrap up</span></p>
-<h3>Additional viewing</h3>
-<p>Here is another panel discussion about bridges featuring Connext's <a href="https://twitter.com/LayneHaber">Layne Haber</a> @ <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022</a>: </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/RHptzk1HkPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p>Arjun and his friend have a Twitter account called <a href="https://twitter.com/BridgeArsonists">"Burning Bridges"</a>, <em>e</em><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"><em>ducating users about bridging architectures, one hack at a time</em>🔥</span></p>
-<p>Photo by <a href="https://unsplash.com/@angelopantazis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Angelo Pantazis</a> on <a href="https://unsplash.com/s/photos/causeway?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p> </p>
             ]]>
         </content>
