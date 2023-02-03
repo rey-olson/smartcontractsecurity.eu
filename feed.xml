@@ -119,7 +119,33 @@
         </content>
     </entry>
     <entry>
-        <title>Diving into the security and audit services proposals for Compound DAO</title>
+        <title>Awesome Account Abstraction by 4337 Mafia</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/"/>
+        <id>https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/</id>
+            <category term="Security"/>
+            <category term="Lists"/>
+            <category term="Ethereum"/>
+
+        <updated>2023-02-03T12:49:37+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/71/tim-johnson-of92n78h8mk-unsplash.jpg" alt="" />
+                <p>So you liked Argent's <a href="https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/" target="_blank" rel="noopener noreferrer">article series</a> about<strong> account abstraction</strong>?</p>
+<p>Here is another <em>massive </em>resource compiled by <a href="https://twitter.com/4337Mafia">@4337Mafia</a>:</p>
+<p><a href="https://github.com/4337Mafia/awesome-account-abstraction">https://github.com/4337Mafia/awesome-account-abstraction</a> </p>
+<p dir="auto">It talks about the EIP-4337 standard <em>(you see what he did there?)</em> and contains a ton of articles, videos and code examples with regard to account abstraction.<strong><br></strong></p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/photos/of92n78h8mk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<p dir="auto"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Security and Audit Services for Compound DAO</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -129,7 +155,7 @@
             <category term="Ethereum"/>
             <category term="DeFi"/>
 
-        <updated>2023-01-09T21:37:14+01:00</updated>
+        <updated>2023-02-03T10:16:36+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -434,40 +460,6 @@
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/j90Bdv13gC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@agnis_leznins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Agnis Leznins</a> on <a href="https://unsplash.com/s/photos/japan-rain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/"/>
-        <id>https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/</id>
-            <category term="Regulation"/>
-
-        <updated>2022-11-14T20:02:17+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/61/bud-helisson-kqguzgvYrtM-unsplash.jpg" alt="" />
-                <p>This study, released by the European Commission, is quite an interesting read. It tries to make sense of blockchain(s), smart contracts and their legal implication in the current <a href="https://en.wikipedia.org/wiki/Digital_Single_Market">'Digital Single Market'</a>.</p>
-<p><a href="https://digital-strategy.ec.europa.eu/en/library/smart-contracts-and-digital-single-market-through-lens-law-plus-technology-approach">https://digital-strategy.ec.europa.eu/en/library/smart-contracts-and-digital-single-market-through-lens-law-plus-technology-approach</a> </p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/61/smart-contract-topology-thibault-schrepel.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/61/responsive/smart-contract-topology-thibault-schrepel-md.png 768w"  alt="" width="1417" height="1140">
-<figcaption ><span id="citation-content">European Commission, Directorate-General for Communications Networks, Content and Technology, Schrepel, T., Smart contracts and the digital single market through the lens of a “law + technology” approach, Publications Office of the European Union, 2021, <a target="_blank" href="https://data.europa.eu/doi/10.2759/562748" rel="noopener">https://data.europa.eu/doi/10.2759/562748</a></span></figcaption>
-</figure>
-<hr>
-<h3>Additional reading</h3>
-<ul>
-<li><a href="https://www.taylorwessing.com/en/interface/2022/smart-contracts/smart-contracts-in-the-data-act">Smart contracts in the EU Data Act (Alexander Schmalenberger, TaylorWessing)</a> </li>
-<li>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Now, this is absolutely huge / controversial. It imposes smart contracts (that make data available) to be stoppable. So... basically, all oracles *shall* be redesigned (but how?) or else they will infringe the law. <a href="https://twitter.com/hashtag/dataact?src=hash&amp;ref_src=twsrc%5Etfw">#dataact</a> <a href="https://twitter.com/CoinDesk?ref_src=twsrc%5Etfw">@CoinDesk</a> <a href="https://twitter.com/Cointelegraph?ref_src=twsrc%5Etfw">@Cointelegraph</a> <a href="https://twitter.com/decryptmedia?ref_src=twsrc%5Etfw">@decryptmedia</a> <a href="https://t.co/AZMOoKTsi6">pic.twitter.com/AZMOoKTsi6</a></p>
-— Thibault Schrepel (@ProfSchrepel) <a href="https://twitter.com/ProfSchrepel/status/1497222555844886558?ref_src=twsrc%5Etfw">February 25, 2022</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</li>
-</ul>
-<p> </p>
             ]]>
         </content>
     </entry>
