@@ -119,6 +119,81 @@
         </content>
     </entry>
     <entry>
+        <title>Building Secure Smart Contracts by Trail of Bits</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/"/>
+        <id>https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/</id>
+            <category term="Solana"/>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2023-02-27T20:32:32+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/73/raimond-klavins-WgFwcIozP-o-unsplash.jpg" alt="" />
+                <p><a href="https://trailofbits.com">Trail of Bits</a> launched a revamped version of its Github repository with secure development guidelines and other best practices to write secure smart contracts:</p>
+<p><a href="https://secure-smartcontracts.com"><strong>https://secure-smartcontracts.com</strong></a><strong> </strong><em>(Feel free to <a href="https://github.com/crytic/building-secure-contracts/blob/master/CONTRIBUTING.md">contribute</a> to the repo!)</em></p>
+<p>With no further ado I present you its <strong>table of contents</strong> (at the time of writing this article):</p>
+<ul>
+<li><a href="https://secure-contracts.com/development-guidelines">Development guidelines</a>
+<ul>
+<li><a href="https://secure-contracts.com/development-guidelines/guidelines.html">High-level best practices</a>: High-level best-practices for all smart contracts</li>
+<li><a href="https://secure-contracts.com/development-guidelines/incident_response.html">Incident Response Recommendations</a>: Guidelines on how to formulate an incident response plan</li>
+<li><a href="https://secure-contracts.com/development-guidelines/workflow.html">Secure development workflow</a>: A rough, high-level process to follow while you write code</li>
+<li><a href="https://secure-contracts.com/development-guidelines/token_integration.html">Token integration checklist</a>: What to check when interacting with arbitrary token</li>
+</ul>
+</li>
+<li><a href="https://secure-contracts.com/learn_evm">Learn EVM</a>: EVM technical knowledge
+<ul>
+<li><a href="https://secure-contracts.com/learn_evm/evm_opcodes.html">EVM Opcodes</a>: Details on all EVM opcodes</li>
+<li><a href="https://secure-contracts.com/learn_evm/tracing.html">Transaction Tracing</a>: Helper scripts and guidance for generating and navigating transaction traces</li>
+<li><a href="https://secure-contracts.com/learn_evm/yellow-paper.html">Yellow Paper Guidance</a>: Symbol reference for more easily reading the Ethereum yellow paper</li>
+<li><a href="https://secure-contracts.com/learn_evm/eips_forks.html">Forks &lt;&gt; EIPs</a>: Summarize the EIPs included in each Ethereum fork
+<ul>
+<li><a href="https://secure-contracts.com/learn_evm/cips_forks.html">Forks &lt;&gt; CIPs</a>: Summarize the CIPs and EIPs included in each Celo fork <em>(EVM-compatible chain)</em></li>
+<li><a href="https://secure-contracts.com/learn_evm/tips_upgrades.html">Upgrades &lt;&gt; TIPs</a>: Summarize the TIPs included in each TRON upgrade <em>(EVM-compatible chain)</em></li>
+<li><a href="https://secure-contracts.com/learn_evm/beps_forks.html">Forks &lt;&gt; BEPs</a>: Summarize the BEPs included in each BSC fork <em>(EVM-compatible chain)</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts">Not so smart contracts</a>: Examples of smart contract common issues. Each issue contains a description, an example and recommendations
+<ul>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts/algorand">Algorand</a></li>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts/cairo">Cairo</a></li>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts/cosmos">Cosmos</a></li>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts/substrate">Substrate</a></li>
+<li><a href="https://secure-contracts.com/not-so-smart-contracts/solana">Solana</a></li>
+</ul>
+</li>
+<li><a href="https://secure-contracts.com/program-analysis">Program analysis</a>: How to use automated tools to secure contracts
+<ul>
+<li><a href="https://secure-contracts.com/program-analysis/echidna">Echidna</a>: a fuzzer that will check your contract's properties.</li>
+<li><a href="https://secure-contracts.com/program-analysis/slither">Slither</a>: a static analyzer available through a CLI and scriptable interface.</li>
+<li><a href="https://secure-contracts.com/program-analysis/manticore">Manticore</a>: a symbolic execution engine that can prove the correctness properties.</li>
+<li>For each tool, this training material will provide:
+<ul>
+<li>a theoretical introduction, a walkthrough of its API, and a set of exercises.</li>
+<li>exercises expected to require ~two hours to practically learn its operation.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://secure-contracts.com/resources">Resources</a>: Various online resources
+<ul>
+<li><a href="https://secure-contracts.com/resources/tob_blogposts.html">Trail of Bits blogposts</a>: List of blockchain related blogposts made by Trail of Bits</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@raimondklavins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Raimond Klavins</a> on <a href="https://unsplash.com/photos/WgFwcIozP-o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Awesome Account Abstraction by 4337 Mafia</title>
         <author>
             <name>Anonymous</name>
@@ -435,31 +510,6 @@
 <p>For more information: <a href="https://www.linklaters.com/en/knowledge/publications/alerts-newsletters-and-guides/2022/march/04/belgium-flexes-its-aml-and-regulatory-muscle-on-crypto-service-providers">Belgium flexes its AML and regulatory muscle on crypto-service providers (Linklaters)</a> </p>
 <hr>
 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Photo by </span><a href="https://unsplash.com/@luizagiannelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Luiza Giannelli</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> on </span><a href="https://unsplash.com/s/photos/belgium-flag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Yearn&#x27;s Risk Based Approach to Security by storm0x</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/"/>
-        <id>https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/</id>
-            <category term="Security"/>
-            <category term="DeFi"/>
-
-        <updated>2022-12-05T21:35:29+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/62/agnis-leznins-Lf6iovoj-Qg-unsplash.jpg" alt="" />
-                <p>Super interesting talk by <a href="https://github.com/yearn/yearn-security/blob/master/SECURITY.md">storm0x </a>about Yearn's risk based approach to security. It explains their security due diligence process before launching new vaults etc.</p>
-<p>It strongly reminds me of what the folks at <a href="https://www.defisafety.com/">https://www.defisafety.com/</a> are doing. It all seems very logical from a process point-of-view.</p>
-<p>While you cannot, never ever, guarantee 100% "safety" or "security", you can very well try your damndest...</p>
-<p>storm0x's talk is one of the many from <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022</a> 👈</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/j90Bdv13gC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@agnis_leznins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Agnis Leznins</a> on <a href="https://unsplash.com/s/photos/japan-rain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
