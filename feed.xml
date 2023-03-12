@@ -119,6 +119,32 @@
         </content>
     </entry>
     <entry>
+        <title>Ghosts of Epochs Past by Keyrxng</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/"/>
+        <id>https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Secureum"/>
+            <category term="Ethereum"/>
+
+        <updated>2023-03-12T12:59:18+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/75/joey-huang-QocSP_L-O4M-unsplash.jpg" alt="" />
+                <p>Keyrxng (<a href="https://twitter.com/keyrxng">Twitter</a>, <a href="https://github.com/Keyrxng">Github</a>) created a beautiful dApp where you can revisit all past Secureum RACE's:</p>
+<p class="align-center"><strong><a href="https://ghostsofepochspast.xyz/">https://ghostsofepochspast.xyz/</a></strong></p>
+<p class="msg msg--highlight "><a href="https://ghostsofepochspast.xyz/" rel="nofollow">GhostsOfEpochsPast</a> is a place to study and revise previous race epochs provided by <a href="https://secureum.xyz/" rel="nofollow">Secureum</a>, a community of like minded crypto enthusiasts with a focus on <strong>Ethereum</strong>, <strong>Solidity</strong> and <strong>Smart Contract Security</strong>. There is no time limit unlike the real races (which you, fellow security researcher should be aiming to apply to participate in once you complete these stress free revisions). Your answers are hashed and verified on-chain, yes we are aware there are ways to cheat but that defeats the purpose. You should be old enough and resourceful enough to effectively learn from this material and not need to rely on shortcuts to "win", as you'll never place in C4 with that attitude.</p>
+<p>You can find extra information <a href="https://github.com/Keyrxng/GhostsOfEpochsPast">GitHub</a>!</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@onice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joey Huang</a> on <a href="https://unsplash.com/photos/QocSP_L-O4M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Building Secure Smart Contracts by Trail of Bits</title>
         <author>
             <name>Anonymous</name>
@@ -478,38 +504,6 @@
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z1dDVW7QTTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <hr>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Belgian Anti-Money Laundering Act</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/"/>
-        <id>https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/</id>
-            <category term="Regulation"/>
-
-        <updated>2022-12-05T22:21:00+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/63/luiza-giannelli-JWlsHE-dSus-unsplash.jpg" alt="Belgian flag on roof of royal palace in Brussels" />
-                <p class="msg msg--info">Since I am located in Belgium, this is -for a change- an article purely focused on Belgian legislation...</p>
-<p>The Belgian Anti-Money Laundering Act, or "Belgian AML Act", entered into force on Monday 21 February 2021. It is Belgium's next step in regulating crypto-service providers, in line with the EU's 5th AML Directive.</p>
-<p>It's not necessarily directly related to (new or additional) security requirements, but as you can imagine Know-Your-Customer (KYC ) &amp; Know-Your-Transaction (KYT) requirements bring heavy operational burdens. 😕</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/63//FSMA-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/63//responsive/FSMA-2-md.png 768w"  alt="Financial Services and Markets Authority (FSMA) Logo" width="632" height="316"></figure>
-<p>Summary of changes:</p>
-<ul>
-<li>It provides clear definitions of crypto-service providers;</li>
-<li>Crypto exchanges &amp; custodial wallet providers active in Belgium are in scope of the AML requirements;</li>
-<li>Crypto-service providers from outside the European Economic Area are prohibited from providing services in Belgium;</li>
-<li>Crypto-service providers should register with the Belgian Financial Services and Markets Authority (FSMA);</li>
-<li>Sanctions!</li>
-</ul>
-<p>For more information: <a href="https://www.linklaters.com/en/knowledge/publications/alerts-newsletters-and-guides/2022/march/04/belgium-flexes-its-aml-and-regulatory-muscle-on-crypto-service-providers">Belgium flexes its AML and regulatory muscle on crypto-service providers (Linklaters)</a> </p>
-<hr>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Photo by </span><a href="https://unsplash.com/@luizagiannelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Luiza Giannelli</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> on </span><a href="https://unsplash.com/s/photos/belgium-flag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Unsplash</a></p>
             ]]>
         </content>
     </entry>
