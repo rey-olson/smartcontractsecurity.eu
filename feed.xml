@@ -119,6 +119,33 @@
         </content>
     </entry>
     <entry>
+        <title>New FSMA Regulation: Rules governing advertisements for virtual currencies</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/"/>
+        <id>https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/</id>
+            <category term="Regulation"/>
+
+        <updated>2023-03-20T20:30:39+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/76/cardmapr-nl-rDzI7m7sjPE-unsplash.jpg" alt="" />
+                <p>The Financial Services and Markets Authority (FSMA) was granted a new power by the government to regulate advertisements for virtual currencies. The FSMA issued a Regulation to this end that was published on 17 March 2023 in the Belgian Official Gazette (Moniteur belge/Belgisch Staatsblad) and will enter into force on 17 May 2023. The Regulation has three main aspects:</p>
+<ul>
+<li>The basic principle that advertisements must be accurate and not misleading</li>
+<li>Advertisements must contain mandatory information that points out the risks</li>
+<li>Mass media campaigns must be notified to the FSMA in advance</li>
+</ul>
+<p>More info in the <a href="https://www.fsma.be/en/news/virtual-currencies-fsma-steps-its-action-protect-consumers">press release</a> by the FSMA.</p>
+<p>All advertisements must also contain this warning: <strong>"<em style="font-weight: bold;">Virtual currencies, real risks.</em> <em style="font-weight: bold;">The only guarantee in crypto is risk</em><em>." </em>😅</strong></p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/photos/rDzI7m7sjPE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Ghosts of Epochs Past by Keyrxng</title>
         <author>
             <name>Anonymous</name>
@@ -480,30 +507,6 @@
 <hr>
 <p>Photo by <a href="https://unsplash.com/@qriusv?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vivek Kumar</a> on <a href="https://unsplash.com/s/photos/tea-plantation-road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p>It seems based on <a href="https://github.com/razzorsec/AuditorsRoadmap">Razzorsec's Auditor Roadmap</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/"/>
-        <id>https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-            <category term="Bridges"/>
-
-        <updated>2022-11-14T19:56:13+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/64/veluwemeer-aqueduct.jpg" alt="" />
-                <p>Another great presentation by <a href="https://twitter.com/stonecoldpat0">Patrick McCorry</a> on bridges and their security implications and challenges (please also check out his <a href="https://smartcontractsecurity.eu/patrick-mccorrys-cryptocurrency-class-2022/">Cryptocurrency Class of 2022</a>🔥).</p>
-<p>You can download the slides <a href="https://docs.google.com/presentation/d/1FudG-TJi1S_pFFGxA-UFz1MbiucJxrmTnBHDiiMisQs/edit#slide=id.g3478aab1684501d4_1210">here (Google Docs)</a>. </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z1dDVW7QTTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p> </p>
             ]]>
         </content>
     </entry>

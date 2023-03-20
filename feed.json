@@ -24,6 +24,21 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/",
+            "url": "https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/",
+            "title": "New FSMA Regulation: Rules governing advertisements for virtual currencies",
+            "content_html": "<p>The Financial Services and Markets Authority (FSMA) was granted a new power by the government to regulate advertisements for virtual currencies. The FSMA issued a Regulation to this end that was published on 17 March 2023 in the Belgian Official Gazette (Moniteur belge/Belgisch Staatsblad) and will enter into force on 17 May 2023. The Regulation has three main aspects:</p>\n<ul>\n<li>The basic principle that advertisements must be accurate and not misleading</li>\n<li>Advertisements must contain mandatory information that points out the risks</li>\n<li>Mass media campaigns must be notified to the FSMA in advance</li>\n</ul>\n<p>More info in the <a href=\"https://www.fsma.be/en/news/virtual-currencies-fsma-steps-its-action-protect-consumers\">press release</a> by the FSMA.</p>\n<p>All advertisements must also contain this warning: <strong>\"<em style=\"font-weight: bold;\">Virtual currencies, real risks.</em> <em style=\"font-weight: bold;\">The only guarantee in crypto is risk</em><em>.\" </em>😅</strong></p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@cardmapr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">CardMapr.nl</a> on <a href=\"https://unsplash.com/photos/rDzI7m7sjPE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/76/cardmapr-nl-rDzI7m7sjPE-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Regulation"
+            ],
+            "date_published": "2023-03-20T20:25:26+01:00",
+            "date_modified": "2023-03-20T20:30:39+01:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/",
             "url": "https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/",
             "title": "Ghosts of Epochs Past by Keyrxng",
@@ -156,23 +171,6 @@
             ],
             "date_published": "2022-11-23T17:22:17+01:00",
             "date_modified": "2022-12-05T22:15:39+01:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/",
-            "url": "https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/",
-            "title": "A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry",
-            "content_html": "<p>Another great presentation by <a href=\"https://twitter.com/stonecoldpat0\">Patrick McCorry</a> on bridges and their security implications and challenges (please also check out his <a href=\"https://smartcontractsecurity.eu/patrick-mccorrys-cryptocurrency-class-2022/\">Cryptocurrency Class of 2022</a>🔥).</p>\n<p>You can download the slides <a href=\"https://docs.google.com/presentation/d/1FudG-TJi1S_pFFGxA-UFz1MbiucJxrmTnBHDiiMisQs/edit#slide=id.g3478aab1684501d4_1210\">here (Google Docs)</a>. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Z1dDVW7QTTM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<p> </p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/64/veluwemeer-aqueduct.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Ethereum",
-                   "Bridges"
-            ],
-            "date_published": "2022-11-11T00:01:55+01:00",
-            "date_modified": "2022-11-14T19:56:13+01:00"
         }
     ]
 }
