@@ -24,6 +24,22 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/",
+            "url": "https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/",
+            "title": "NEAR Smart Contract Security Course by Timur Guvenkaya",
+            "content_html": "<p><a href=\"https://twitter.com/timurguvenkaya\">Timur Guvenkaya</a> has published his in-depth NEAR Smart Contract Security Course.</p>\n<p>It first touches upon general Rust security practices, before diving into Rust smart contract security best practices.</p>\n<p>The course consists of 12 lectures and is freely available on YouTube: <a href=\"https://youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT\" target=\"_blank\" rel=\"noopener noreferrer\">NEAR SC Security Course</a>, or hop directly to the first lecture 👇.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/DrRr6nru0no\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div>\n<p>You can find the supporting slides on Timur's GitHub: <a href=\"https://github.com/timurguvenkaya/near-sc-security-course\">https://github.com/timurguvenkaya/near-sc-security-course</a> </p>\n<h3>Course modules</h3>\n<p>Here is an overview of topics that the 12 lectures cover.</p>\n<h4>Rust Security</h4>\n<ul>\n<li>Error Handling\n<ul>\n<li>Recoverable Errors</li>\n<li>Unrecoverable Errors\n<ul>\n<li>unwrap &amp; expect</li>\n<li>Panicking Macros</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Arithmetic Issues\n<ul>\n<li>Integer Overflow &amp; Underflow</li>\n<li>Integer Overflow Prevention\n<ul>\n<li>Checked Maths</li>\n<li>Saturating Maths</li>\n</ul>\n</li>\n<li>Casting Overflow\n<ul>\n<li>Silent Casting Overflow</li>\n<li>Panicking Casting Overflow</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Division By 0</li>\n<li>Rounding Direction</li>\n<li>Division Before Multiplication</li>\n<li>Index Out Of Bounds</li>\n<li>Stack Overflow</li>\n<li>OOM (Out Of Memory)</li>\n<li>Crates With Vulnerabilities</li>\n<li>Handy Rust Tools</li>\n</ul>\n<h4>NEAR Rust Smart Contract Security</h4>\n<ul>\n<li>Access Control Issues\n<ul>\n<li>Missing Access Control</li>\n<li>Incorrect #[near_bindgen] usage</li>\n<li>Using env::signer_account_id()</li>\n<li>Public Callbacks</li>\n<li>Lack of Separation of Privileges</li>\n</ul>\n</li>\n<li>DoS (Denial of Service)\n<ul>\n<li>Usage of unverified accounts</li>\n<li>Case Study (Appchain Registry)</li>\n<li>Storage Bloating</li>\n<li>Prepaid Gas Exceeding</li>\n<li>Log/Event Bombing</li>\n</ul>\n</li>\n<li>Race Condition / Reentrancy</li>\n<li>Logical Vulnerabilities\n<ul>\n<li>Case Study (Custom NEP-141 Token)</li>\n<li>Case Study (Custom Storage<br>Deposit)</li>\n</ul>\n</li>\n<li>Tips &amp; Best Practices\n<ul>\n<li>Redundant state assertion</li>\n<li>Missing Zero Value Checks</li>\n<li>Unchecked Attached Deposit</li>\n<li>Usage of .take()</li>\n<li>require!()</li>\n<li>Tautological expressions</li>\n<li>2-step ownership transfer process</li>\n<li>Lack of Pausability</li>\n<li>Usage of Incorrect JSON Type</li>\n<li>Two Factor Authentication </li>\n</ul>\n</li>\n</ul>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/es/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Tim Gouw</a> on <a href=\"https://unsplash.com/photos/NSFG5sJYZgQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/77/tim-gouw-NSFG5sJYZgQ-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "NEAR"
+            ],
+            "date_published": "2023-03-26T14:25:32+02:00",
+            "date_modified": "2023-03-26T14:25:32+02:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/",
             "url": "https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/",
             "title": "New FSMA Regulation: Rules governing advertisements for virtual currencies",
@@ -153,24 +169,6 @@
             ],
             "date_published": "2022-12-05T15:15:53+01:00",
             "date_modified": "2022-12-05T22:15:08+01:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/",
-            "url": "https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/",
-            "title": "Smart Contract Auditor Roadmap by QuillAudit",
-            "content_html": "<p>Another roadmap with resources that can help you on your journey in becoming a smart contract auditor.</p>\n<p>What more can I say? It's <strong>b-e-a-u-t-i-f-u-l</strong>. Go check it out:<br><a href=\"https://github.com/Quillhash/QuillAudit_Auditor_Roadmap\">https://github.com/Quillhash/QuillAudit_Auditor_Roadmap</a> </p>\n<figure class=\"post__image post__image--center\"><a href=\"https://github.com/Quillhash/QuillAudit_Auditor_Roadmap\"><img loading=\"lazy\"  src=\"https://smartcontractsecurity.eu/media/posts/66//roadmap-captured.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-md.png 768w\"  alt=\"\" width=\"500\" height=\"693\"></figure></a></p>\n<p> </p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@qriusv?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Vivek Kumar</a> on <a href=\"https://unsplash.com/s/photos/tea-plantation-road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>\n<p>It seems based on <a href=\"https://github.com/razzorsec/AuditorsRoadmap\">Razzorsec's Auditor Roadmap</a></p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/66/vivek-kumar-JS_ohjocm00-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Solidity",
-                   "Security",
-                   "Lists",
-                   "Ethereum"
-            ],
-            "date_published": "2022-11-23T17:22:17+01:00",
-            "date_modified": "2022-12-05T22:15:39+01:00"
         }
     ]
 }

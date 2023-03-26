@@ -119,6 +119,114 @@
         </content>
     </entry>
     <entry>
+        <title>NEAR Smart Contract Security Course by Timur Guvenkaya</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/"/>
+        <id>https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/</id>
+            <category term="Security"/>
+            <category term="NEAR"/>
+
+        <updated>2023-03-26T14:25:32+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/77/tim-gouw-NSFG5sJYZgQ-unsplash.jpg" alt="" />
+                <p><a href="https://twitter.com/timurguvenkaya">Timur Guvenkaya</a> has published his in-depth NEAR Smart Contract Security Course.</p>
+<p>It first touches upon general Rust security practices, before diving into Rust smart contract security best practices.</p>
+<p>The course consists of 12 lectures and is freely available on YouTube: <a href="https://youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT" target="_blank" rel="noopener noreferrer">NEAR SC Security Course</a>, or hop directly to the first lecture 👇.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/DrRr6nru0no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p>You can find the supporting slides on Timur's GitHub: <a href="https://github.com/timurguvenkaya/near-sc-security-course">https://github.com/timurguvenkaya/near-sc-security-course</a> </p>
+<h3>Course modules</h3>
+<p>Here is an overview of topics that the 12 lectures cover.</p>
+<h4>Rust Security</h4>
+<ul>
+<li>Error Handling
+<ul>
+<li>Recoverable Errors</li>
+<li>Unrecoverable Errors
+<ul>
+<li>unwrap &amp; expect</li>
+<li>Panicking Macros</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Arithmetic Issues
+<ul>
+<li>Integer Overflow &amp; Underflow</li>
+<li>Integer Overflow Prevention
+<ul>
+<li>Checked Maths</li>
+<li>Saturating Maths</li>
+</ul>
+</li>
+<li>Casting Overflow
+<ul>
+<li>Silent Casting Overflow</li>
+<li>Panicking Casting Overflow</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Division By 0</li>
+<li>Rounding Direction</li>
+<li>Division Before Multiplication</li>
+<li>Index Out Of Bounds</li>
+<li>Stack Overflow</li>
+<li>OOM (Out Of Memory)</li>
+<li>Crates With Vulnerabilities</li>
+<li>Handy Rust Tools</li>
+</ul>
+<h4>NEAR Rust Smart Contract Security</h4>
+<ul>
+<li>Access Control Issues
+<ul>
+<li>Missing Access Control</li>
+<li>Incorrect #[near_bindgen] usage</li>
+<li>Using env::signer_account_id()</li>
+<li>Public Callbacks</li>
+<li>Lack of Separation of Privileges</li>
+</ul>
+</li>
+<li>DoS (Denial of Service)
+<ul>
+<li>Usage of unverified accounts</li>
+<li>Case Study (Appchain Registry)</li>
+<li>Storage Bloating</li>
+<li>Prepaid Gas Exceeding</li>
+<li>Log/Event Bombing</li>
+</ul>
+</li>
+<li>Race Condition / Reentrancy</li>
+<li>Logical Vulnerabilities
+<ul>
+<li>Case Study (Custom NEP-141 Token)</li>
+<li>Case Study (Custom Storage<br>Deposit)</li>
+</ul>
+</li>
+<li>Tips &amp; Best Practices
+<ul>
+<li>Redundant state assertion</li>
+<li>Missing Zero Value Checks</li>
+<li>Unchecked Attached Deposit</li>
+<li>Usage of .take()</li>
+<li>require!()</li>
+<li>Tautological expressions</li>
+<li>2-step ownership transfer process</li>
+<li>Lack of Pausability</li>
+<li>Usage of Incorrect JSON Type</li>
+<li>Two Factor Authentication </li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Photo by <a href="https://unsplash.com/es/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Gouw</a> on <a href="https://unsplash.com/photos/NSFG5sJYZgQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>New FSMA Regulation: Rules governing advertisements for virtual currencies</title>
         <author>
             <name>Anonymous</name>
@@ -480,33 +588,6 @@
 <p>Do not forget to drop by the Spearbit <a href="https://discord.gg/spearbit">Discord</a>! </p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Richard Lee</a> on <a href="https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Smart Contract Auditor Roadmap by QuillAudit</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/"/>
-        <id>https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-            <category term="Lists"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-12-05T22:15:39+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/66/vivek-kumar-JS_ohjocm00-unsplash.jpg" alt="" />
-                <p>Another roadmap with resources that can help you on your journey in becoming a smart contract auditor.</p>
-<p>What more can I say? It's <strong>b-e-a-u-t-i-f-u-l</strong>. Go check it out:<br><a href="https://github.com/Quillhash/QuillAudit_Auditor_Roadmap">https://github.com/Quillhash/QuillAudit_Auditor_Roadmap</a> </p>
-<figure class="post__image post__image--center"><a href="https://github.com/Quillhash/QuillAudit_Auditor_Roadmap"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/66//roadmap-captured.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/66//responsive/roadmap-captured-md.png 768w"  alt="" width="500" height="693"></figure></a></p>
-<p> </p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@qriusv?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vivek Kumar</a> on <a href="https://unsplash.com/s/photos/tea-plantation-road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p>It seems based on <a href="https://github.com/razzorsec/AuditorsRoadmap">Razzorsec's Auditor Roadmap</a></p>
             ]]>
         </content>
     </entry>
