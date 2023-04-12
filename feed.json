@@ -24,6 +24,22 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/defi-security-summit-2023/",
+            "url": "https://smartcontractsecurity.eu/defi-security-summit-2023/",
+            "title": "DeFi Security Summit 2023",
+            "content_html": "<p>Woop woop, <strong>DeFi Security Summit </strong>is back 🙌! On July 15th &amp; 16th 2023 in Paris 🇫🇷</p>\n<p class=\"align-center\"><a href=\"https://defisecuritysummit.org/\">https://defisecuritysummit.org/</a></p>\n<h4>What is this Defi Security Summit, you ask ? </h4>\n<p>In their own words: </p>\n<p class=\"msg msg--info\">\"After an overwhelming response to the first DeFi Security Summit at Stanford, we’re thrilled to be back with the second iteration. This year we will convene at the historic La Maison de la Chimie in Paris, France for two full days directly preceding <a href=\"https://www.ethcc.io/\">EthCC 6</a>. <br><br>Over the course of two days, we will hear from the world’s leading DeFi security researchers, auditors, and hackers on how they are working to stay one step ahead – and how you can too. We’ll explore some of the biggest exploits, and dive into practical ways that you can integrate tools and techniques to prevent these types of attacks and increase security coverage for your code. <br><br>Since our last summit, we’ve continued to see novel DeFi hacks that have led to billions of dollars of losses. Preventing and mitigating these attacks is critical not only for protecting existing users, but for the success and growth of DeFi as a whole.\"</p>\n<p>Do not forget to check out the recorded talks from yesteryear 👇</p>\n<p class=\"align-center\"><a href=\"https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/\">Defi Security Summit 2022 by Standford</a></p>\n<hr>\n<p> </p>\n<p><em>Paris *almost* next door for me, but unfortunately I cannot attend due to prior commitments </em>😢</p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/78/Screenshot_4.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "DeFi"
+            ],
+            "date_published": "2023-04-12T22:14:17+02:00",
+            "date_modified": "2023-04-12T22:14:52+02:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/",
             "url": "https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/",
             "title": "NEAR Smart Contract Security Course by Timur Guvenkaya",
@@ -142,7 +158,7 @@
             "id": "https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/",
             "url": "https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/",
             "title": "Account Abstraction by Julien Niset (Argent)",
-            "content_html": "<p><a href=\"https://twitter.com/jniset\">Julien Niset</a> from <a href=\"https://www.argent.xyz/\">Argent</a> wrote an educational blog series about <strong>account abstraction</strong>:</p>\n<h3><strong><a href=\"https://www.argent.xyz/blog/wtf-is-account-abstraction/\">Part I: WTF is Account Abstraction</a></strong></h3>\n<p><em>Learn why it’s a game changer for crypto's adoption</em></p>\n<h3 class=\"css-3gmyo1\"><a href=\"https://www.argent.xyz/blog/part-2-wtf-is-account-abstraction/\">Part 2: WTF is Account Abstraction</a></h3>\n<p class=\"css-gul5wb\"><em>The challenges of bringing Account Abstraction to Ethereum</em></p>\n<h3 class=\"css-3gmyo1\"><a href=\"https://www.argent.xyz/blog/part-3-wtf-is-account-abstraction/\">Part 3: WTF is Account Abstraction</a></h3>\n<p class=\"css-gul5wb\"><em>Scaling the UX and security of crypto by 10X</em></p>\n<hr>\n<p>Argent has a decent newsletter that is actually <strong>not boring. </strong>You can find it <a href=\"https://www.argent.xyz/blog/tag/newsletter/\">here</a>. </p>\n<p>It is also interesting to see what they are doing with <a href=\"https://www.argent.xyz/argent-x/\">Argent X</a>, their StarkNet (L2) wallet</p>\n<p>Photo by <a href=\"https://unsplash.com/@ivybarn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ivy Barn</a> on <a href=\"https://unsplash.com/s/photos/prism-asia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
+            "content_html": "<p><a href=\"https://twitter.com/jniset\">Julien Niset</a> from <a href=\"https://www.argent.xyz/\">Argent</a> wrote an educational blog series about <strong>account abstraction</strong>:</p>\n<h3><strong><a href=\"https://www.argent.xyz/blog/wtf-is-account-abstraction/\">Part I: WTF is Account Abstraction</a></strong></h3>\n<p><em>Learn why it’s a game changer for crypto's adoption</em></p>\n<h3 class=\"css-3gmyo1\"><a href=\"https://www.argent.xyz/blog/part-2-wtf-is-account-abstraction/\">Part 2: WTF is Account Abstraction</a></h3>\n<p class=\"css-gul5wb\"><em>The challenges of bringing Account Abstraction to Ethereum</em></p>\n<h3 class=\"css-3gmyo1\"><a href=\"https://www.argent.xyz/blog/part-3-wtf-is-account-abstraction/\">Part 3: WTF is Account Abstraction</a></h3>\n<p class=\"css-gul5wb\"><em>Scaling the UX and security of crypto by 10X</em></p>\n<hr>\n<p>Argent has a decent newsletter that is actually <strong>not boring. </strong>You can find it <a href=\"https://newsletter.argent.xyz/\">here</a>. </p>\n<p>It is also interesting to see what they are doing with <a href=\"https://www.argent.xyz/argent-x/\">Argent X</a>, their StarkNet (L2) wallet</p>\n<p>Photo by <a href=\"https://unsplash.com/@ivybarn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Ivy Barn</a> on <a href=\"https://unsplash.com/s/photos/prism-asia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
             "image": "https://smartcontractsecurity.eu/media/posts/68/ivy-barn-u8hO6z05VH0-unsplash.jpg",
             "author": {
                 "name": "Anonymous"
@@ -152,23 +168,7 @@
                    "Ethereum"
             ],
             "date_published": "2022-12-06T18:24:54+01:00",
-            "date_modified": "2022-12-06T19:04:09+01:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/",
-            "url": "https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/",
-            "title": "Bridge Security Introduction by Spearbit",
-            "content_html": "<p><a href=\"https://spearbit.com\">Spearbit </a>held another <strong>Bridge Security Roundtable</strong> 👇</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"zxx\"><a href=\"https://t.co/lGeyOH4AQZ\">https://t.co/lGeyOH4AQZ</a></p>\n— Spearbit (@SpearbitDAO) <a href=\"https://twitter.com/SpearbitDAO/status/1598360365758226433?ref_src=twsrc%5Etfw\">December 1, 2022</a></blockquote>\n<p>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</p>\n<p>At the same time they published two new guides:</p>\n<ul>\n<li><a href=\"https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityIntroduction.md\">Bridge Security Introduction</a></li>\n<li><a href=\"https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md\"></a><a href=\"https://github.com/spearbit/portfolio/blob/master/content/bridges/BridgeSecurityChecklist.md\">Bridge Security Checklist </a></li>\n</ul>\n<p>Do not forget to drop by the Spearbit <a href=\"https://discord.gg/spearbit\">Discord</a>! </p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Richard Lee</a> on <a href=\"https://unsplash.com/@richardlee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/67/richard-lee-C_q-e_aBRcA-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Bridges"
-            ],
-            "date_published": "2022-12-05T15:15:53+01:00",
-            "date_modified": "2022-12-05T22:15:08+01:00"
+            "date_modified": "2023-04-12T21:39:19+02:00"
         }
     ]
 }
