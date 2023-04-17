@@ -127,7 +127,7 @@
         <id>https://smartcontractsecurity.eu/cybersecurity-best-practices-for-crypto-exchanges/</id>
             <category term="Security"/>
 
-        <updated>2023-04-14T23:57:26+02:00</updated>
+        <updated>2023-04-17T10:09:03+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -142,9 +142,10 @@
 <p>In an internal communication, Bankman-Fried described Alameda as “hilariously beyond any threshold of any auditor being able to even get partially through an<br>audit,” adding: "Alameda is unauditable. I don’t mean this in the sense of “a major accounting firm will have reservations about auditing it”; I mean this in the sense of “we are only able to ballpark what its balances are, let alone something like a comprehensive transaction history.” We sometimes find $50m of assets lying around that we lost track of; such is life.</p>
 </blockquote>
 <h3>Not a pretty sight</h3>
-<p>Looking at the table of contents, we see where this is going...🍿 The examples included in the report supporting some findings are often <em>so insane that they become hilarious. </em>They are also beyond comprehension from a professional perspective.</p>
+<p>Looking at the table of contents, we see where this is going...🍿 </p>
 <p><span style="color: #7e8c8d;"><strong><em>REVIEW OF CONTROL FAILURES<br></em><em>A. Lack of Management and Governance Controls</em></strong><span style="text-decoration: underline;"><strong><em><br></em></strong></span><em>1. FTX Group Management and Governance<br></em><em>2. Debtors’ Management and Governance<br></em><strong><em>B. Lack of Financial and Accounting Controls</em></strong><span style="text-decoration: underline;"><strong><em><br></em></strong></span><em>1. Lack of Key Personnel, Departments, and Policies<br></em><em>2. Lack of Appropriate Accounting Systems<br></em><em>3. Inadequate Reporting and Documentation<br></em><em>4. Trading Records from Other Exchanges<br></em><em>5. Intercompany Transactions <br></em><em>6. Extraordinary Privileges Granted to Alameda <br></em><strong><em>C. Lack of Digital Asset Management, Information Security &amp; Cybersecurity Controls<br></em></strong><em>1. Lack of Key Personnel, Departments, and Policies<br></em><em>2. Crypto Asset Management and Security<br></em><em>3. Identity and Access Management<br></em><em>4. Cloud and Infrastructure Security<br></em><em>5. Application and Code Security<br></em><em>6. Debtors’ Work to Identify and Secure Crypto Assets in the Computing Environment</em></span></p>
-<h3>Bad, worse and <em>worst </em>practices 🤦‍♂️</h3>
+<p>The examples included in the report supporting some findings are often <em>so batshit insane</em> that they are comical. They are beyond comprehension from a professional perspective...</p>
+<h3>Bad, worse, worst practices 🤦‍♂️</h3>
 <p>I cannot list all findings from the report, but here is a selection of failures contending for the gold medal🏅 of largest security fuck-up in crypto exchange history: </p>
 <p class="msg msg--info">You might not directly relate some of these failures to cybersecurity, but you should understand that a security function does not operate in a vacuum. In order to properly manage cyber/information/IT security risk, there is much interaction with other corporate functions such as compliance, non-financial risk, (IT) audit, executive &amp; board levels, ...</p>
 <ul>
@@ -193,7 +194,7 @@
 <li><a href="https://metamask.io/institutions/">Metamask Institutional</a></li>
 </ul>
 <hr>
-<p><sup>[1]</sup> The FTX collapse is <em>of course</em> terrible for everyone involved. My heart goes out to everyone that lost their funds, and who are suffering the dire consequences.</p>
+<p><sup>[1]</sup> The FTX collapse is terrible for everyone involved. My heart goes out to everyone that lost their funds, and who are suffering the dire consequences.</p>
 <p>Photo by <a href="https://unsplash.com/@devintavery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Devin Avery</a> on <a href="https://unsplash.com/photos/ZsgPd6ovNag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p>Obligatory "this is fine" meme:</p>
 <div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
