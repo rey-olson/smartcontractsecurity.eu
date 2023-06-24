@@ -119,6 +119,34 @@
         </content>
     </entry>
     <entry>
+        <title>Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/"/>
+        <id>https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/</id>
+            <category term="Solidity"/>
+            <category term="Ethereum"/>
+            <category term="DeFi"/>
+
+        <updated>2023-06-24T15:12:25+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/82/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg" alt="" />
+                <p><a href="https://twitter.com/PatrickAlphaC">Patrick Collins</a> recently released his <a href="https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42">Blockchain Developer, Solidity, Foundry Full Course 2023</a>: </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/umepbfKp5rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p>GitHub: <a href="https://github.com/PatrickAlphaC">https://github.com/PatrickAlphaC</a> </p>
+<p>It consists of 16 lessons (in total approx. 27 hours of video) and uses <a href="https://book.getfoundry.sh">Foundry</a> the hottest new smart contract development framework in town. Even Chainlink <em>(his ex-employer, but still)</em> dedicated a <a href="https://blog.chain.link/blockchain-course-learn-solidity-web3/">blog post</a> outlining the course, and why it is such a great learning resource🔥.</p>
+<p class="msg msg--info">A question I often ponder about is "How good a software developer do you need to be, to be an adeqaute security professional?". In all transparency, I do not consider myself to be a 'programmer' by any means. But from my experience, you do need to have at least a foundational knowledge level about the topic. On the other hand, the same can be said about infrastructure or systems engineering. Or any other IT domain. Which means that the quest for knowledge never ends. Anyway, in the case in the Web3 I noticed the focus is very much on the software (i.e. smart contract) side of things, less so on the infra side of things (unless you are building a full protocol with corresponding nodes etc.). So far I have chosen the generalist career path (i.e. "jack of all trades, master of none") versus a specialist role. But then again, I guess that is a common dilemma in many jobs nowadays. It reminds me of this great quote by <a href="https://www.goodreads.com/quotes/620163-the-more-i-learn-the-more-i-realize-how-much">Albert Einstein</a> / <a href="https://philosophy.stackexchange.com/questions/46282/did-aristotle-say-the-more-you-know">Socrates / Aristotle</a>: <em>"The more I learn, the more I realize how much I don't know.”. </em>It has pretty much become my mantra 😉.</p>
+<p>In the past Patrick already tutored another freeCodeCamp course: <strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Solidity, Blockchain, and Smart Contract Course – Beginner to Expert </span><span style="font-family: var(--editor-font-family); font-size: inherit;">Python Tutoria</span><span style="font-family: var(--editor-font-family); font-size: inherit;">l </span></strong>which was / still is one of the better (if not best) free resources on Web3 development.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@shubhamsharan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Shubham Sharan</a> on <a href="https://unsplash.com/photos/Z-fq3wBVfMU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Open Standard Web3 Attack Reference (OSWAR)</title>
         <author>
             <name>Anonymous</name>
@@ -594,32 +622,6 @@
 </ul>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@raimondklavins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Raimond Klavins</a> on <a href="https://unsplash.com/photos/WgFwcIozP-o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Awesome Account Abstraction by 4337 Mafia</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/"/>
-        <id>https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/</id>
-            <category term="Security"/>
-            <category term="Lists"/>
-            <category term="Ethereum"/>
-
-        <updated>2023-02-03T12:49:37+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/71/tim-johnson-of92n78h8mk-unsplash.jpg" alt="" />
-                <p>So you liked Argent's <a href="https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/" target="_blank" rel="noopener noreferrer">article series</a> about<strong> account abstraction</strong>?</p>
-<p>Here is another <em>massive </em>resource compiled by <a href="https://twitter.com/4337Mafia">@4337Mafia</a>:</p>
-<p><a href="https://github.com/4337Mafia/awesome-account-abstraction">https://github.com/4337Mafia/awesome-account-abstraction</a> </p>
-<p dir="auto">It talks about the EIP-4337 standard <em>(you see what he did there?)</em> and contains a ton of articles, videos and code examples with regard to account abstraction.<strong><br></strong></p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@mangofantasy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Johnson</a> on <a href="https://unsplash.com/photos/of92n78h8mk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p dir="auto"> </p>
             ]]>
         </content>
     </entry>
