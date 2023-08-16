@@ -119,6 +119,44 @@
         </content>
     </entry>
     <entry>
+        <title>Secureum TrustX @ Devconnect Istanbul (2023)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/secureum-trustx-devconnect-istanbul-2023/"/>
+        <id>https://smartcontractsecurity.eu/secureum-trustx-devconnect-istanbul-2023/</id>
+            <category term="Secureum"/>
+
+        <updated>2023-08-16T15:44:35+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/85/SecureumTrustX-lg.png" alt="" />
+                <p><strong><a href="https://www.secureum.xyz/trustx/">Secureum TrustX</a></strong> is back with another edition! This time at <a href="https://devconnect.org">Devconnect Istanbul</a> (november 13-19, 2023).</p>
+<p>In <a href="https://twitter.com/0xRajeev">0xRajeev</a>'s own words (who is the founder of Secureum):</p>
+<p><em>"Secureum TrustX is a first-of-its-kind technical event dedicated to the Ethereum security ecosystem. </em><em>Security is critical to Ethereum and its applications. TrustX is a flagship community event dedicated to Ethereum security.</em></p>
+<p><em>Leading security builders, researchers, analysts &amp; OGs will speak across talks, panels and workshops.</em></p>
+<ul>
+<li><em>Discuss/Debate: Security Ideas</em></li>
+<li><em>Learn/Launch: Security Products &amp; Services</em></li>
+<li><em>Partner/Participate: Ethereum Community</em></li>
+<li><em>Educate/Evaluate: Ethereum Security</em></li>
+</ul>
+<p><strong><em>Topics</em></strong></p>
+<p><em>Consensus Layer, Execution Layer, Rollups &amp; Bridges, Infrastructure, Languages, EVM, Secure Coding, Vulnerabilities &amp; Exploits, Audits, Formal Verification, Monitoring, Incident Response, Bug Bounties, Insurance, Tools &amp; Services, DeFi/NFT/Oracles/Governance, DevSecOps, Cryptography, Operational Security, Web2 Security, Zero-Knowledge, MEV, Education/Community &amp; Privacy."</em></p>
+<p>The call for talks is now open! I will update this post with the recordings of the talks after the event.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">🎉 TrustX'23 Speaker Applications<br><br>✍️ How: Apply ➡️ <a href="https://t.co/KoQIqXs7BX">https://t.co/KoQIqXs7BX</a><br>⏰ When: Before 7⃣ September<br><br>Security Topics of Interest 👇 <a href="https://t.co/zgqH6dUySr">pic.twitter.com/zgqH6dUySr</a></p>
+— TrustX (@TheTrustX) <a href="https://twitter.com/TheTrustX/status/1688557631861071872?ref_src=twsrc%5Etfw">August 7, 2023</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<hr>
+<p>Feel free to watch the recorded talks of last year via <a href="https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/">Secureum TrustX @ Devonnect Amsterdam</a>!<a href="https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/"></a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins</title>
         <author>
             <name>Anonymous</name>
@@ -548,81 +586,6 @@
 <p>You can find extra information <a href="https://github.com/Keyrxng/GhostsOfEpochsPast">GitHub</a>!</p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@onice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joey Huang</a> on <a href="https://unsplash.com/photos/QocSP_L-O4M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Building Secure Smart Contracts by Trail of Bits</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/"/>
-        <id>https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/</id>
-            <category term="Solana"/>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2023-02-27T20:32:32+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/73/raimond-klavins-WgFwcIozP-o-unsplash.jpg" alt="" />
-                <p><a href="https://trailofbits.com">Trail of Bits</a> launched a revamped version of its Github repository with secure development guidelines and other best practices to write secure smart contracts:</p>
-<p><a href="https://secure-smartcontracts.com"><strong>https://secure-smartcontracts.com</strong></a><strong> </strong><em>(Feel free to <a href="https://github.com/crytic/building-secure-contracts/blob/master/CONTRIBUTING.md">contribute</a> to the repo!)</em></p>
-<p>With no further ado I present you its <strong>table of contents</strong> (at the time of writing this article):</p>
-<ul>
-<li><a href="https://secure-contracts.com/development-guidelines">Development guidelines</a>
-<ul>
-<li><a href="https://secure-contracts.com/development-guidelines/guidelines.html">High-level best practices</a>: High-level best-practices for all smart contracts</li>
-<li><a href="https://secure-contracts.com/development-guidelines/incident_response.html">Incident Response Recommendations</a>: Guidelines on how to formulate an incident response plan</li>
-<li><a href="https://secure-contracts.com/development-guidelines/workflow.html">Secure development workflow</a>: A rough, high-level process to follow while you write code</li>
-<li><a href="https://secure-contracts.com/development-guidelines/token_integration.html">Token integration checklist</a>: What to check when interacting with arbitrary token</li>
-</ul>
-</li>
-<li><a href="https://secure-contracts.com/learn_evm">Learn EVM</a>: EVM technical knowledge
-<ul>
-<li><a href="https://secure-contracts.com/learn_evm/evm_opcodes.html">EVM Opcodes</a>: Details on all EVM opcodes</li>
-<li><a href="https://secure-contracts.com/learn_evm/tracing.html">Transaction Tracing</a>: Helper scripts and guidance for generating and navigating transaction traces</li>
-<li><a href="https://secure-contracts.com/learn_evm/yellow-paper.html">Yellow Paper Guidance</a>: Symbol reference for more easily reading the Ethereum yellow paper</li>
-<li><a href="https://secure-contracts.com/learn_evm/eips_forks.html">Forks &lt;&gt; EIPs</a>: Summarize the EIPs included in each Ethereum fork
-<ul>
-<li><a href="https://secure-contracts.com/learn_evm/cips_forks.html">Forks &lt;&gt; CIPs</a>: Summarize the CIPs and EIPs included in each Celo fork <em>(EVM-compatible chain)</em></li>
-<li><a href="https://secure-contracts.com/learn_evm/tips_upgrades.html">Upgrades &lt;&gt; TIPs</a>: Summarize the TIPs included in each TRON upgrade <em>(EVM-compatible chain)</em></li>
-<li><a href="https://secure-contracts.com/learn_evm/beps_forks.html">Forks &lt;&gt; BEPs</a>: Summarize the BEPs included in each BSC fork <em>(EVM-compatible chain)</em></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts">Not so smart contracts</a>: Examples of smart contract common issues. Each issue contains a description, an example and recommendations
-<ul>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts/algorand">Algorand</a></li>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts/cairo">Cairo</a></li>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts/cosmos">Cosmos</a></li>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts/substrate">Substrate</a></li>
-<li><a href="https://secure-contracts.com/not-so-smart-contracts/solana">Solana</a></li>
-</ul>
-</li>
-<li><a href="https://secure-contracts.com/program-analysis">Program analysis</a>: How to use automated tools to secure contracts
-<ul>
-<li><a href="https://secure-contracts.com/program-analysis/echidna">Echidna</a>: a fuzzer that will check your contract's properties.</li>
-<li><a href="https://secure-contracts.com/program-analysis/slither">Slither</a>: a static analyzer available through a CLI and scriptable interface.</li>
-<li><a href="https://secure-contracts.com/program-analysis/manticore">Manticore</a>: a symbolic execution engine that can prove the correctness properties.</li>
-<li>For each tool, this training material will provide:
-<ul>
-<li>a theoretical introduction, a walkthrough of its API, and a set of exercises.</li>
-<li>exercises expected to require ~two hours to practically learn its operation.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="https://secure-contracts.com/resources">Resources</a>: Various online resources
-<ul>
-<li><a href="https://secure-contracts.com/resources/tob_blogposts.html">Trail of Bits blogposts</a>: List of blockchain related blogposts made by Trail of Bits</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@raimondklavins?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Raimond Klavins</a> on <a href="https://unsplash.com/photos/WgFwcIozP-o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
