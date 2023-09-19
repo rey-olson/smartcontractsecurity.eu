@@ -119,6 +119,125 @@
         </content>
     </entry>
     <entry>
+        <title>Cyber And Hacking In The Worlds Of Blockchain And Crypto by Oded Vanunu, Roman Zaikin &amp; Dikla Barda</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/cyber-and-hacking-in-the-worlds-of-blockchain-and-crypto/"/>
+        <id>https://smartcontractsecurity.eu/cyber-and-hacking-in-the-worlds-of-blockchain-and-crypto/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2023-09-19T21:11:36+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/89/bady-abbas-AlgJkCowDVA-unsplash.jpg" alt="" />
+                <p>I recently ordered the English version of the book <a href="https://dapps10.com/">"Cyber and Hacking in the worlds of Blockchain and Crypto"</a>, authored by <a href="https://www.linkedin.com/in/oded-vanunu-a131283/">Oded Vanunu</a>, <a href="https://www.linkedin.com/in/romanzaikin/">Roman Zaikin</a> &amp; <a href="https://www.linkedin.com/in/diklabarda/">Dikla Barda</a>. It is based on their Defcon workshop "from zero to hero in blockchain security".</p>
+<figure class="post__image post__image--center" ><a href="https://dapps10.com/"><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/89//Screenshot-2023-09-19-205249.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/89//responsive/Screenshot-2023-09-19-205249-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/89//responsive/Screenshot-2023-09-19-205249-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/89//responsive/Screenshot-2023-09-19-205249-md.png 768w"  alt="" width="300" height="415"></a>
+<figcaption >I really dislike the hoodie hacker stereotype, but I digress, content trumps visuals.</figcaption>
+</figure>
+<p>I am sucker for printed books, so I could not resist the urge to order. It does not come cheap (I paid approx. $55 shipping included), but I do not mind supporting these aspiring authors (they all work as security researchers at Checkpoint 😉).</p>
+<h3>What will you learn?</h3>
+<p><span style="font-family: var(--editor-font-family); font-size: inherit;">The theory and practice of detecting security vulnerabilities in blockchain technology</span></p>
+<ul class="list-unstyled list-icon mb-4">
+<li class="mb-3"><i class="la la-check"></i> Learn the theory behind blockchain at the level of bits and bytes.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn how to develop a smart contract and upload it to the blockchain network.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn what are the security flaws in smart contracts and how to detect them.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn top 10 existing attack vectors in blockchain dApps.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn how digital wallets work and the different types of wallets available.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn about attacks on smart contracts in the DeFi field.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn about Web3.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn the different types of crypto exchanges and the associated risks.</li>
+<li class="mb-3"><i class="la la-check"></i> Learn about NFTs and how weaknesses in the platforms were exploited.</li>
+<li><i class="la la-check"></i> And <a href="https://dapps10.com/en/book.html">more</a>!</li>
+</ul>
+<p>Here is a written <a href="https://www.cybertalk.org/2023/09/12/cracking-the-blockchain-code-expert-perspectives-on-security-and-vulnerabilities/">interview</a> with the three of them regarding the launch of their book. </p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@bady?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">bady abbas</a> on <a href="https://unsplash.com/photos/AlgJkCowDVA?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Article Series on Cryptocurreny Regulation</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/"/>
+        <id>https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/</id>
+            <category term="Regulation"/>
+
+        <updated>2023-09-19T21:12:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/60/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" alt="" />
+                <p class="msg msg--info msg--highlight  ">⚠️ <strong>Warning</strong><br>I am definitely not a lawyer, so please inform yourself properly before relying on this summarised information.</p>
+<p>With all the fuss about regulation coming to cryptocurrencies, I have been reading up on global, European and Belgian crypto regulation.</p>
+<p>Since the focus of this website is still very much<strong> security focused</strong>, I will try my best to highlight the various security requirements with regard to crypto-assets.</p>
+<p>Besides <em>crypto regulation</em>, there is also existing or new <em>security regulation</em>. Most of these are -unsurprisingly- specific to the financial sector. However there is also more encompassing legislation, e.g. the Artificial Intelligence (AI) Act, the Cyber Resilience Act (CRA) or the Critical Entities Resilience (CER) Directive. They all mandate compliance with certain security requirements, for a selection of entities in scope.</p>
+<p>Please also note that these requirements often intersect (and overlap 😭) with other risk and compliance domains such as non-financial risk management practices (i.e. operational risk, payment fraud, market abuse), anti-money laundering (know-your-customer, know-your-transaction) etc.</p>
+<p>Beware, this subject matter quickly gets pretty complicated... </p>
+<ul>
+<li>(<a href="https://smartcontractsecurity.eu/tags/legislation/">All Articles</a>)</li>
+</ul>
+<h4>European regulation 🇪🇺</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a> </li>
+<li><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a> </li>
+<li>Update of Regulation 2015/847 on information accompanying transfers of funds ("TFR" or "travel rule")</li>
+</ul>
+<h5>Security related</h5>
+<ul>
+<li>Network and Information Security (NIS2) Directive</li>
+<li><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a> </li>
+<li>EBA Guidelines on ICT and security risk management </li>
+<li>EIOPA Guidelines on ICT security and governance </li>
+</ul>
+<h6>Overarching</h6>
+<ul>
+<li>Artificial Intelligence (AI) Act</li>
+<li>Cyber Resilience Act (CRA)</li>
+<li>Critical Entities Resilience (CER) Directive</li>
+</ul>
+<h4>Belgian regulation 🇧🇪</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/">Belgian Anti-Money Laundering Act</a> </li>
+<li><a href="https://smartcontractsecurity.eu/fsma-classification-of-crypto-assets-as-securities-investment-instruments-or-financial-instruments/">FSMA Communication: Classification of crypto-assets as securities, investment instruments or financial instruments</a> </li>
+<li><a href="https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/" target="_blank" rel="noopener noreferrer">New FSMA Regulation: Rules governing advertisements for virtual currencies</a> </li>
+</ul>
+<h4>Global regulation 🌎</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li>IOSCO - Policy Recommendations for Crypto and Digital Asset Markets </li>
+<li>FSB - Global Regulatory Framework for Crypto-asset Activities</li>
+<li>BCBS - Prudential treatment of cryptoasset exposures </li>
+<li>FATF - Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers</li>
+</ul>
+<h6>Security related</h6>
+<ul>
+<li>CPMI-IOSCO - Guidance on cyber resilience for financial market infrastructures </li>
+<li>BCBS - Principles for operational resilience and sound management of operational risk, effective risk data aggegration and risk reporting</li>
+</ul>
+<hr>
+<p><em>Acronyms used:</em></p>
+<ul>
+<li><em>IOSCO: International Organization of Securities Commission </em></li>
+<li><em>CPMI: Committee on Payments and Market Infrastructures</em></li>
+<li><em>FATF: The Financial Action Task Force</em></li>
+<li><em>BCBS: Basel Committee on Banking Supervision's</em></li>
+<li><em>FSB: Financial Stability Board </em></li>
+<li><em>FSMA: Financial Services and Markets Authority</em></li>
+</ul>
+<p>Please also have a look the European Commission's <a href="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy">Blockchain Strategy</a> and the EC's vision of a <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">legal and regulatory framework for blockchain</a>.</p>
+<p>Another interesting read: <a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</a></p>
+<p>I will make sure to also add relevant info with regard to the European Central Bank Digital Currency (CBDC), called the "Digital Euro".</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Secureum TrustX @ Devconnect Istanbul (2023)</title>
         <author>
             <name>Anonymous</name>
@@ -533,59 +652,6 @@
 </ul>
 <hr>
 <p>Photo by <a href="https://unsplash.com/es/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Gouw</a> on <a href="https://unsplash.com/photos/NSFG5sJYZgQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New FSMA Regulation: Rules governing advertisements for virtual currencies</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/"/>
-        <id>https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/</id>
-            <category term="Regulation"/>
-
-        <updated>2023-03-20T20:30:39+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/76/cardmapr-nl-rDzI7m7sjPE-unsplash.jpg" alt="" />
-                <p>The Financial Services and Markets Authority (FSMA) was granted a new power by the government to regulate advertisements for virtual currencies. The FSMA issued a Regulation to this end that was published on 17 March 2023 in the Belgian Official Gazette (Moniteur belge/Belgisch Staatsblad) and will enter into force on 17 May 2023. The Regulation has three main aspects:</p>
-<ul>
-<li>The basic principle that advertisements must be accurate and not misleading</li>
-<li>Advertisements must contain mandatory information that points out the risks</li>
-<li>Mass media campaigns must be notified to the FSMA in advance</li>
-</ul>
-<p>More info in the <a href="https://www.fsma.be/en/news/virtual-currencies-fsma-steps-its-action-protect-consumers">press release</a> by the FSMA.</p>
-<p>All advertisements must also contain this warning: <strong>"<em style="font-weight: bold;">Virtual currencies, real risks.</em> <em style="font-weight: bold;">The only guarantee in crypto is risk</em><em>." </em>😅</strong></p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/photos/rDzI7m7sjPE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ghosts of Epochs Past by Keyrxng</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/"/>
-        <id>https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-            <category term="Secureum"/>
-            <category term="Ethereum"/>
-
-        <updated>2023-03-13T19:12:13+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/75/joey-huang-QocSP_L-O4M-unsplash.jpg" alt="" />
-                <p><a href="https://twitter.com/keyrxng">Keyrxng</a> created a beautiful dApp where you can revisit all past Secureum RACE's.</p>
-<p class="align-center"><strong><a href="https://ghostsofepochspast.xyz">https://ghostsofepochspast.xyz</a></strong></p>
-<p class="msg msg--highlight ">"<a href="https://ghostsofepochspast.xyz/" rel="nofollow">GhostsOfEpochsPast</a> is a place to study and revise previous race epochs provided by <a href="https://secureum.xyz/" rel="nofollow">Secureum</a>, a community of like minded crypto enthusiasts with a focus on <strong>Ethereum</strong>, <strong>Solidity</strong> and <strong>Smart Contract Security</strong>. There is no time limit unlike the real races (which you, fellow security researcher should be aiming to apply to participate in once you complete these stress free revisions). Your answers are hashed and verified on-chain, yes we are aware there are ways to cheat but that defeats the purpose. You should be old enough and resourceful enough to effectively learn from this material and not need to rely on shortcuts to "win", as you'll never place in C4 with that attitude."<strong><a href="https://ghostsofepochspast.xyz/"></a> </strong></p>
-<p>You can find extra information <a href="https://github.com/Keyrxng/GhostsOfEpochsPast">GitHub</a>!</p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@onice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joey Huang</a> on <a href="https://unsplash.com/photos/QocSP_L-O4M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
