@@ -119,6 +119,48 @@
         </content>
     </entry>
     <entry>
+        <title>The Rekt Test</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/the-rekt-test/"/>
+        <id>https://smartcontractsecurity.eu/the-rekt-test/</id>
+            <category term="Security"/>
+
+        <updated>2023-11-24T19:56:15+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/93/c-joyful-uWOBgtCD_m8-unsplash.jpg" alt="" />
+                <p><strong>The Rekt Test<sup>1</sup></strong>, an easily understandable questionnaire<sup>2</sup> that helps web3 developers assess their security maturity:</p>
+<ol>
+<li>Do you have all actors, roles, and privileges documented?</li>
+<li>Do you keep documentation of all the external services, contracts, and oracles you rely on?</li>
+<li>Do you have a written and tested incident response plan?</li>
+<li>Do you document the best ways to attack your system?</li>
+<li>Do you perform identity verification and background checks on all employees?</li>
+<li>Do you have a team member with security defined in their role?</li>
+<li>Do you require hardware security keys for production systems?</li>
+<li>Does your key management system require multiple humans and physical steps?</li>
+<li>Do you define key invariants for your system and test them on every commit?</li>
+<li>Do you use the best automated tools to discover security issues in your code?</li>
+<li>Do you undergo external audits and maintain a vulnerability disclosure or bug bounty program?</li>
+<li>Have you considered and mitigated avenues for abusing users of your system?</li>
+</ol>
+<p>I am not sure what is the original publication (if there is one), but I came across these two articles that provide more background on the questionnaire and its contents:</p>
+<ul>
+<li><a href="https://medium.com/immunefi/the-rekt-test-9834fc7467fb">The Rekt Test (Immunefi)</a></li>
+<li><a href="https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/">Can you pass the Rekt test? (Trail of Bits)</a></li>
+</ul>
+<p>It is interesting to see the web3 security space steadily maturing, i.e. integrating more and more security best practices from the traditional "web2" world. </p>
+<hr>
+<p><sup>[1]</sup> <a href="https://www.urbandictionary.com/define.php?term=Rekt">Urban Dictionary: Rekt</a>, see also <a href="https://rekt.news/">https://rekt.news/</a> 😅</p>
+<p><sup>[2]</sup> The questionnaire was created by a group of web3 security experts including <a class="af or" href="https://twitter.com/mitchellamador" rel="noopener ugc nofollow" target="_blank">Mitchell Amador</a> (Immunefi), <a class="af or" href="https://www.linkedin.com/in/danguido/" rel="noopener ugc nofollow" target="_blank">Dan Guido</a> (Trail of Bits), <a class="af or" href="https://www.linkedin.com/in/nickshalek/" rel="noopener ugc nofollow" target="_blank">Nick Shalek</a> (Ribbit Capital), <a class="af or" href="https://www.linkedin.com/in/nathanmccauley/" rel="noopener ugc nofollow" target="_blank">Nathan McCauley</a> (Anchorage Digital), <a class="af or" href="https://www.linkedin.com/in/lee-mount-843541a9/" rel="noopener ugc nofollow" target="_blank">Lee Mount</a> (Euler Labs), <a class="af or" href="https://www.linkedin.com/in/shahar-madar/" rel="noopener ugc nofollow" target="_blank">Shahar Madar</a> (Fireblocks) and others.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Photo by </span><a href="https://unsplash.com/@alonly?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">C Joyful</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> on </span><a href="https://unsplash.com/photos/man-in-white-and-black-stripe-shirt-and-black-pants-standing-beside-black-car-during-daytime-uWOBgtCD_m8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Cyber And Hacking In The Worlds Of Blockchain And Crypto by Oded Vanunu, Roman Zaikin &amp; Dikla Barda</title>
         <author>
             <name>Anonymous</name>
@@ -544,114 +586,6 @@
 <hr>
 <p><em>Paris is *almost* next door for me, but unfortunately I cannot attend due to prior commitments </em>😢</p>
 <p>Do not forget to check out the recorded talks and presentations from yesteryear: <a href="https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/">DeFi Security Summit 2022 by Standford</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>NEAR Smart Contract Security Course by Timur Guvenkaya</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/"/>
-        <id>https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/</id>
-            <category term="Security"/>
-            <category term="NEAR"/>
-
-        <updated>2023-03-26T14:25:32+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/77/tim-gouw-NSFG5sJYZgQ-unsplash.jpg" alt="" />
-                <p><a href="https://twitter.com/timurguvenkaya">Timur Guvenkaya</a> has published his in-depth NEAR Smart Contract Security Course.</p>
-<p>It first touches upon general Rust security practices, before diving into Rust smart contract security best practices.</p>
-<p>The course consists of 12 lectures and is freely available on YouTube: <a href="https://youtube.com/playlist?list=PL7Gwuo_MOL740lhKTvouCJvk4sAyuqZqT" target="_blank" rel="noopener noreferrer">NEAR SC Security Course</a>, or hop directly to the first lecture 👇.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/DrRr6nru0no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
-<p>You can find the supporting slides on Timur's GitHub: <a href="https://github.com/timurguvenkaya/near-sc-security-course">https://github.com/timurguvenkaya/near-sc-security-course</a> </p>
-<h3>Course modules</h3>
-<p>Here is an overview of topics that the 12 lectures cover.</p>
-<h4>Rust Security</h4>
-<ul>
-<li>Error Handling
-<ul>
-<li>Recoverable Errors</li>
-<li>Unrecoverable Errors
-<ul>
-<li>unwrap &amp; expect</li>
-<li>Panicking Macros</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Arithmetic Issues
-<ul>
-<li>Integer Overflow &amp; Underflow</li>
-<li>Integer Overflow Prevention
-<ul>
-<li>Checked Maths</li>
-<li>Saturating Maths</li>
-</ul>
-</li>
-<li>Casting Overflow
-<ul>
-<li>Silent Casting Overflow</li>
-<li>Panicking Casting Overflow</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Division By 0</li>
-<li>Rounding Direction</li>
-<li>Division Before Multiplication</li>
-<li>Index Out Of Bounds</li>
-<li>Stack Overflow</li>
-<li>OOM (Out Of Memory)</li>
-<li>Crates With Vulnerabilities</li>
-<li>Handy Rust Tools</li>
-</ul>
-<h4>NEAR Rust Smart Contract Security</h4>
-<ul>
-<li>Access Control Issues
-<ul>
-<li>Missing Access Control</li>
-<li>Incorrect #[near_bindgen] usage</li>
-<li>Using env::signer_account_id()</li>
-<li>Public Callbacks</li>
-<li>Lack of Separation of Privileges</li>
-</ul>
-</li>
-<li>DoS (Denial of Service)
-<ul>
-<li>Usage of unverified accounts</li>
-<li>Case Study (Appchain Registry)</li>
-<li>Storage Bloating</li>
-<li>Prepaid Gas Exceeding</li>
-<li>Log/Event Bombing</li>
-</ul>
-</li>
-<li>Race Condition / Reentrancy</li>
-<li>Logical Vulnerabilities
-<ul>
-<li>Case Study (Custom NEP-141 Token)</li>
-<li>Case Study (Custom Storage<br>Deposit)</li>
-</ul>
-</li>
-<li>Tips &amp; Best Practices
-<ul>
-<li>Redundant state assertion</li>
-<li>Missing Zero Value Checks</li>
-<li>Unchecked Attached Deposit</li>
-<li>Usage of .take()</li>
-<li>require!()</li>
-<li>Tautological expressions</li>
-<li>2-step ownership transfer process</li>
-<li>Lack of Pausability</li>
-<li>Usage of Incorrect JSON Type</li>
-<li>Two Factor Authentication </li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/es/@punttim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Gouw</a> on <a href="https://unsplash.com/photos/NSFG5sJYZgQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
