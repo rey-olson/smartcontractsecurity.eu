@@ -119,6 +119,33 @@
         </content>
     </entry>
     <entry>
+        <title>Security and Auditing course by Cyfrin</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/"/>
+        <id>https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2023-12-30T19:25:33+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/94/dom-fou-YRMWVcdyhmI-unsplash.jpg" alt="" />
+                <p><a href="https://www.cyfrin.io/" target="_blank" rel="noopener noreferrer">Cyfrin</a><sup>[1]</sup> launched a new security and auditing course:<a href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/"></a></p>
+<p><a href="https://updraft.cyfrin.io/courses/security">https://updraft.cyfrin.io/courses/security</a></p>
+<p>It covers more advanced topics such as static analysis, fuzzing, invariant testing, common vulnerabilities and much (much!) more. Prerequisite knowledge includes Ethereum fundamentals, <a href="https://soliditylang.org/" target="_blank" rel="noopener noreferrer">Solidity </a>and <a href="https://getfoundry.sh/" target="_blank" rel="noopener noreferrer">Foundry</a>.</p>
+<p>The course is hosted on their Updraft platform that aggregates all of their courses (all of them are open and free of charge). At the time of writing, Updraft itself still seems to be in testing mode (you can however sign up for early access).</p>
+<hr>
+<p><sup>[1] </sup>Cyfrin is co-founded by Patrick Collins - that's right, the same Patrick that built the <a href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/">Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins.</a></p>
+<p>Photo by <a href="https://unsplash.com/@domlafou?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Dom Fou</a> on <a href="https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-YRMWVcdyhmI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The True Origin Of Hacks &amp; Top Web3 Vulnerabilities by Immunefi</title>
         <author>
             <name>Anonymous</name>
@@ -128,7 +155,7 @@
             <category term="Security"/>
             <category term="Bridges"/>
 
-        <updated>2023-11-24T20:35:14+01:00</updated>
+        <updated>2023-12-30T19:25:24+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -140,6 +167,11 @@
 <li>Smart contract vulnerabilities (broken access control, insufficient input validation, incorrect arithmetic operations, logic flow errors, etc.) account for 37.5%</li>
 <li>Bridge hacks (bridges are inherently complex and difficult to secure) often incur large losses. </li>
 </ul>
+<p>The former is no surprise: Web3, with its "new" (ahem) blockchain and smart contract vulnerabilities, still relies on the good ol' World Wide Web (and its classic IT infrastructure) to run.</p>
+<p>In addition: proper key management is notoriously hard to get right. It reminds me of this hilarious quote by James Mickens (read the <a href="https://smartcontractsecurity.eu/1401_08-12_mickens.pdf" target="_blank" rel="noopener noreferrer">entire article</a>, it is a bit long-winded, but is still fantastic satire):</p>
+<blockquote>
+<p>" [...] but constructing a public key infrastructure is incredibly difficult in practice. When someone says “assume that a public key cryptosystem exists,” this is roughly equivalent to saying “assume that you could clone dinosaurs, and that you could fill a park with these dinosaurs, and that you could get a ticket to this ‘Jurassic Park,’ and that you could stroll throughout this park without getting eaten, clawed, or otherwise quantum entangled with a macroscopic dinosaur particle.” With public key cryptography, there’s a horrible, fundamental challenge of finding somebody, <em>anybody</em>, to establish and maintain the infrastructure."</p>
+</blockquote>
 <hr>
 <h3>Related reading</h3>
 <p>With regard to bridge hacks, please refer to <a href="https://medium.com/immunefi/common-cross-chain-bridge-vulnerabilities-d8c161ffaf8f">Common Cross-Chain Bridge Vulnerabilities by Immunefi</a>. </p>
@@ -507,90 +539,6 @@
 </ul>
 <hr>
 <p>Photo by <a href="https://unsplash.com/ko/@dovilerm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dovile Ramoskaite</a> on <a href="https://unsplash.com/photos/XFe-3hmQiS4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Best Practices for Crypto Exchanges</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/cybersecurity-best-practices-for-crypto-exchanges/"/>
-        <id>https://smartcontractsecurity.eu/cybersecurity-best-practices-for-crypto-exchanges/</id>
-            <category term="Security"/>
-
-        <updated>2023-04-19T21:25:32+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/79/devin-avery-ZsgPd6ovNag-unsplash.jpg" alt="" />
-                <p>The <a href="https://www.nytimes.com/2022/11/10/technology/ftx-binance-crypto-explained.html">downfall of FTX</a> is truly a gift<sup>1</sup> that keeps on giving 🎁! FTX's cybersecurity practices are a showcase of <em>how not to secure your crypto business.</em></p>
-<p>An alternate title for this post could have been: <em>"Cybersecurity worst practices for crypto exchanges, a master class brought to you by FTX"</em>. But I digress. Let us dive into today's topic: cybersecurity best practices for crypto exchanges.</p>
-<h3>Learn from the mistakes <span style="text-decoration: line-through;">others make</span> FTX made</h3>
-<p>There is no better way to learn than to learn from mistakes. Mistakes that <em>ideally </em>others make. FTX in our case. So, in order to get to our security best practices, we can start by identifying <em>worst practices</em> and then avoid them like the plague 😷.</p>
-<h3>A damning report</h3>
-<p>FTX debtors released a new report detailing numerous security failures they have encountered. <strong>I urge everyone to read through the <a href="https://storage.courtlistener.com/recap/gov.uscourts.deb.188450/gov.uscourts.deb.188450.1242.1.pdf">full report</a>  to get a feel of how awful the state of security affairs were. </strong>This is worse than gross negligence if you ask me.</p>
-<blockquote>
-<p>In an internal communication, Bankman-Fried described Alameda as “hilariously beyond any threshold of any auditor being able to even get partially through an<br>audit,” adding: "Alameda is unauditable. I don’t mean this in the sense of “a major accounting firm will have reservations about auditing it”; I mean this in the sense of “we are only able to ballpark what its balances are, let alone something like a comprehensive transaction history.” We sometimes find $50m of assets lying around that we lost track of; such is life.</p>
-</blockquote>
-<h3>Not a pretty sight</h3>
-<p>Looking at the table of contents, we see where this is going...🍿 </p>
-<p><span style="color: #7e8c8d;"><strong><em>REVIEW OF CONTROL FAILURES<br></em><em>A. Lack of Management and Governance Controls</em></strong><span style="text-decoration: underline;"><strong><em><br></em></strong></span><em>1. FTX Group Management and Governance<br></em><em>2. Debtors’ Management and Governance<br></em><strong><em>B. Lack of Financial and Accounting Controls</em></strong><span style="text-decoration: underline;"><strong><em><br></em></strong></span><em>1. Lack of Key Personnel, Departments, and Policies<br></em><em>2. Lack of Appropriate Accounting Systems<br></em><em>3. Inadequate Reporting and Documentation<br></em><em>4. Trading Records from Other Exchanges<br></em><em>5. Intercompany Transactions <br></em><em>6. Extraordinary Privileges Granted to Alameda <br></em><strong><em>C. Lack of Digital Asset Management, Information Security &amp; Cybersecurity Controls<br></em></strong><em>1. Lack of Key Personnel, Departments, and Policies<br></em><em>2. Crypto Asset Management and Security<br></em><em>3. Identity and Access Management<br></em><em>4. Cloud and Infrastructure Security<br></em><em>5. Application and Code Security<br></em><em>6. Debtors’ Work to Identify and Secure Crypto Assets in the Computing Environment</em></span></p>
-<p>The examples included in the report supporting some findings are often <em>so batshit insane</em> that they are comical. They are beyond comprehension from a professional perspective...</p>
-<h3>Bad, worse, worst practices 🤦‍♂️</h3>
-<p>I cannot list all findings from the report, but here is a selection of failures contending for the gold medal🏅 of largest security fuck-up in crypto exchange history: </p>
-<p class="msg msg--info">You might not directly relate some of these failures to cybersecurity, but you should understand that a security function does not operate in a vacuum. In order to properly manage cyber/information/IT security risk, there is much interaction with other corporate functions such as compliance, non-financial risk, (IT) audit, executive &amp; board levels, ...</p>
-<ul>
-<li>FTX Group lacked independent or experienced finance, accounting, human resources, information security, or cybersecurity personnel or leadership, and lacked any internal audit function whatsoever. Board oversight, moreover, was also effectively non-existent.</li>
-<li>Key executive functions, including those of Chief Financial Officer, Chief Risk Officer, Global Controller and Chief Internal Auditor, were missing at some or all critical entities.</li>
-<li>FTX Group configured the codebase of FTX.com and associated customer databases to grant Alameda an effectively limitless ability to trade and withdraw assets from the exchange regardless of the size of Alameda’s account balance, and to exempt Alameda from the auto-liquidation process that applied to other customers.</li>
-<li>The FTX Group had no independent Chief Information Security Officer, no employee with appropriate training or experience tasked with fulfilling the responsibilities of such a role, and no established processes for assessing cyber risk, implementing security controls, or responding to cyber incidents in real time.</li>
-<li>In short, as with critical controls in other areas, the FTX Group grossly deprioritized and ignored cybersecurity controls, a remarkable fact given that, in essence, the FTX Group’s entire business—its assets, infrastructure, and intellectual property—consisted of computer code and technology.</li>
-<li>The FTX Group failed to implement basic, widely accepted security controls to<br>protect crypto assets:
-<ul>
-<li>First, the FTX Group kept virtually all crypto assets in hot wallets.</li>
-<li>Second, the FTX Group failed to employ multi-signature capabilities or Multi-Party Computation (“MPC”) controls (together, “multi-signature/MPC controls”) that are widely used throughout the crypto industry to protect crypto assets.</li>
-<li>Third, the FTX Group failed to manage or implement any appropriate system to attempt to manage private keys.</li>
-<li>Fourth, the FTX Group failed to appropriately implement controls to manage “wallet nodes,” which are software programs that operate on servers running the software of the blockchain network.</li>
-</ul>
-</li>
-<li>The FTX Group failed to implement in an appropriate fashion even the most widely accepted controls relating to Identity and Access Management (“IAM”)—often the first line of defense in preventing an unauthorized system compromise
-<ul>
-<li>First, the FTX Group failed to adhere to the basic security principle of “least privilege”.</li>
-<li>Second, the FTX Group failed to effectively enforce the use of multi-factor authentication (“MFA”) among its own personnel and corporate infrastructure</li>
-<li>Third, the FTX Group generally did not use Single Sign-On (“SSO”), an authentication scheme used by companies worldwide to manage user access centrally.</li>
-</ul>
-</li>
-<li>The FTX Group also failed to implement appropriate controls with respect to cloud and infrastructure security—that is, controls to protect its cloud services, networks, servers, and “user endpoints” such as desktops and laptops.
-<ul>
-<li>First, the FTX Group generally shared computer infrastructure and IT services among FTX.com, FTX.US, and Alameda.</li>
-<li>Second, while crypto exchanges are notoriously targeted by hackers, the FTX Group had poor or, in some cases, no “visibility” controls to detect and respond to cybersecurity threats.</li>
-<li>Third, the FTX Group did not implement controls sufficient to protect its network endpoints, such as laptops and desktops, from potential security threats.</li>
-<li>Fourth, the FTX Group had no comprehensive record from which it could even identify critical assets and services, including employee workstations, software application servers, business data, and third-party cloud and other services it relied upon, leaving it with little to no visibility into what it needed to secure, let alone how to best secure it.</li>
-</ul>
-</li>
-<li>The FTX Group did not implement controls sufficient to protect sensitive data<br>relating to its applications, including its application code, from vulnerabilities and attacks:
-<ul>
-<li>First, while it is widely recognized that sensitive data should be protected through encryption and appropriate access controls, the FTX Group failed to adopt these basic controls to secure its “application secrets,” that is, the highly sensitive data such as passwords, API keys, and private keys used by its applications.</li>
-<li>Second, the FTX Group failed to adopt certain standard controls in order to ensure the integrity of its code.</li>
-</ul>
-</li>
-</ul>
-<h3>Conclusion</h3>
-<p>I hope you learned as much as I did from the FTX debtor's report! If you made it this far and expected a short list of security best practices for your next CEX start-up, then let me disappoint you. Here are some other resources that might help you on your endeavours:</p>
-<ul>
-<li><a href="https://cloudsecurityalliance.org/artifacts/csa-crypto-asset-exchange-security-guidelines-abstract/">Crypto-Asset Exchange Security Guidelines by Cloud Security Alliance</a></li>
-<li><a href="https://cloudsecurityalliance.org/blog/2021/08/03/secure-distributed-ledger-technology-framework-for-financial-institutes/">Secure Distributed Ledger Technology Framework for Financial Institutes by Cloud Security Alliance</a></li>
-<li><a href="https://www.halborn.com/blog/post/10-ways-cryptocurrency-exchanges-can-improve-their-security">10 Ways Cryptocurrency Exchanges Can Improve Their Security by Halborn</a> </li>
-<li><a href="https://hacken.io/discover/cryptocurrency-exchange-security-assessment-methodology/">How To Secure Your Crypto Exchange by Hacken</a></li>
-<li><a href="https://metamask.io/institutions/">Metamask Institutional</a></li>
-</ul>
-<hr>
-<p><sup>[1]</sup> The FTX collapse is terrible for everyone involved. My heart goes out to everyone that lost their funds, and who are suffering the dire consequences.</p>
-<p>Photo by <a href="https://unsplash.com/@devintavery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Devin Avery</a> on <a href="https://unsplash.com/photos/ZsgPd6ovNag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p>Obligatory "this is fine" meme:</p>
-<div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
-<p> </p>
             ]]>
         </content>
     </entry>
