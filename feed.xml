@@ -119,6 +119,31 @@
         </content>
     </entry>
     <entry>
+        <title>Ethereum Smart Contract Auditor&#x27;s 2023 Rewind by Patrick Drotleff</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/"/>
+        <id>https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/</id>
+            <category term="Security"/>
+            <category term="Secureum"/>
+
+        <updated>2024-01-27T11:15:58+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" alt="" />
+                <p>It is that time of the year again! <a href="https://twitter.com/patrickd_de" target="_blank" rel="noopener noreferrer">@patrickd</a> published his recap of last year's noteworthy security incidents from the Ethereum sphere, without all the CT drama:</p>
+<p><a href="https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/">https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/</a></p>
+<p>He focuses on the technical details, in order for other researchers to learn about them and -especially- to make sure these vulnerabilites are spotted in future audits and reviews.</p>
+<p>What a benevolent person, he probably is the living incarnation of the "sharing is caring" attitude in the Web3 community (plus, ask him a technical question, and you always get an elaborate, yet to the point, answer).</p>
+<hr>
+<p>👉 Patrick's blog <a href="https://ventral.digital">https://ventral.digital</a> itself is a treasure trove filled with interesting content (incl. Secureum), make sure to check it out.</p>
+<p>Photo by <a href="https://unsplash.com/@francistogram?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Fran</a> on <a href="https://unsplash.com/photos/vehicles-wing-mirror-xGB2xHQF_Aw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Article Series on Cryptocurreny Regulation</title>
         <author>
             <name>Anonymous</name>
@@ -430,115 +455,6 @@
 <figure class="post__image post__image--center"><strong>(Small) excerpt </strong><a href="https://oswar.org"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/81/Screenshot-2023-06-07-113628.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-md.png 768w"  alt="" width="772" height="587"></figure></a></p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@hakannural?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hakan Nural</a> on <a href="https://unsplash.com/photos/qThn_yl0mag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chainalysis Links Amsterdam 2023</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/chainalysis-links-amsterdam-2023/"/>
-        <id>https://smartcontractsecurity.eu/chainalysis-links-amsterdam-2023/</id>
-            <category term="Regulation"/>
-
-        <updated>2023-06-07T17:54:22+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/80/dovile-ramoskaite-XFe-3hmQiS4-unsplash.jpg" alt="" />
-                <p>On May 9-10, I attended the LINKS 2023 event by Chainalysis in Amsterdam. <em>"The leading annual event of the cryptocurrency ecosystem" </em>(ahem 🤔)</p>
-<h3>Agenda</h3>
-<p>For the full agenda (including breakout sessions) &amp; speaker line-up please refer to the <a href="https://web.archive.org/web/20230605071316/https://www.chainalysis.com/links-emea/">WayBack Machine</a>.</p>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">You can view recordings of most of the sessions via </span><a href="https://academy.chainalysis.com/links-amsterdam-2023" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Chainalysis Academy</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> (you sadly need to register to access these recordings...)</span></p>
-<ul class="dp-curriculum">
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642828">
-<div class="lesson-wrapper">
-<div>Welcome and Strategic Vision</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642829">
-<div class="lesson-wrapper">
-<div>Building Trust: The Product Vision</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642830">
-<div class="lesson-wrapper">
-<div>In Conversation with BitStamp: The Future of Exchanges</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642831">
-<div class="lesson-wrapper">
-<div>Rules of the (Digital) Road: Digital Asset Regulation Across EMEA in 2023</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642832">
-<div class="lesson-wrapper">
-<div>From Reporting to Enforcement: Exploring the Complexities of Crypto Taxation</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642833">
-<div class="lesson-wrapper">
-<div>Tackling the Latest Frontier of Threats: How Law Enforcement is Organizing to Combat Crypto Crime</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642834">
-<div class="lesson-wrapper">
-<div>Ransomware as a Service and Blockchain Insights: Tales from the Italian Agency for Cyber Security</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642835">
-<div class="lesson-wrapper">
-<div>The Intersection of Crypto and War: A View from Ukraine</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642836">
-<div class="lesson-wrapper">
-<div>Making DeFi’s Altruistic Future a Reality</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642837">
-<div class="lesson-wrapper">
-<div>Building Brands in the Web3 Era: In Conversation with Bang &amp; Olufsen</div>
-</div>
-</li>
-<li class=" lesson-template-video-vimeo" data-url="/links-amsterdam-2023/1642838">
-<div class="lesson-wrapper">
-<div>3AM Phone Calls: Breaking Down Crypto Cases</div>
-<div><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Adapting to the Regulatory Landscape: Busha's Approach to Crypto Compliance in Nigeria</span></div>
-</div>
-</li>
-</ul>
-<h3>Takeaways</h3>
-<p>This are just my opinions, in no particular order, so please take my notes with a grain of salt. </p>
-<h4>Product</h4>
-<p>Chainalysis seems to have discovered a ridiculous product-market fit; their products/services obviously sell like hotcakes to a variety of public and private sector clients. Pricing however is apparently pretty steep / expensive.</p>
-<h4>Regulation</h4>
-<ul>
-<li>There was unanimity across speakers that <a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">MiCA regulation</a> is a great first step for European crypto regulations, but that there is much work left to do:
-<ul>
-<li>still no transparancy requirements for stablecoin issuers (e.g. wrt reserves)</li>
-<li>because there are still some implementation issues left to resolve, there is a risk that there will be one (EU) jurisdiction, but 27 implementations (one per member state)</li>
-<li>not all virtual asset providers are created equal: EU jurisdiction vs other global jurisdiction</li>
-<li>(de)banking of virtual asset providers is still a challenge for many providers.</li>
-</ul>
-</li>
-<li>European Data Act might hold some hard to fulfil requirements for DeFi (i.e. <a href="https://www.nasdaq.com/articles/the-eus-smart-contract-kill-switch-mandate-wont-kill-crypto">"kill switch"</a>)</li>
-<li>Apparently both <a href="https://www.iosco.org/publications/?subsection=public_reports">IOSCO (<span class="module__title__link">International Organization of Securities Commissions)</span></a><span class="module__title__link"> and <a href="https://www.fsb.org/2023/02/the-financial-stability-risks-of-decentralised-finance/">Financial Stability Board (FSB)</a> published papers on DeFi. It might be interesting how these organisations view DeFi, so 'll add them to my neverending reading list.</span></li>
-</ul>
-<h4>Bridges</h4>
-<p>The "deep-dive into bridges" training by <a href="https://www.linkedin.com/in/navarropablo/">Pablo Navarro-Rubio</a> was a great intro to bridges and their security implications. I wish there were more of this type of talks, but I guess most LINKS attendees are not the primary audience for these.</p>
-<h4>DeFi</h4>
-<p>Finally a talk about DeFi, that was alas much too short, with speakers from <a href="https://www.soliduslabs.com/">Solidus Labs</a> &amp; <a href="https://redefine.net/">ReDefine</a> (IIRC). Interesting tidbits: MEV as a money-laundering vehicle, <a href="https://tokensniffer.com">https://tokensniffer.com</a>, someone held the view that (compound) risk in DeFi needs to be much more transparent / understandable before DeFi can grow exponentially, <a href="https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/">account abstraction</a> is much needed for better custody solutions.</p>
-<h4>TradFi</h4>
-<p>It is interesting to see how different banks are getting into the crypto asset space:</p>
-<ul>
-<li>BNY Mellon is doing custody for a subset of their clients (read: wealthy clients)</li>
-<li>HSBC is acting very cautiously, they do not want to repeat the mistakes of the 2008 financial crisis. They are currently exploring B2B options (between banks)</li>
-<li>MoraBanc (Andorra) seems to go full monty in supporting their clients in their crypto journey. Anyway, Andorra compared to the rest of Europe, is often dubious from a tax (haven) perspective, just like Monaco. So I am not sure we should take these guys/gals as a prime example.</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/ko/@dovilerm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dovile Ramoskaite</a> on <a href="https://unsplash.com/photos/XFe-3hmQiS4?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
