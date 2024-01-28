@@ -24,6 +24,21 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/",
+            "url": "https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/",
+            "title": "CBDC architectures, the financial system, and the central bank of the future by Rainer Böhme &amp; Raphael Auer",
+            "content_html": "<p class=\"msg msg--highlight \">If you are interested in understanding what is a Central Bank Digital Currency (CBDC) and its usefulness, I suggest you consult your favourite search engine first, before getting into the nitty-gritty technical details 🔬</p>\n<p>Here we are, a first article on <strong>Central Bank Digital Currencies</strong>! I will mainly focus on the <strong>digital euro</strong> (and for now, its pilot projects), but there is a lot of security &amp; risk related research from other international sources, that I will cover as well.</p>\n<p>Most countries are exploring a CBDC by now. According to the Atlantic Council, 130 countries, representing 98 percent of global GDP, are exploring a CBDC . The Atlantic council has <a href=\"https://www.atlanticcouncil.org/cbdctracker/\" target=\"_blank\" rel=\"noopener noreferrer\">a slick website tracking CBDC projects</a>, so make sure to have a look: <a href=\"https://www.atlanticcouncil.org/cbdctracker/\"></a></p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://smartcontractsecurity.eu/media/posts/96/Screenshot-2024-01-28-194009.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-md.png 768w\"  alt=\"\" width=\"629\" height=\"287\"></figure>\n<h3>One does not simply 'launch' a CBDC</h3>\n<p>Anyway, besides countries' interest in CBDC's, one of the more interesting aspects (imho) is <em>how </em>exactly is (or better: will be) this implemented, and why? Enter the many different, <em>possible</em> CBDC architectures.<em> (Spoiler alert: it does not necessarily need to be based on Distributed Ledger Technology)</em></p>\n<p>Here is a great article by Rainer Böhme &amp; Raphael Auer for the Centre for Economic Policy Research (CEPR), explaining different designs with their pros and cons: <a href=\"https://cepr.org/voxeu/columns/cbdc-architectures-financial-system-and-central-bank-future\">https://cepr.org/voxeu/columns/cbdc-architectures-financial-system-and-central-bank-future</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://smartcontractsecurity.eu/media/posts/96/cbdc-architectures-overview.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-md.png 768w\"  alt=\"\" width=\"629\" height=\"717\">\n<figcaption >Excerpt showing different CBDC designs</figcaption>\n</figure>\n<hr>\n<p> </p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/96/ej-yao-D46mXLsQRJw-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "CBDC"
+            ],
+            "date_published": "2024-01-28T20:04:00+01:00",
+            "date_modified": "2024-01-28T20:04:00+01:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/",
             "url": "https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/",
             "title": "Ethereum Smart Contract Auditor&#x27;s 2023 Rewind by Patrick Drotleff",
@@ -149,21 +164,6 @@
             ],
             "date_published": "2023-06-24T15:08:57+02:00",
             "date_modified": "2023-06-24T15:12:25+02:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/oswar-open-standard-web3-attack-reference/",
-            "url": "https://smartcontractsecurity.eu/oswar-open-standard-web3-attack-reference/",
-            "title": "Open Standard Web3 Attack Reference (OSWAR)",
-            "content_html": "<p>The fantastic folks on the <a href=\"https://spearbit.com\">Spearbit </a>Discord posted this inspiring open-source community effort that tries to consolidate Web3 attacks and corresponding mitigations, inspired by the <a href=\"https://attack.mitre.org/\">MITRE ATT&amp;CK</a> framework:</p>\n<p class=\"align-center\"><a href=\"https://oswar.org/\">Open Standard Web3 Attack Reference (https://oswar.org)</a></p>\n<p class=\"align-center msg--highlight\"><em><strong>Security Framework for Decentralized Technologies (Web3)</strong><br>\"OSWAR (Open Standard Web3 Attack Reference) is a comprehensive framework that identifies, categorizes, and mitigates Web3-related attacks and vulnerabilities. Inspired by the MITRE ATT&amp;CK framework, OSWAR provides a structured, comprehensive, and actionable understanding of attacker behaviors, techniques, and vulnerabilities related to decentralized systems like blockchain platforms and decentralized applications (dApps). By providing detailed information and guidance on securing blockchain platforms, decentralized applications, and other Web3 technologies, OSWAR aims to foster a safer and more secure ecosystem for the future of decentralization.\"</em></p>\n<p>You can contribute on <a href=\"https://github.com/CyVers-AI/cyvers-ai-oswar\">GitHub </a>and there is a <a href=\"https://t.me/oswarcommunity\">Telegram </a>group you can join.</p>\n<figure class=\"post__image post__image--center\"><strong>(Small) excerpt </strong><a href=\"https://oswar.org\"><img loading=\"lazy\"  src=\"https://smartcontractsecurity.eu/media/posts/81/Screenshot-2023-06-07-113628.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/81/responsive/Screenshot-2023-06-07-113628-md.png 768w\"  alt=\"\" width=\"772\" height=\"587\"></figure></a></p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@hakannural?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Hakan Nural</a> on <a href=\"https://unsplash.com/photos/qThn_yl0mag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/81/hakan-nural-qThn_yl0mag-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2023-06-07T21:39:00+02:00",
-            "date_modified": "2023-06-07T21:39:00+02:00"
         }
     ]
 }
