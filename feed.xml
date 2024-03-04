@@ -119,6 +119,63 @@
         </content>
     </entry>
     <entry>
+        <title>FSB Global Regulatory Framework for Crypto-asset Activities</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/"/>
+        <id>https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/</id>
+            <category term="Regulation"/>
+
+        <updated>2024-03-04T21:31:49+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/86/claudio-schwarz-v66SXbmDVA-unsplash.jpg" alt="" />
+                <p>In July 2023 the FSB (i.e. the Financial Stability Board, <strong>not </strong>the Federal Security Service of the Russian Federation 😉) published "its global regulatory framework for crypto-asset activities to promote the comprehensiveness and international consistency of regulatory and supervisory approaches" <em>(holy shit, what a sentence)</em>:</p>
+<p><a href="https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/">https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/</a> </p>
+<p>It actually consists of two sets of recommendations:</p>
+<p>I. High-level recommendations for the regulation, supervision and oversight of <strong>crypto-asset activities and markets.</strong></p>
+<p>II. Revised high-level recommendations for the regulation, supervision, and oversight of <strong>“global stablecoin” arrangements. </strong><em>(note the "revised" and the different scope)</em></p>
+<p class="msg msg--info">If you read the FSB's introductory notes, they explicitly state these recommendations are mainly focused on addressing <em>risks to financial stability</em>, <strong>not </strong>so much specific risk categories such as cyber security, data privacy, etc.</p>
+<p>I am (by far) not a policy expert, but if you read the guidelines (see below), I think it is quite obvious the idea here is to regulate crypto-asset providers pretty much the same way as any other (key) player in the financial sector.</p>
+<p>I reckon the European <a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">MiCA </a> legislation does a pretty good job at translating these recommendations into law. H<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">owever, the main challenge remains: how to regulate DeFi, since there is not (at least not always) a single, centralized party to specifically target. But that is for another article!</span></p>
+<h3>Recommendations for the oversight of crypto-asset activities and markets</h3>
+<div class="lightweight-accordion-body">
+<ul>
+<li><strong>Recommendation 1: Regulatory powers and tools<br></strong>Authorities should have and utilise the appropriate powers and tools, and adequate resources to regulate, supervise, and oversee crypto-asset activities and markets, and enforce relevant laws and regulations effectively, as appropriate.</li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Recommendation 2: General regulatory framework<br></strong>Authorities should apply comprehensive and effective regulation, supervision, and oversight to crypto-asset activities and markets – including crypto-asset issuers and service providers – on a functional basis and proportionate to the financial stability risk they pose, or potentially pose, and consistent with authorities’ respective mandates in line with the principle “same activity, same risk, same regulation”.<br><br></li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Recommendation 3: Cross-border cooperation, coordination and information sharing<br></strong>Authorities should cooperate and coordinate with each other, both domestically and internationally, to foster efficient and effective communication, information sharing and consultation in order to support each other as appropriate in fulfilling their respective mandates and to encourage consistency of regulatory and supervisory outcomes.<br><br></li>
+<li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Recommendation 4: Governance<br></strong>Authorities, as appropriate, should require that crypto-asset issuers and service providers have in place and disclose a comprehensive governance framework with clear and direct lines of responsibility and accountability for all functions and activities they are conducting. The governance framework should be proportionate to their risk, size, complexity and systemic importance, and to the financial stability risk that may be posed by activity or market in which the crypto-asset issuers and service providers are participating. It should provide for clear and direct lines of responsibility and accountability for the functions and activities they are conducting.<br><br></li>
+<li><strong>Recommendation 5: Risk management</strong><br>Authorities, as appropriate, should require crypto-asset service providers to have an effective risk management framework in place that comprehensively addresses all material risks associated with their activities. The framework should be proportionate to the risk, size, complexity, and systemic importance, and to the financial stability risk that may be posed by the activity or market in which they are participating. Authorities should, to the extent necessary to achieve regulatory outcomes comparable to those in traditional finance, require crypto-asset issuers to address the financial stability risk that may be posed by the activity or market in which they are participating.<br><br></li>
+<li><strong>Recommendation 6: Data collection, recording and reporting</strong><br>Authorities, as appropriate, should require that crypto-asset issuers and service providers have in place robust frameworks, including systems and processes, for collecting, storing, safeguarding, and the timely and accurate reporting of data, including relevant policies, procedures and infrastructures needed, in each case proportionate to their risk, size, complexity and systemic importance. Authorities should have access to the data as necessary and appropriate to fulfil their regulatory, supervisory and oversight mandates.<br><br></li>
+<li><strong>Recommendation 7: Disclosures</strong><br>Authorities should require that crypto-asset issuers and service providers disclose to users and relevant stakeholders comprehensive, clear and transparent information regarding their governance framework, operations, risk profiles and financial conditions, as well as the products they provide and activities they conduct.<br><br></li>
+<li><strong>Recommendation 8: Addressing financial stability risks arising from interconnections and interdependencies</strong><br>Authorities should identify and monitor the relevant interconnections, both within the crypto-asset ecosystem, as well as between the crypto-asset ecosystem and the wider financial system. Authorities should address financial stability risks that arise from these interconnections and interdependencies.<br><br></li>
+<li><strong>Recommendation 9: Comprehensive regulation of crypto-asset service providers with multiple functions</strong><br>Authorities should ensure that crypto-asset service providers and their affiliates that combine multiple functions and activities, where permissible, are subject to appropriate regulation, supervision and oversight that comprehensively address the risks associated with individual functions and the risks arising from the combination of functions, including but not limited to requirements regarding conflicts of interest and separation of certain functions, activities, or incorporation, as appropriate.</li>
+</ul>
+<h3>Recommendations for the oversight of  <span style="text-decoration: underline;">G</span>lobal <span style="text-decoration: underline;">S</span>table<span style="text-decoration: underline;">c</span>oin Arrangements (GSC's)</h3>
+<p class="msg msg--info">I'm not exactly sure when a stablecoin qualifies as a "global" stablecoin, but currently the largest stablecoins (by market cap) are: USDT (Tether), USDC (Centre Consortium, founded by Circle and Coinbase), DAI (MakerDAO &amp; Maker Protocol)</p>
+</div>
+<div class="lightweight-accordion-body">
+<ul>
+<li><strong>Recommendation 1: Authorities’ readiness to regulate and supervise global stablecoin arrangements</strong><br>Authorities should have and utilise the appropriate powers and tools, and adequate resources, to comprehensively regulate, supervise, and oversee a GSC arrangement and its associated functions and activities, and enforce relevant laws and regulations effectively.<br><br></li>
+<li><strong>Recommendation 2: Comprehensive oversight of GSC activities and functions</strong><br>Authorities should apply comprehensive and effective regulatory, supervisory and oversight requirements consistent with international standards to GSC arrangements on a functional basis and proportionate to their risks insofar as such requirements are consistent with their respective mandates.<br><br></li>
+<li><strong>Recommendation 3: Cross-border cooperation, coordination and information sharing</strong><br>Authorities should cooperate and coordinate with each other, both domestically and internationally, to foster efficient and effective communication, information sharing and consultation in order to support each other in fulfilling their respective mandates and to ensure comprehensive regulation, supervision, and oversight of a GSC arrangement across borders and sectors, and to encourage consistency of regulatory and supervisory outcomes.<br><br></li>
+<li><strong>Recommendation 4: Governance structures and decentralised operations</strong><br>Authorities should require that GSC arrangements have in place and disclose a comprehensive governance framework with clear and direct lines of responsibility and accountability for all functions and activities within the GSC arrangement.<br><br></li>
+<li><strong>Recommendation 5: Risk management</strong><br>Authorities should require that GSC arrangements have effective risk management frameworks in place that comprehensively address all material risks associated with their functions and activities, especially with regard to operational resilience, cyber security safeguards and AML/CFT measures, as well as “fit and proper” requirements, if applicable, and consistent with jurisdictions’ laws and regulations.<br><br></li>
+<li><strong>Recommendation 6: Data storage and access to data</strong><br>Authorities should require that GSC arrangements have in place robust frameworks, including systems and processes for the collecting, storing, safeguarding and timely and accurate reporting of data. Authorities should have access to the data as necessary and appropriate to fulfil their regulatory, supervisory and oversight mandates.<br><br></li>
+<li><strong>Recommendation 7: Recovery and resolution of the GSC</strong><br>Authorities should require that GSC arrangements have appropriate recovery and resolution plans.<br><br></li>
+<li><strong>Recommendation 8: Disclosures</strong><br>Authorities should require that GSC issuers and, where applicable, other participants in the GSC arrangements provide all users and relevant stakeholders with comprehensive and transparent information to understand the functioning of the GSC arrangement, including with respect to the governance framework, any conflicts of interest and their management, redemption rights, stabilisation mechanism, operations, risk management framework and financial condition.<br><br></li>
+<li><strong>Recommendation 9: Redemption rights, stabilisation, and prudential requirements</strong><br>Authorities should require that GSC arrangements provide a robust legal claim to all users against the issuer and/or underlying reserve assets and guarantee timely redemption. For GSCs referenced to a single fiat currency, redemption should be at par into fiat. To maintain a stable value at all times and mitigate the risks of runs, authorities should require GSC arrangements to have an effective stabilisation mechanism, clear redemption rights and meet prudential requirements.<br><br></li>
+<li><strong>Recommendation 10: Conformance with regulatory, supervisory and oversight requirements before commencing operations</strong><br>Authorities should require that GSC arrangements meet all applicable regulatory, supervisory and oversight requirements of a particular jurisdiction before commencing any operations in that jurisdiction and adapt to new regulatory requirements as necessary and as appropriate.</li>
+</ul>
+</div>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@purzlbaum?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Claudio Schwarz</a> on <a href="https://unsplash.com/photos/white-and-blue-boat-on-water-near-green-trees-during-daytime--v66SXbmDVA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>CBDC architectures, the financial system, and the central bank of the future by Rainer Böhme &amp; Raphael Auer</title>
         <author>
             <name>Anonymous</name>
@@ -127,12 +184,12 @@
         <id>https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/</id>
             <category term="CBDC"/>
 
-        <updated>2024-01-28T20:04:00+01:00</updated>
+        <updated>2024-01-31T19:16:55+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://smartcontractsecurity.eu/media/posts/96/ej-yao-D46mXLsQRJw-unsplash.jpg" alt="" />
-                <p class="msg msg--highlight ">If you are interested in understanding what is a Central Bank Digital Currency (CBDC) and its usefulness, I suggest you consult your favourite search engine first, before getting into the nitty-gritty technical details 🔬</p>
+                <p class="msg msg--highlight  msg--info">If you are interested in understanding what is a Central Bank Digital Currency (CBDC) and its usefulness, I suggest you consult your favourite search engine first, before getting into the nitty-gritty technical details 🔬</p>
 <p>Here we are, a first article on <strong>Central Bank Digital Currencies</strong>! I will mainly focus on the <strong>digital euro</strong> (and for now, its pilot projects), but there is a lot of security &amp; risk related research from other international sources, that I will cover as well.</p>
 <p>Most countries are exploring a CBDC by now. According to the Atlantic Council, 130 countries, representing 98 percent of global GDP, are exploring a CBDC . The Atlantic council has <a href="https://www.atlanticcouncil.org/cbdctracker/" target="_blank" rel="noopener noreferrer">a slick website tracking CBDC projects</a>, so make sure to have a look: <a href="https://www.atlanticcouncil.org/cbdctracker/"></a></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/96/Screenshot-2024-01-28-194009.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-md.png 768w"  alt="" width="629" height="287"></figure>
@@ -181,7 +238,7 @@
         <id>https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/</id>
             <category term="Regulation"/>
 
-        <updated>2024-01-17T20:34:01+01:00</updated>
+        <updated>2024-03-04T21:33:01+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -226,7 +283,7 @@
 <h6>Crypto specific</h6>
 <ul>
 <li>IOSCO - Policy Recommendations for Crypto and Digital Asset Markets </li>
-<li>FSB - Global Regulatory Framework for Crypto-asset Activities</li>
+<li><a href="https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/">FSB - Global Regulatory Framework for Crypto-asset Activities</a></li>
 <li>BCBS - Prudential treatment of cryptoasset exposures </li>
 <li>FATF - Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers</li>
 </ul>
@@ -432,34 +489,6 @@
 </p>
 <hr>
 <p>Feel free to watch the recorded talks of last year via <a href="https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/">Secureum TrustX @ Devonnect Amsterdam</a>!<a href="https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/"></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/"/>
-        <id>https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/</id>
-            <category term="Solidity"/>
-            <category term="Ethereum"/>
-            <category term="DeFi"/>
-
-        <updated>2023-06-24T15:12:25+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/82/shubham-sharan-Z-fq3wBVfMU-unsplash.jpg" alt="" />
-                <p><a href="https://twitter.com/PatrickAlphaC">Patrick Collins</a> recently released his <a href="https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42">Blockchain Developer, Solidity, Foundry Full Course 2023</a>: </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/umepbfKp5rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<p>GitHub: <a href="https://github.com/PatrickAlphaC">https://github.com/PatrickAlphaC</a> </p>
-<p>It consists of 16 lessons (in total approx. 27 hours of video) and uses <a href="https://book.getfoundry.sh">Foundry</a> the hottest new smart contract development framework in town. Even Chainlink <em>(his ex-employer, but still)</em> dedicated a <a href="https://blog.chain.link/blockchain-course-learn-solidity-web3/">blog post</a> outlining the course, and why it is such a great learning resource🔥.</p>
-<p class="msg msg--info">A question I often ponder about is "How good a software developer do you need to be, to be an adeqaute security professional?". In all transparency, I do not consider myself to be a 'programmer' by any means. But from my experience, you do need to have at least a foundational knowledge level about the topic. On the other hand, the same can be said about infrastructure or systems engineering. Or any other IT domain. Which means that the quest for knowledge never ends. Anyway, in the case in the Web3 I noticed the focus is very much on the software (i.e. smart contract) side of things, less so on the infra side of things (unless you are building a full protocol with corresponding nodes etc.). So far I have chosen the generalist career path (i.e. "jack of all trades, master of none") versus a specialist role. But then again, I guess that is a common dilemma in many jobs nowadays. It reminds me of this great quote by <a href="https://www.goodreads.com/quotes/620163-the-more-i-learn-the-more-i-realize-how-much">Albert Einstein</a> / <a href="https://philosophy.stackexchange.com/questions/46282/did-aristotle-say-the-more-you-know">Socrates / Aristotle</a>: <em>"The more I learn, the more I realize how much I don't know.”. </em>It has pretty much become my mantra 😉.</p>
-<p>In the past Patrick already tutored another freeCodeCamp course: <strong><span style="font-family: var(--editor-font-family); font-size: inherit;">Solidity, Blockchain, and Smart Contract Course – Beginner to Expert </span><span style="font-family: var(--editor-font-family); font-size: inherit;">Python Tutoria</span><span style="font-family: var(--editor-font-family); font-size: inherit;">l </span></strong>which was / still is one of the better (if not best) free resources on Web3 development.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/M576WGiDBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@shubhamsharan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Shubham Sharan</a> on <a href="https://unsplash.com/photos/Z-fq3wBVfMU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
