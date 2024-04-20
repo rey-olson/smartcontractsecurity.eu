@@ -24,10 +24,27 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/",
+            "url": "https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/",
+            "title": "An analysis of two Web3 phishing kits by Bernhard Mueller",
+            "content_html": "<p class=\"msg msg--highlight   msg--info\">I came across this article via <a href=\"https://newsletter.blockthreat.io/subscribe\">BlockThreat - Week 14, 2024 (by Peter Kacherginsky)</a>, which is by far still the best blockchain security newsletter out there (go subscribe, now!)</p>\n<p><a href=\"https://muellerberndt.medium.com/\">Bernhard </a>de-obfuscates and examines two popular crypto wallet drainers (both are, unsurprisingly, Javascript malware):</p>\n<ul>\n<li><a href=\"https://muellerberndt.medium.com/a-peek-inside-inferno-drainer-0a69647b85ca\">A peek inside Inferno Drainer</a></li>\n<li><a href=\"https://muellerberndt.medium.com/a-brief-analysis-of-angel-drainer-1660d15c9248\">A brief analysis of Angel Drainer</a></li>\n</ul>\n<p>Both are well crafted pieces of malware, capable of some clever tricks, for example:</p>\n<ul>\n<li>\"Receiver addresses for regular and seaport transactions. Low-value assets are drained to these addresses, while high-value assets are drained to previously unused addresses.</li>\n<li>It is able to intelligently sort tokens and NFTs based on value, prioritizing the most lucrative assets for extraction.</li>\n<li>In most cases, Angel drainer asks the user to send an approval transaction or sign an ERC-2612 permit. If successful, the drainer then notifies its backend to withdraw the victim’s assets. A variety of methods are supported, including:\n<ul>\n<li>Unstaking and stealing stakes from popular projects like Apes, MAYC, BAYC, Potatoz, and Creepz</li>\n<li>Trading NFTs on Blur and OpenSea on behalf of the victim, allowing the attackers to liquidate valuable assets</li>\n<li>Stealing LP position NFTs from decentralized exchanges like PancakeSwap, Sushiswap, TraderJoe, and QuickSwap</li>\n<li>Withdrawing liquidity from Curve and Aave positions</li>\n<li>Generically stealing ERC20 tokens and NFTs sorted by value (including looking up valuations on DEXes/NFT exchanges). \"</li>\n</ul>\n</li>\n</ul>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@bullterriere?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Simon Hurry</a> on <a href=\"https://unsplash.com/photos/a-small-rock-in-the-middle-of-a-body-of-water-Lhx_5_DJajE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Unsplash</a></p>",
+            "image": "https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Ethereum",
+                   "DeFi"
+            ],
+            "date_published": "2024-04-20T13:16:52+02:00",
+            "date_modified": "2024-04-20T13:25:52+02:00"
+        },
+        {
             "id": "https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/",
             "url": "https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/",
             "title": "Smart Contract Phishing, Attack &amp; Defense by Tejaswa Rastogi",
-            "content_html": "<p>Tejaswa Rastogi (<a href=\"https://twitter.com/razzor_tweet\">Razzor</a>) did a nice talk on smart contract phishing. He covers some interesting attack vectors, as well as defense mechanisms. </p>\n<ul>\n<li><strong>Homoglyph injections</strong>, e.g. employing look-alike characters for malicious functions. That fake deposit function is <em>not actually</em> depositing your funds...</li>\n<li><strong>Library sideloading</strong>, e.g. calling (malicious) external libraries through DELEGATECALL wich will undoubtedly result in an unpleasant surprise (rekt).</li>\n<li><strong>Metadata injections</strong>, e.g. hiding malicious functionality (backdoors) in smart contract metadata (metadata is apparently(?) not included in the contract verification process of Etherscan)</li>\n</ul>\n<p>The more you know... 👀</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VIweBz_6IsU?si=PPEifOtbxwjpetpN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@elsbethcat?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Beth Macdonald</a> on <a href=\"https://unsplash.com/photos/woman-in-orange-t-shirt-holding-fish-lr14z8wy430?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Unsplash</a></p>",
+            "content_html": "<p>Tejaswa Rastogi (<a href=\"https://twitter.com/razzor_tweet\">Razzor</a>) did a nice talk on smart contract phishing. He covers some interesting attack vectors, as well as defense mechanisms. </p>\n<ul>\n<li><strong>Homoglyph injections</strong>, e.g. employing look-alike characters for malicious functions. That fake deposit function is <em>not actually</em> depositing your funds...</li>\n<li><strong>Library sideloading</strong>, e.g. calling (malicious) external libraries through DELEGATECALL wich undoubtedly results in an unpleasant surprise (you lose your funds).</li>\n<li><strong>Metadata injections</strong>, e.g. hiding malicious functionality (backdoors) in smart contract metadata. Metadata apparently(?) is not included in the contract verification process of Etherscan.</li>\n</ul>\n<p>The more you know... 👀</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VIweBz_6IsU?si=PPEifOtbxwjpetpN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@elsbethcat?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Beth Macdonald</a> on <a href=\"https://unsplash.com/photos/woman-in-orange-t-shirt-holding-fish-lr14z8wy430?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash\">Unsplash</a></p>",
             "image": "https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg",
             "author": {
                 "name": "Anonymous"
@@ -36,7 +53,7 @@
                    "Security"
             ],
             "date_published": "2024-04-09T21:45:09+02:00",
-            "date_modified": "2024-04-09T21:47:17+02:00"
+            "date_modified": "2024-04-20T12:49:31+02:00"
         },
         {
             "id": "https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/",
@@ -145,22 +162,6 @@
             ],
             "date_published": "2023-12-30T18:54:58+01:00",
             "date_modified": "2023-12-30T19:25:33+01:00"
-        },
-        {
-            "id": "https://smartcontractsecurity.eu/the-true-origin-of-hacks-and-top-web3-vulnerabilities-by-immunefi/",
-            "url": "https://smartcontractsecurity.eu/the-true-origin-of-hacks-and-top-web3-vulnerabilities-by-immunefi/",
-            "title": "The True Origin Of Hacks &amp; Top Web3 Vulnerabilities by Immunefi",
-            "content_html": "<p>Immunefi published a research report that lists the (types) of vulnerabilities that lie at the heart of many crypto hacks: <a href=\"https://immunefi.com/research/\">The True Origin Of Hacks &amp; Top Web3 Vulnerabilities</a></p>\n<p>Key takeaways (based on data from 2022):</p>\n<ul>\n<li><strong>Infrastructure vulnerabilities (mainly private key management) are the origin of 46.5% of all hacks.</strong></li>\n<li>Smart contract vulnerabilities (broken access control, insufficient input validation, incorrect arithmetic operations, logic flow errors, etc.) account for 37.5%</li>\n<li>Bridge hacks (bridges are inherently complex and difficult to secure) often incur large losses. </li>\n</ul>\n<p>The former is no surprise: Web3, with its \"new\" (ahem) blockchain and smart contract vulnerabilities, still relies on the good ol' World Wide Web (and its classic IT infrastructure) to run.</p>\n<p>In addition: proper key management is notoriously hard to get right. It reminds me of this hilarious quote by James Mickens (read the <a href=\"https://smartcontractsecurity.eu/1401_08-12_mickens.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">entire article</a>, it is a bit long-winded, but is still fantastic satire):</p>\n<blockquote>\n<p>\" [...] but constructing a public key infrastructure is incredibly difficult in practice. When someone says “assume that a public key cryptosystem exists,” this is roughly equivalent to saying “assume that you could clone dinosaurs, and that you could fill a park with these dinosaurs, and that you could get a ticket to this ‘Jurassic Park,’ and that you could stroll throughout this park without getting eaten, clawed, or otherwise quantum entangled with a macroscopic dinosaur particle.” With public key cryptography, there’s a horrible, fundamental challenge of finding somebody, <em>anybody</em>, to establish and maintain the infrastructure.\"</p>\n</blockquote>\n<hr>\n<h3>Related reading</h3>\n<p>With regard to bridge hacks, please refer to <a href=\"https://medium.com/immunefi/common-cross-chain-bridge-vulnerabilities-d8c161ffaf8f\">Common Cross-Chain Bridge Vulnerabilities by Immunefi</a>. </p>\n<p>For a terrific story by dWallet Labs about Web3 infrastructure vulnerabilities, please read the <a href=\"https://0d.dwalletlabs.com/the-billion-dollar-exploit-collecting-validators-private-keys-via-web2-attacks-4a385a5bb70d\">The Billion Dollar Exploit: Collecting Validators Private Keys via Web2 Attacks</a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
-            "image": "https://smartcontractsecurity.eu/media/posts/90/national-cancer-institute-KrsoedfRAf4-unsplash.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Bridges"
-            ],
-            "date_published": "2023-11-24T20:24:00+01:00",
-            "date_modified": "2023-12-30T19:25:24+01:00"
         }
     ]
 }
