@@ -27,7 +27,7 @@
 <p>So here it goes, below you can find yet another list of resources I have come across on my adventures on the world wide web. <br>Some of these links I can already scratch from the list ✔️😊.</p>
 <p>I am still thinking about:</p>
 <ol>
-<li>How to best structure posts. One aspect is that alot of these resources are also on other's guides (e.g. see <a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it's a big issue. Each of these items is worthy of a blog post, as there is alot of content to cover.</li>
+<li>How to best structure posts. One aspect is that most of these resources are also on other's guides (e.g. see <a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it is a big issue. Each of these items is worthy of a blog post, as there is a lot of content to cover.</li>
 <li>I reckon the Publii theme I've chosen is not the most sensible one from a UX perspective (especially on mobile), but I'll see how it goes... 🙈</li>
 </ol>
 <p><strong>General</strong></p>
@@ -115,6 +115,32 @@
 <hr>
 <p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blockchains, smart contracts, and how to secure them (Dutch webinar)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
+        <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
+            <category term="Security"/>
+            <category term="Regulation"/>
+
+        <updated>2024-06-08T21:18:22+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://smartcontractsecurity.eu/media/posts/102/philippe-bout-93W0xn4961g-unsplash.jpg" alt="" />
+                <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) asked me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
+<blockquote>
+<p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
+</blockquote>
+<p>The recording (approx. 1 hour) and slides are paywalled, SAI members can view them <a href="https://www.sai.be/event/details/260/smart-contracts-blockchain-security/">here</a>.</p>
+<p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
@@ -550,33 +576,6 @@
 <hr>
 <p>(*) money = transfers involving banknotes, coins, <a href="https://googlethatforyou.com?q=scriptural%20money" target="_blank" rel="noopener noreferrer">scriptural money</a> and electronic money<br>(**) information = name, account numer (if any), address, or national identity number, or customer identification number, or date and place of birth</p>
 <p>Photo by <a href="https://unsplash.com/@moneyphotos?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">rc.xyz NFT gallery</a> on <a href="https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-pile-of-coins-1C37UztDU8s?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Security and Auditing course by Cyfrin</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/"/>
-        <id>https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2023-12-30T19:25:33+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/94/dom-fou-YRMWVcdyhmI-unsplash.jpg" alt="" />
-                <p><a href="https://www.cyfrin.io/" target="_blank" rel="noopener noreferrer">Cyfrin</a><sup>[1]</sup> launched a new security and auditing course:<a href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/"></a></p>
-<p><a href="https://updraft.cyfrin.io/courses/security">https://updraft.cyfrin.io/courses/security</a></p>
-<p>It covers more advanced topics such as static analysis, fuzzing, invariant testing, common vulnerabilities and much (much!) more. Prerequisite knowledge includes Ethereum fundamentals, <a href="https://soliditylang.org/" target="_blank" rel="noopener noreferrer">Solidity </a>and <a href="https://getfoundry.sh/" target="_blank" rel="noopener noreferrer">Foundry</a>.</p>
-<p>The course is hosted on their Updraft platform that aggregates all of their courses (all of them are open and free of charge). At the time of writing, Updraft itself still seems to be in testing mode (you can however sign up for early access).</p>
-<hr>
-<p><sup>[1] </sup>Cyfrin is co-founded by Patrick Collins - that's right, the same Patrick that built the <a href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/">Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins.</a></p>
-<p>Photo by <a href="https://unsplash.com/@domlafou?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Dom Fou</a> on <a href="https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-YRMWVcdyhmI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>
