@@ -119,7 +119,7 @@
         </content>
     </entry>
     <entry>
-        <title>Blockchains, smart contracts, and how to secure them (Dutch webinar)</title>
+        <title>Blockchains, Smart Contracts, And How To Secure Them (Dutch Webinar)</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -128,7 +128,7 @@
             <category term="Security"/>
             <category term="Regulation"/>
 
-        <updated>2024-06-08T21:47:08+02:00</updated>
+        <updated>2024-07-27T20:39:25+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -145,7 +145,7 @@
         </content>
     </entry>
     <entry>
-        <title>An analysis of two Web3 phishing kits by Bernhard Mueller</title>
+        <title>An Analysis Of Two Web3 Phishing Kits by Bernhard Mueller</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -155,7 +155,7 @@
             <category term="Ethereum"/>
             <category term="DeFi"/>
 
-        <updated>2024-04-20T13:25:52+02:00</updated>
+        <updated>2024-07-27T20:39:50+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -407,7 +407,7 @@
         <id>https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/</id>
             <category term="Regulation"/>
 
-        <updated>2024-03-05T14:19:44+01:00</updated>
+        <updated>2024-07-27T20:58:02+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -427,6 +427,7 @@
 <li><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a> </li>
 <li><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a> </li>
 <li><a href="https://smartcontractsecurity.eu/european-travel-rule-for-crypto-asset-transfers/">Update of Regulation 2015/847 on information accompanying transfers of funds ("TFR" or "travel rule")</a></li>
+<li>Tax transparency rules for crypto-asset transactions (DAC8)</li>
 </ul>
 <h5>Security related</h5>
 <ul>
