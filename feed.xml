@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>smartcontractsecurity.eu</title>
     <link href="https://smartcontractsecurity.eu/feed.xml" rel="self" />
     <link href="https://smartcontractsecurity.eu" />
@@ -12,127 +12,185 @@
     <entry>
         <title>Everybody is winging it, all the time.</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/everyone-is-winging-it-all-the-time/"/>
         <id>https://smartcontractsecurity.eu/everyone-is-winging-it-all-the-time/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/17/cpy-sanjiv-nayak-SLh03kuAr50-unsplash.jpg" medium="image" />
 
         <updated>3210-01-01T23:59:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
-                <p>I probably suffer a tiny bit from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">imposter syndrome</a>, so I find it hard to commit myself to consistently write articles (however minimal they might even be). But then again: </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/17/suckingatsomethingjpg.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-xs.jpg 300w ,https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-sm.jpg 480w ,https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-md.jpg 768w"  alt="Meme: Sucking at something is the first step to being sort of good at something." width="512" height="288"></figure>
-<p>So here it goes, below you can find yet another list of resources I have come across on my adventures on the world wide web. <br>Some of these links I can already scratch from the list ✔️😊.</p>
-<p>I am still thinking about:</p>
-<ol>
-<li>How to best structure posts. One aspect is that most of these resources are also on other's guides (e.g. see <a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it is a big issue. Each of these items is worthy of a blog post, as there is a lot of content to cover.</li>
-<li>I reckon the Publii theme I've chosen is not the most sensible one from a UX perspective (especially on mobile), but I'll see how it goes... 🙈</li>
-</ol>
-<p><strong>General</strong></p>
-<ul>
-<li><span style="text-decoration: line-through;"><a href="https://kernel.community/module-0/">https://kernel.community/module-0/</a> </span>(✔️-&gt;<a href="https://smartcontractsecurity.eu/gitcoin-and-kernel-fellowship/">article</a>)</li>
-<li><a href="https://github.com/trufflesuite/ganache-cli-archive">https://github.com/trufflesuite/ganache-cli-archive</a> </li>
-<li><a href="https://ethereum.org/en/developers/learning-tools/">https://ethereum.org/en/developers/learning-tools/</a> </li>
-<li><a href="https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02">https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02</a> </li>
-<li><a href="https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955">https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955</a> </li>
-<li><a href="https://cryptodevhub.io/wiki/blockchain-development-tutorial">https://cryptodevhub.io/wiki/blockchain-development-tutorial</a> </li>
-<li>ETH.BUILD: <a href="https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi">https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi</a> </li>
-<li>The sorry state of DeFi security: <a href="https://youtu.be/6iJC-1meyYU">https://youtu.be/6iJC-1meyYU</a> </li>
-<li><a href="https://github.com/sherminvo/TokenEconomyBook"><span style="text-decoration: line-through;">https://github.com/sherminvo/TokenEconomyBook</span></a> (✔️-&gt; <a href="https://smartcontractsecurity.eu/token-economy/">article</a>)</li>
-<li><a href="https://github.com/dethcrypto/ethereum-code-viewer">https://github.com/dethcrypto/ethereum-code-viewer</a></li>
-<li><span style="text-decoration: line-through;"><a href="https://github.com/OffcierCia/DeFi-Developer-Road-Map">https://github.com/OffcierCia/DeFi-Developer-Road-Map</a></span> (✔️-&gt; <a href="https://smartcontractsecurity.eu/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/">article</a>)</li>
-<li><a href="https://www.learnweb3.io">https://www.learnweb3.io</a> </li>
-</ul>
-<p><strong>Security</strong></p>
-<ul>
-<li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph">https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️-&gt; <a href="https://smartcontractsecurity.eu/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
-<li><a href="https://docs.openzeppelin.com/contracts/4.x/">https://docs.openzeppelin.com/contracts/4.x/</a> </li>
-<li><a href="https://docs.openzeppelin.com/learn/developing-smart-contracts">https://docs.openzeppelin.com/learn/developing-smart-contracts</a> </li>
-<li><a href="https://docs.soliditylang.org/en/latest/security-considerations.html">https://docs.soliditylang.org/en/latest/security-considerations.html#</a> </li>
-<li><a href="https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md">https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md</a> <a href="https://dasp.co/#item-1">https://dasp.co/#item-1</a> </li>
-<li><a href="https://cryptoservices.github.io/">https://cryptoservices.github.io/</a> </li>
-<li><a href="https://github.com/sigp/solidity-security-blog/blob/master/README.md">https://github.com/sigp/solidity-security-blog/blob/master/README.md</a> </li>
-<li><a href="https://consensys.net/blog/developers/the-smart-contract-security-mindset/">https://consensys.net/blog/developers/the-smart-contract-security-mindset/</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/">https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/</a> </li>
-<li><a href="https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/">https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/</a> </li>
-<li><a href="https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/">https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/</a> </li>
-<li><a href="https://research.nccgroup.com/wp-content/uploads/2020/03/NCC-Group-Whitepaper-Coinbugs.pdf">https://research.nccgroup.com/wp-content/uploads/2020/03/NCC-Group-Whitepaper-Coinbugs.pdf</a> </li>
-<li><a href="https://github.com/PeterBorah/smart-contract-security-examples/issues/3">https://github.com/PeterBorah/smart-contract-security-examples/issues/3</a> </li>
-<li><a href="https://medium.com/@peterborah/we-need-fault-tolerant-smart-contracts-ec1b56596dbc">https://medium.com/@peterborah/we-need-fault-tolerant-smart-contracts-ec1b56596dbc</a> </li>
-<li><a href="https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/">https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/</a> </li>
-<li><a href="https://blog.ethereum.org/category/security/">https://blog.ethereum.org/category/security/</a> </li>
-<li><a href="https://hackingdistributed.com/2020/03/11/flash-loans/">https://hackingdistributed.com/2020/03/11/flash-loans/</a>  +  <a href="https://hackingdistributed.com/2016/07/13/reentrancy-woes/">https://hackingdistributed.com/2016/07/13/reentrancy-woes/</a> </li>
-<li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679">https://media.consensys.net/time-sure-does-fly-ed4518792679</a> </li>
-<li><a href="https://cryptoconsortium.github.io/CCSS/">https://cryptoconsortium.github.io/CCSS/</a> </li>
-<li><a href="https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/">https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/</a> </li>
-<li><a href="https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6">https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://consensys.github.io/smart-contract-best-practices/">https://consensys.github.io/smart-contract-best-practices/</a></span> (✔️-&gt;<a href="https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/">article</a>)</li>
-<li><a href="https://github.com/fravoll/solidity-patterns">https://github.com/fravoll/solidity-patterns</a> </li>
-<li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
-<li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
-<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️-&gt;<a href="https://smartcontractsecurity.eu/secureum/">article</a>)</li>
-<li><span style="text-decoration: line-through;"><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a></span> (✔️-&gt; <a href="https://smartcontractsecurity.eu/smart-contract-security-verification-standard-version-2-scsvsv2/">article</a>)</li>
-<li><a href="https://github.com/SmartContractSecurity/SWC-registry">https://github.com/SmartContractSecurity/SWC-registry</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️-&gt;<a href="https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
-<li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </span>(✔️-&gt;<a href="https://smartcontractsecurity.eu/yacademy/">article</a>)</li>
-<li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a></span> (✔️-&gt;<a href="https://smartcontractsecurity.eu/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
-<li><a href="https://github.com/KadenZipfel/smart-contract-attack-vectors">https://github.com/KadenZipfel/smart-contract-attack-vectors</a> </li>
-<li><a href="https://github.com/Rari-Capital/solcurity">https://github.com/Rari-Capital/solcurity</a> </li>
-<li><a href="https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8">https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8</a> </li>
-<li>Do a write-up or quick start guide of some well known code analyzers (e.g. Slither, Mythril, Echidna, Manticore, ...)</li>
-<li><a href="https://www.useweb3.xyz/">https://www.useweb3.xyz/</a> (#lists)</li>
-<li><a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13</a></li>
-<li><a href="https://solidity-by-example.org/">https://solidity-by-example.org/</a></li>
-<li>Learning Solidity: <a href="https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg">https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg</a></li>
-<li><span style="text-decoration: line-through;"><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </span>(✔️ -&gt; <a href="https://smartcontractsecurity.eu/awesome-solidity/">article</a>)</li>
-<li><a href="https://www.smartcontract.engineer/challenges">https://www.smartcontract.engineer/challenges</a>  (Solidity &amp; Vyper)</li>
-<li><span style="text-decoration: line-through;"><a href="https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2">https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2</a> </span>(✔️-&gt; <a href="https://smartcontractsecurity.eu/smart-contract-security-verification-standard-version-2-scsvsv2/">article</a>)</li>
-<li><span style="text-decoration: line-through;"><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </span>(✔️ -&gt; <a href="https://smartcontractsecurity.eu/hacking-the-blockchain-an-ultimate-guide-immunefi/">article</a>)</li>
-<li><span style="text-decoration: line-through;"><a href="https://devansh.xyz/blockchain-security/2021/09/13/genesis.html">https://devansh.xyz/blockchain-security/2021/09/13/genesis.html</a></span> (✔️-&gt; <a href="https://smartcontractsecurity.eu/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/">article</a>)</li>
-<li><a href="https://www.ethsecurity.org/">https://www.ethsecurity.org/</a> + <a href="https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit">https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit</a> </li>
-<li><a href="https://github.com/Certora/Tutorials">https://github.com/Certora/Tutorials</a> + <a href="https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started">https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started</a> </li>
-<li><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction"><span style="text-decoration: line-through;">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction</span></a><span style="text-decoration: line-through;"> </span> (✔️-&gt; <a href="https://smartcontractsecurity.eu/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/">article</a>)</li>
-<li><a href="https://www.youtube.com/watch?v=pJKy5HWuFK8">DeFi MOOC Lecture 12 Premiere: Practical Smart Contract Security by samczsun</a></li>
-<li>CTF's: <a href="https://twitter.com/arunim_shukla/status/1532263207146262529?s=20&amp;t=ax0dTGnmYqb8ZrUIdYrDiQ">https://twitter.com/arunim_shukla/status/1532263207146262529?s=20&amp;t=ax0dTGnmYqb8ZrUIdYrDiQ</a> </li>
-<li><a href="https://start.me/p/QRg5ad/officercia">https://start.me/p/QRg5ad/officercia</a></li>
-<li><a href="https://github.com/SunWeb3Sec/DeFiHackLabs">https://github.com/SunWeb3Sec/DeFiHackLabs</a> </li>
-</ul>
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/17/cpy-sanjiv-nayak-SLh03kuAr50-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This is a message to encourage you.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I for example, suffer quite a bit from </span><a href="https://en.wikipedia.org/wiki/Impostor_syndrome" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">imposter syndrome</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. I find it </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">really </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">hard to commit myself to consistently write articles (however minimal they might even be).  </span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">But then again, </span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/17/suckingatsomethingjpg.jpg" alt="" width="400" height="225" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-xs.jpg 300w ,https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-sm.jpg 480w ,https://smartcontractsecurity.eu/media/posts/17/responsive/suckingatsomethingjpg-md.jpg 768w"></figure>
+<p>and that is <em>totally okay</em>.</p>
+<p>If this resonates with you, great. If it does not, also great! Be whoever you want to be; it is not about what you do in life, but who you do it with. </p>
+<p><strong>I am grateful that you are here</strong>, to learn more about security in the world of blockchains and smart contracts!</p>
+<hr>
+<p>Please make sure to say <a href="https://smartcontractsecurity.eu/about-2/">hello</a>, you will make my day! If you need any help, just let me know.</p>
+<p>Пожалуйста, обязательно скажи привет, ты точно сделаешь мой день! Если тебе понадобится помощь, просто дай мне знать.</p>
+<p>Por favor, asegúrate de decir hola, ¡sin duda me alegrarás el día! Si necesitas ayuda con algo, solo avísame.</p>
+<p>N'oublie pas de dire bonjour, ça me fera vraiment plaisir ! Si tu as besoin de quoi que ce soit, n'hésite pas à me le demander.</p>
+<p>Sag auf jeden Fall hallo, das würde meinen Tag wirklich verschönern! Wenn du Hilfe brauchst, sag einfach Bescheid.</p>
+<p>Zeg zeker hallo, dat maakt mijn dag helemaal goed! Als je hulp nodig hebt, laat het me gewoon weten.</p>
+<p>Proszę koniecznie powiedzieć cześć, to zdecydowanie poprawi mi humor! Jeśli potrzebujesz pomocy, daj mi znać.</p>
+<p>Por favor, certifique-se de dizer oi, você certamente vai alegrar meu dia! Se precisar de alguma coisa, é só me avisar.</p>
+<p>من فضلك تأكد من قول مرحبا، ستجعل يومي بالتأكيد أفضل! إذا كنت بحاجة إلى أي مساعدة، فقط أخبرني.</p>
+<p>कृपया नमस्ते कहना सुनिश्चित करें, यह निश्चित रूप से मेरा दिन बना देगा! अगर आपको किसी भी चीज़ में मदद चाहिए, तो बस मुझे बता दें।</p>
+<p>꼭 안녕하세요라고 말해주세요. 제 기분이 정말 좋아질 거예요! 도움이 필요하면 언제든지 말씀하세요.</p>
+<p>必ずこんにちはと言ってください。本当に私の日を明るくしてくれます！何か必要なことがあれば、遠慮なく言ってください。</p>
+<p>请一定要说你好，你一定会让我开心！如果你需要任何帮助，请告诉我。</p>
+<p>Lütfen merhaba demeye dikkat edin, kesinlikle günümü güzelleştireceksiniz! Bir şeylere ihtiyacınız olursa, sadece haber verin.</p>
+<hr>
+<p class="msg msg--info">"Everybody is winging it, all the time", I came across this saying a couple of years ago and it still resonates with me. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
+<p>Photo by <a href="https://unsplash.com/@sanjiv222?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">sanjiv nayak</a> on <a href="https://unsplash.com/photos/gray-and-black-pigeon-on-brown-surface-SLh03kuAr50?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<p><em>If one of the translations is wrong (God knows I don't speak Hindi, Chinese, Korean, Japanese or most of these other exotic languages), just let me know </em>😇</p>
 <p> </p>
-<div><strong>EVM </strong></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Zero-Knowledge Security Workshop by Veridise</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/"/>
+        <id>https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg" medium="image" />
+            <category term="Security"/>
+            <category term="Secureum"/>
+            <category term="Ethereum"/>
+
+        <updated>2024-08-18T22:41:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--info">Veridise's <a href="https://www.mikkoikola.com/" target="_blank" rel="noopener noreferrer">Mikko Ikola</a> reached out to me to ask if I could list <a href="https://veridise.com" target="_blank" rel="noopener noreferrer">Veridise</a>, the company, to my published list of <a href="https://smartcontractsecurity.eu/audit-firms/" target="_blank" rel="noopener noreferrer">audit firms</a>. Which of course, I did. When I browsed their website, I stumbled upon this magnificient zero-knowledge ("ZK") security workshop they organised together with <a href="https://smartcontractsecurity.eu/secureum/" target="_blank" rel="noopener noreferrer">Secureum </a>in October-November 2023 👇</p>
+<h4 class="align-center"><a href="https://medium.com/veridise/zk-security-workshop-recap-winners-and-presentations-9c105dfab7de" target="_blank" rel="noopener noreferrer">ZK Security Workshop recap: Winners and presentations</a><br><br></h4>
+<p data-selectable-paragraph="">Especially helpful are the lecture slides, all provided by Veridise:</p>
 <ul>
-<li><a href="https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list">https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> (✔️-&gt;<a href="https://smartcontractsecurity.eu/ethereum-evm-illustrated/">article</a>)</li>
-<li><a href="https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30">https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-explained/">https://consensys.net/blog/blockchain-explained/</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/">https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/</a> </li>
-<li><a href="https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3">https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3</a> </li>
+<li>An Intro to ZK languages and Frameworks (Kostas Ferles, CRO)</li>
+<li>Abstracting ZK Circuits with Graphs (Daniel Dominguez, Security Engineer)</li>
+<li>Static Analysis for ZK Circuits (Kostas Ferles, CRO)</li>
+<li>Underconstrained circuits and the Picus tool (Shankara Pailoor, Research Scientist)</li>
+</ul>
+<p>As well as the guest presentation recordings:</p>
+<ul>
+<li>Lessons Learned from Securing Scroll zkEVM (Haichen Shen, Scroll co-founder)</li>
+<li>Circuit Techniques for Scaling Data Access on Ethereum (Yi Sun, Axiom co-founder)</li>
+<li>Tips for safe Circom circuits (Blockdev, Ethereum Foundation’s PSE team, software engineer)</li>
+</ul>
+<h3>Curious about zero-knowledge technology?</h3>
+<p>Before diving into the security implications of zero-knowledge tech, I suggest you start with the basics. The <a href="https://ethereum.org/en/zero-knowledge-proofs/">Ethereum Foundation</a> has a nice introduction on zero-knowledge proofs, as well as <a href="https://academy.binance.com/en/articles/what-is-zero-knowledge-proof-and-how-does-it-impact-blockchain">Binance Academy</a> <em>(don't shoot me for linking to Binance, it is an informative article, written by Kenny Li, co-founder of Manta Network).</em></p>
+<hr>
+<h3>Additional reading</h3>
+<p>There are more gems on the Veridise blog, for example <a href="https://medium.com/veridise/breakdown-of-100-security-audits-key-insights-from-1605-vulnerability-findings-0f12d830572e">Breakdown of 100 security audits: Key insights from 1605 vulnerability findings</a>.</p>
+<p>I think the views from the article align with my perception that, more recently, the larger losses stem from a) "old school" hacks (e.g. private key theft through social engineering attacks), b) business logic errors. I don't always closely follow the latest news with regards to exploits, but I have the impression that reentrancy attacks and so forth are not as popular as they were before. I guess due to projects improving their smart contract security game (higher code quality, more code audit(s) before go-live, ...)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Article Series on Cryptocurreny Regulation</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/"/>
+        <id>https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/60/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" medium="image" />
+            <category term="Regulation"/>
+
+        <updated>2024-07-27T23:41:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/60/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--info msg--highlight  ">⚠️ <strong>Warning</strong><br>I am definitely not a lawyer, so please inform yourself properly before relying on this summarised information.</p>
+<p>With all the fuss about regulation coming to cryptocurrencies, I have been reading up on global, European and Belgian crypto regulation.</p>
+<p>Since the focus of this website is still very much<strong> security focused</strong>, I will try my best to highlight the various security requirements with regard to crypto-assets.</p>
+<p>Besides <em>crypto regulation</em>, there is also existing or new <em>security regulation</em>. Most of these are -unsurprisingly- specific to the financial sector. However there is also more encompassing legislation, e.g. the Artificial Intelligence (AI) Act, the Cyber Resilience Act (CRA) or the Critical Entities Resilience (CER) Directive. They all mandate compliance with certain security requirements, for a selection of entities in scope.</p>
+<p>Please also note that these requirements often intersect (and overlap 😭) with other risk and compliance domains such as non-financial risk management practices (i.e. operational risk, payment fraud, market abuse), anti-money laundering (know-your-customer, know-your-transaction) etc.</p>
+<p>Beware, this subject matter quickly gets pretty complicated... </p>
+<ul>
+<li>(<a href="https://smartcontractsecurity.eu/tags/legislation/">All Articles</a>)</li>
+</ul>
+<h4>European regulation 🇪🇺</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a> </li>
+<li><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a> </li>
+<li><a href="https://smartcontractsecurity.eu/european-travel-rule-for-crypto-asset-transfers/">Update of Regulation 2015/847 on information accompanying transfers of funds ("TFR" or "travel rule")</a></li>
+<li>Tax transparency rules for crypto-asset transactions (DAC8)</li>
+</ul>
+<h5>Security related</h5>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/">(Revised) Network and Information Security Directive (NIS2) </a></li>
+<li><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a> </li>
+<li>EBA Guidelines on ICT and security risk management </li>
+<li>EIOPA Guidelines on ICT security and governance </li>
+</ul>
+<h6>Overarching</h6>
+<ul>
+<li>Artificial Intelligence (AI) Act</li>
+<li>Cyber Resilience Act (CRA)</li>
+<li>Critical Entities Resilience (CER) Directive</li>
+</ul>
+<h4>Belgian regulation 🇧🇪</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/">Belgian Anti-Money Laundering Act</a> </li>
+<li><a href="https://smartcontractsecurity.eu/fsma-classification-of-crypto-assets-as-securities-investment-instruments-or-financial-instruments/">FSMA Communication: Classification of crypto-assets as securities, investment instruments or financial instruments</a> </li>
+<li><a href="https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/" target="_blank" rel="noopener noreferrer">New FSMA Regulation: Rules governing advertisements for virtual currencies</a> </li>
+</ul>
+<h4>Global regulation 🌎</h4>
+<h6>Crypto specific</h6>
+<ul>
+<li>IOSCO - Policy Recommendations for Crypto and Digital Asset Markets </li>
+<li><a href="https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/">FSB - Global Regulatory Framework for Crypto-asset Activities</a></li>
+<li>BCBS - Prudential treatment of cryptoasset exposures </li>
+<li>FATF - Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers</li>
+</ul>
+<h6>Security related</h6>
+<ul>
+<li>CPMI-IOSCO - Guidance on cyber resilience for financial market infrastructures </li>
+<li>BCBS - Principles for operational resilience and sound management of operational risk, effective risk data aggegration and risk reporting</li>
 </ul>
 <hr>
-<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
-<p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p><em>Acronyms used:</em></p>
+<ul>
+<li><em>IOSCO: International Organization of Securities Commission </em></li>
+<li><em>CPMI: Committee on Payments and Market Infrastructures</em></li>
+<li><em>FATF: The Financial Action Task Force</em></li>
+<li><em>BCBS: Basel Committee on Banking Supervision's</em></li>
+<li><em>FSB: Financial Stability Board </em></li>
+<li><em>FSMA: Financial Services and Markets Authority</em></li>
+</ul>
+<p>Please also have a look the European Commission's <a href="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy">Blockchain Strategy</a> and the EC's vision of a <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">legal and regulatory framework for blockchain</a>.</p>
+<p>Another interesting read: <a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</a></p>
+<p>I will make sure to also add relevant info with regard to the European Central Bank Digital Currency (CBDC), called the "Digital Euro".</p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Blockchains, Smart Contracts, And How To Secure Them (Dutch Webinar)</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
         <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" medium="image" />
             <category term="Security"/>
             <category term="Regulation"/>
 
-        <updated>2024-07-27T20:39:25+02:00</updated>
+        <updated>2024-06-08T20:29:40+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/102/philippe-bout-93W0xn4961g-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) invited me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
 <blockquote>
 <p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
@@ -147,19 +205,20 @@
     <entry>
         <title>An Analysis Of Two Web3 Phishing Kits by Bernhard Mueller</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/"/>
         <id>https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg" medium="image" />
             <category term="Security"/>
             <category term="Ethereum"/>
             <category term="DeFi"/>
 
-        <updated>2024-07-27T20:39:50+02:00</updated>
+        <updated>2024-04-20T13:16:52+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--highlight   msg--info">I came across this article via <a href="https://newsletter.blockthreat.io/subscribe">BlockThreat - Week 14, 2024 (by Peter Kacherginsky)</a>, which is by far still the best blockchain security newsletter out there (go subscribe, now!)</p>
 <p><a href="https://muellerberndt.medium.com/">Bernhard </a>de-obfuscates and examines two popular crypto wallet drainers (both are, unsurprisingly, Javascript malware):</p>
 <ul>
@@ -188,17 +247,18 @@
     <entry>
         <title>Smart Contract Phishing, Attack &amp; Defense by Tejaswa Rastogi</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/"/>
         <id>https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg" medium="image" />
             <category term="Security"/>
 
-        <updated>2024-04-20T12:49:31+02:00</updated>
+        <updated>2024-04-09T21:45:09+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Tejaswa Rastogi (<a href="https://twitter.com/razzor_tweet">Razzor</a>) did a nice talk on smart contract phishing. He covers some interesting attack vectors, as well as defense mechanisms. </p>
 <ul>
 <li><strong>Homoglyph injections</strong>, e.g. employing look-alike characters for malicious functions. That fake deposit function is <em>not actually</em> depositing your funds...</li>
@@ -215,17 +275,18 @@
     <entry>
         <title>Network and Information Security Directive (NIS2)</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/"/>
         <id>https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/98/sergio-garcia-8lKpEfyFSoY-unsplash.jpg" medium="image" />
             <category term="Regulation"/>
 
-        <updated>2024-03-05T14:19:23+01:00</updated>
+        <updated>2024-03-05T14:15:42+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/98/sergio-garcia-8lKpEfyFSoY-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/98/sergio-garcia-8lKpEfyFSoY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--info">AFAICS, NIS2 does not apply to crypto-assets providers (beware that DORA is, which is similar to NIS2 contentwise), but you can expect regulators under MiCA to require similar cybersecurity measures as required under NIS2. Inspired by international cybersecurity frameworks such as the ISO 27000 standard, the required security measures are a de facto minimum nowadays, and should be common sense practices by now.</p>
 <p>Besides the <a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a>, which is aimed <em>exclusively at the European financial sector</em>, the NIS2 directive is probably <strong>the most encompassing security regulation in Europe</strong>. NIS2 is a revision of the 2016 NIS directive and the most significant change is that it expands its scope to <em>more sectors.</em></p>
 <p>In order to help organizations comply with NIS2, the European Union Agency for Cybersecurity (ENISA) compiled a list of minimum requirements, e.g. <a href="https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new/minimum-security-measures-for-operators-of-essentials-services">Minimum Security Measures for Operators of Essentials Services</a>. You can filter on sector (e.g. financial sector, digital infrastructure, ...) as well as on country. The latter lists additional "national controls" stemming from country specific, local legislation (currently only Cyprus, France, Germany and Sweden have listed such national controls).</p>
@@ -344,17 +405,18 @@
     <entry>
         <title>FSB Global Regulatory Framework for Crypto-asset Activities</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/"/>
         <id>https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/86/claudio-schwarz-v66SXbmDVA-unsplash.jpg" medium="image" />
             <category term="Regulation"/>
 
-        <updated>2024-03-04T21:31:49+01:00</updated>
+        <updated>2024-03-04T21:30:41+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/86/claudio-schwarz-v66SXbmDVA-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/86/claudio-schwarz-v66SXbmDVA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>In July 2023 the FSB (i.e. the Financial Stability Board, <strong>not </strong>the Federal Security Service of the Russian Federation 😉) published "its global regulatory framework for crypto-asset activities to promote the comprehensiveness and international consistency of regulatory and supervisory approaches" <em>(holy shit, what a sentence)</em>:</p>
 <p><a href="https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/">https://www.fsb.org/2023/07/fsb-global-regulatory-framework-for-crypto-asset-activities/</a> </p>
 <p>It actually consists of two sets of recommendations:</p>
@@ -399,107 +461,28 @@
         </content>
     </entry>
     <entry>
-        <title>Article Series on Cryptocurreny Regulation</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/"/>
-        <id>https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/</id>
-            <category term="Regulation"/>
-
-        <updated>2024-07-27T20:58:02+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/60/guillaume-perigois-0NRkVddA2fw-unsplash.jpg" alt="" />
-                <p class="msg msg--info msg--highlight  ">⚠️ <strong>Warning</strong><br>I am definitely not a lawyer, so please inform yourself properly before relying on this summarised information.</p>
-<p>With all the fuss about regulation coming to cryptocurrencies, I have been reading up on global, European and Belgian crypto regulation.</p>
-<p>Since the focus of this website is still very much<strong> security focused</strong>, I will try my best to highlight the various security requirements with regard to crypto-assets.</p>
-<p>Besides <em>crypto regulation</em>, there is also existing or new <em>security regulation</em>. Most of these are -unsurprisingly- specific to the financial sector. However there is also more encompassing legislation, e.g. the Artificial Intelligence (AI) Act, the Cyber Resilience Act (CRA) or the Critical Entities Resilience (CER) Directive. They all mandate compliance with certain security requirements, for a selection of entities in scope.</p>
-<p>Please also note that these requirements often intersect (and overlap 😭) with other risk and compliance domains such as non-financial risk management practices (i.e. operational risk, payment fraud, market abuse), anti-money laundering (know-your-customer, know-your-transaction) etc.</p>
-<p>Beware, this subject matter quickly gets pretty complicated... </p>
-<ul>
-<li>(<a href="https://smartcontractsecurity.eu/tags/legislation/">All Articles</a>)</li>
-</ul>
-<h4>European regulation 🇪🇺</h4>
-<h6>Crypto specific</h6>
-<ul>
-<li><a href="https://smartcontractsecurity.eu/markets-in-crypto-assets-mica-regulation/">Markets in Crypto-Assets (MiCA) Regulation</a> </li>
-<li><a href="https://smartcontractsecurity.eu/pilot-regime-for-market-infrastructures-based-on-distributed-ledger-technology/">Pilot Regime for Market Infrastructures based on Distributed Ledger Technology</a> </li>
-<li><a href="https://smartcontractsecurity.eu/european-travel-rule-for-crypto-asset-transfers/">Update of Regulation 2015/847 on information accompanying transfers of funds ("TFR" or "travel rule")</a></li>
-<li>Tax transparency rules for crypto-asset transactions (DAC8)</li>
-</ul>
-<h5>Security related</h5>
-<ul>
-<li><a href="https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/">(Revised) Network and Information Security Directive (NIS2) </a></li>
-<li><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/">Digital Operational Resilience Act (DORA)</a> </li>
-<li>EBA Guidelines on ICT and security risk management </li>
-<li>EIOPA Guidelines on ICT security and governance </li>
-</ul>
-<h6>Overarching</h6>
-<ul>
-<li>Artificial Intelligence (AI) Act</li>
-<li>Cyber Resilience Act (CRA)</li>
-<li>Critical Entities Resilience (CER) Directive</li>
-</ul>
-<h4>Belgian regulation 🇧🇪</h4>
-<h6>Crypto specific</h6>
-<ul>
-<li><a href="https://smartcontractsecurity.eu/belgian-anti-money-laundering-act/">Belgian Anti-Money Laundering Act</a> </li>
-<li><a href="https://smartcontractsecurity.eu/fsma-classification-of-crypto-assets-as-securities-investment-instruments-or-financial-instruments/">FSMA Communication: Classification of crypto-assets as securities, investment instruments or financial instruments</a> </li>
-<li><a href="https://smartcontractsecurity.eu/new-rules-governing-advertisements-for-virtual-currencies/" target="_blank" rel="noopener noreferrer">New FSMA Regulation: Rules governing advertisements for virtual currencies</a> </li>
-</ul>
-<h4>Global regulation 🌎</h4>
-<h6>Crypto specific</h6>
-<ul>
-<li>IOSCO - Policy Recommendations for Crypto and Digital Asset Markets </li>
-<li><a href="https://smartcontractsecurity.eu/fsb-global-regulatory-framework-for-crypto-asset-activities/">FSB - Global Regulatory Framework for Crypto-asset Activities</a></li>
-<li>BCBS - Prudential treatment of cryptoasset exposures </li>
-<li>FATF - Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers</li>
-</ul>
-<h6>Security related</h6>
-<ul>
-<li>CPMI-IOSCO - Guidance on cyber resilience for financial market infrastructures </li>
-<li>BCBS - Principles for operational resilience and sound management of operational risk, effective risk data aggegration and risk reporting</li>
-</ul>
-<hr>
-<p><em>Acronyms used:</em></p>
-<ul>
-<li><em>IOSCO: International Organization of Securities Commission </em></li>
-<li><em>CPMI: Committee on Payments and Market Infrastructures</em></li>
-<li><em>FATF: The Financial Action Task Force</em></li>
-<li><em>BCBS: Basel Committee on Banking Supervision's</em></li>
-<li><em>FSB: Financial Stability Board </em></li>
-<li><em>FSMA: Financial Services and Markets Authority</em></li>
-</ul>
-<p>Please also have a look the European Commission's <a href="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy">Blockchain Strategy</a> and the EC's vision of a <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">legal and regulatory framework for blockchain</a>.</p>
-<p>Another interesting read: <a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</a></p>
-<p>I will make sure to also add relevant info with regard to the European Central Bank Digital Currency (CBDC), called the "Digital Euro".</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>CBDC architectures, the financial system, and the central bank of the future by Rainer Böhme &amp; Raphael Auer</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/"/>
         <id>https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/96/ej-yao-D46mXLsQRJw-unsplash.jpg" medium="image" />
             <category term="CBDC"/>
 
-        <updated>2024-01-31T19:16:55+01:00</updated>
+        <updated>2024-01-28T20:04:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/96/ej-yao-D46mXLsQRJw-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/96/ej-yao-D46mXLsQRJw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--highlight  msg--info">If you are interested in understanding what is a Central Bank Digital Currency (CBDC) and its usefulness, I suggest you consult your favourite search engine first, before getting into the nitty-gritty technical details 🔬</p>
 <p>Here we are, a first article on <strong>Central Bank Digital Currencies</strong>! I will mainly focus on the <strong>digital euro</strong> (and for now, its pilot projects), but there is a lot of security &amp; risk related research from other international sources, that I will cover as well.</p>
 <p>Most countries are exploring a CBDC by now. According to the Atlantic Council, 130 countries, representing 98 percent of global GDP, are exploring a CBDC . The Atlantic council has <a href="https://www.atlanticcouncil.org/cbdctracker/" target="_blank" rel="noopener noreferrer">a slick website tracking CBDC projects</a>, so make sure to have a look: <a href="https://www.atlanticcouncil.org/cbdctracker/"></a></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/96/Screenshot-2024-01-28-194009.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-md.png 768w"  alt="" width="629" height="287"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/96/Screenshot-2024-01-28-194009.png" alt="" width="629" height="287" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/Screenshot-2024-01-28-194009-md.png 768w"></figure>
 <h3>One does not simply 'launch' a CBDC</h3>
 <p>Anyway, besides countries' interest in CBDC's, one of the more interesting aspects (imho) is <em>how </em>exactly is (or better: will be) this implemented, and why? Enter the many different, <em>possible</em> CBDC architectures.<em> (Spoiler alert: it does not necessarily need to be based on Distributed Ledger Technology)</em></p>
 <p>Here is a great article by Rainer Böhme &amp; Raphael Auer for the Centre for Economic Policy Research (CEPR), explaining different designs with their pros and cons: <a href="https://cepr.org/voxeu/columns/cbdc-architectures-financial-system-and-central-bank-future">https://cepr.org/voxeu/columns/cbdc-architectures-financial-system-and-central-bank-future</a></p>
-<figure class="post__image" ><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/96/cbdc-architectures-overview.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-md.png 768w"  alt="" width="629" height="717">
+<figure class="post__image" ><img loading="lazy" src="https://smartcontractsecurity.eu/media/posts/96/cbdc-architectures-overview.png" alt="" width="629" height="717" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/96/responsive/cbdc-architectures-overview-md.png 768w">
 <figcaption >Excerpt showing different CBDC designs</figcaption>
 </figure>
 <hr>
@@ -510,10 +493,11 @@
     <entry>
         <title>Ethereum Smart Contract Auditor&#x27;s 2023 Rewind by Patrick Drotleff</title>
         <author>
-            <name>Anonymous</name>
+            <name>Rey Olson</name>
         </author>
         <link href="https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/"/>
         <id>https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" medium="image" />
             <category term="Security"/>
             <category term="Secureum"/>
 
@@ -521,7 +505,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" alt="" />
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>It is that time of the year again! <a href="https://twitter.com/patrickd_de" target="_blank" rel="noopener noreferrer">@patrickd</a> published his recap of last year's noteworthy security incidents from the Ethereum sphere, without all the CT drama:</p>
 <p><a href="https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/">https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/</a></p>
 <p>He focuses on the technical details, in order for other researchers to learn about them and -especially- to make sure these vulnerabilites are spotted in future audits and reviews.</p>
@@ -529,54 +513,6 @@
 <hr>
 <p>👉 Patrick's blog <a href="https://ventral.digital">https://ventral.digital</a> itself is a treasure trove filled with interesting content (incl. Secureum), make sure to check it out.</p>
 <p>Photo by <a href="https://unsplash.com/@francistogram?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Fran</a> on <a href="https://unsplash.com/photos/vehicles-wing-mirror-xGB2xHQF_Aw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>European travel rule for crypto-asset transfers</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/european-travel-rule-for-crypto-asset-transfers/"/>
-        <id>https://smartcontractsecurity.eu/european-travel-rule-for-crypto-asset-transfers/</id>
-            <category term="Regulation"/>
-
-        <updated>2024-03-04T21:38:07+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://smartcontractsecurity.eu/media/posts/88/rc-xyz-nft-gallery-1C37UztDU8s-unsplash.jpg" alt="" />
-                <p>Not so much a security or IT risk related regulation, but one on the <span class="kY2IgmnCmOGjharHErah">anti-money laundering and countering the financing of terrorism (</span>AML/CTF) front:</p>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Transfer of Funds, or the Travel Rule are recommendations originally stemming from the Financial Action Task Force (FATF), who is the global money laundering and terrorist financing watchdog. The EU has adopted legislation translating these recommendations into law (regulation): the revised Transfer of Funds Regulation (TFR).</span></p>
-<p>I am not a lawyer, and I am overly simplifying things, but: in its simplest form the travel rule requires that each money* transfer greater than € 1000 or $1000 is accompanied by information** on the originator (sender) and the beneficiary (receiver). Essentially these requirements lie at the heart of many Know-Your-Customer (KYC) and Know-Your-Transaction (KYT) measures that are taken within the financial sector. </p>
-<p>Now since crypto-assets are a thing, they cannot be exempt from these requirements, can they? So, in June 2022 the EU reached an agreement on a <em>revised</em> Transfer of Funds Regulation that thus includes crypto-assets (crypto-assets as defined in the MiCA regulation)</p>
-<p>So here we go, lawyooors:</p>
-<ul>
-<li>Threshold amount: € 0 (so no more limit of € 1000, as from 30/12/2024)</li>
-<li>Originator information:
-<ul>
-<li>originator name</li>
-<li>originator distributed ledger address</li>
-<li>originator crypto asset account number</li>
-<li>originator address, which must include the name of the country, official personal document number and customer identification number, or alternatively date and place of birth</li>
-<li>originator LEI (where applicable, or an equivalent official identifier)</li>
-</ul>
-</li>
-<li>Beneficiary information:
-<ul>
-<li>beneficiary name</li>
-<li>beneficiary distributed ledger address</li>
-<li>beneficiary crypto asset account number,</li>
-<li>beneficiary LEI (where applicable, or an equivalent official identifier)</li>
-</ul>
-</li>
-<li>Self-hosted wallets are in scope (e.g. from your cold wallet to a centralized exchange, or vice-versa). <strong>However, peer-to-peer or consumer-to-consumer transactions between self-hosted wallets are exempt from these requirements.</strong></li>
-</ul>
-<p>As you can imagine this is quite a challenge and operational burden (also from a cost perspective) for any party in the blockchain and cryptocurrency space (which are not only centralized exchanges, but also other player such as investment firms, funds, market makers, protocol developers, DAO's, ...).</p>
-<p>For more detailed information please consult a specialist and/or read: <a href="https://www.vasiliou.law/the-crypto-travel-rule-or-transfer-of-funds-regulation-eu/">https://www.vasiliou.law/the-crypto-travel-rule-or-transfer-of-funds-regulation-eu/</a> </p>
-<hr>
-<p>(*) money = transfers involving banknotes, coins, <a href="https://googlethatforyou.com?q=scriptural%20money" target="_blank" rel="noopener noreferrer">scriptural money</a> and electronic money<br>(**) information = name, account numer (if any), address, or national identity number, or customer identification number, or date and place of birth</p>
-<p>Photo by <a href="https://unsplash.com/@moneyphotos?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">rc.xyz NFT gallery</a> on <a href="https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-pile-of-coins-1C37UztDU8s?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
