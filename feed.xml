@@ -61,6 +61,7 @@
         <link href="https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/"/>
         <id>https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/</id>
         <media:content url="https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg" medium="image" />
+            <category term="ZK"/>
             <category term="Security"/>
             <category term="Secureum"/>
             <category term="Ethereum"/>
@@ -87,8 +88,16 @@
 </ul>
 <h3>Curious about zero-knowledge technology?</h3>
 <p>Before diving into the security implications of zero-knowledge tech, I suggest you start with the basics. The <a href="https://ethereum.org/en/zero-knowledge-proofs/">Ethereum Foundation</a> has a nice introduction on zero-knowledge proofs, as well as <a href="https://academy.binance.com/en/articles/what-is-zero-knowledge-proof-and-how-does-it-impact-blockchain">Binance Academy</a> <em>(don't shoot me for linking to Binance, it is an informative article, written by Kenny Li, co-founder of Manta Network).</em></p>
+<h5>For more resources on zk tech feel free to check-out:</h5>
+<ul>
+<li><a href="https://zkintro.com/">zkintro</a> (introduction and practical programming course)</li>
+<li><a href="https://zk-learning.org/">zk-learning</a> (MOOC, spring 2023 - but the resources are still available online)</li>
+<li><a href="https://zksecurity.xyz/blog/">ZKSECURITY</a> (⚠️ watch out, this seems to be pretty advanced stuff)</li>
+<li><a href="https://github.com/matter-labs/awesome-zero-knowledge-proofs">Awesome zero knowledge proofs by Matter Labs</a> (yet another curated list 😅)</li>
+<li>Rareskills <a href="https://www.rareskills.io/zk-book">zk-book</a> &amp; <a href="https://www.rareskills.io/zk-bootcamp">zk-bootcamp</a> (⚠️ watch out, these are <em>not </em>free)</li>
+</ul>
 <hr>
-<h3>Additional reading</h3>
+<h3>Additional reading by Veridise</h3>
 <p>There are more gems on the Veridise blog, for example <a href="https://medium.com/veridise/breakdown-of-100-security-audits-key-insights-from-1605-vulnerability-findings-0f12d830572e">Breakdown of 100 security audits: Key insights from 1605 vulnerability findings</a>.</p>
 <p>I think the views from the article align with my perception that, more recently, the larger losses stem from a) "old school" hacks (e.g. private key theft through social engineering attacks), b) business logic errors. I don't always closely follow the latest news with regards to exploits, but I have the impression that reentrancy attacks and so forth are not as popular as they were before. I guess due to projects improving their smart contract security game (higher code quality, more code audit(s) before go-live, ...)</p>
             ]]>
