@@ -54,6 +54,32 @@
         </content>
     </entry>
     <entry>
+        <title>The Pay Off: How Changing the Way We Pay Changes Everything by Gottfried Leibbrandt &amp; Natasha De Teran</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/"/>
+        <id>https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/105/the-pay-off-cover.png" medium="image" />
+            <category term="Regulation"/>
+            <category term="CBDC"/>
+
+        <updated>2024-09-10T19:42:55+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/105/the-pay-off-cover.png" class="type:primaryImage" alt="" /></p>
+                <p>I work in banking (I do not consider myself to be a banker, by far) and I still do not always understand how our payment systems work, especially at the macro level. In Europe, we have a variety of parties that are involved: e.g. the SWIFT network, payment schemes (e.g. SEPA or Single Euro Payments Area), card schemes (e.g. Visa, Mastercard et al), and how they link together is a complex matter.</p>
+<p>What often annoys me is the amount of misinformed "facts" or plain falsehoods that circulate on crypto-twitter regarding traditional finance (such as payments). So it is not unwise to educate yourself on the basics...</p>
+<p>Enter, <a href="https://eandtbooks.com/books/the-pay-off/">The Pay Off: How Changing the Way We Pay Changes Everything</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">! The book explains in layman's terms how payments work, and how these systems look like across history and across geographies.</span></p>
+<p>Below you can find the table of contents of the book, it gives you an idea of topics that are covered (including short chapters on the rise of cryptocurrencies and CBDC's)</p>
+<p><strong><em>PART I: MOVING MONEY</em></strong><br><em>1.What’s a payment, anyway?</em><br><em>2.If money doesn’t move, how does it make the world go round?</em><br><em>3.Not so simple: the fundamental challenges of payment</em><br><strong><em>PART II: HISTORY</em></strong><br><em>4.The enigma of cash</em><br><em>5.The war on cash</em><br><em>6.Fantastic plastic: the advent of cards</em><br><em>7.The mother of invention: advances in card technology</em><br><em>8.Minting plastic: from credit to debit cards</em><br><strong><em>PART III: GEOGRAPHY</em></strong><br><em>9.Prisoners of geography: why our payment habits are national</em><br><em>10.Starting from scratch: how payments went mobile in China and Kenya</em><br><em>11.Incredible India: the instant payment revolution</em><br><strong><em>PART IV: ECONOMICS</em></strong><br><em>12.Paying to pay: the hidden costs of payments</em><br><em>13.Making money by moving money: who profits from payments?</em><br><strong><em>PART V: BIG MONEY</em></strong><br><em>14.How to steal a billion: fraud and theft</em><br><em>15.Invisible plumbing: the mechanics behind payments</em><br><em>16.How to move a trillion (or why we need central banks)</em><br><em>17.If money never moves, how do you send it abroad?</em><br><strong><em>PART VI: THE TECH REVOLUTION</em></strong><br><em>18.Crashing the party: challenging the role of banks</em><br><em>19.Cashing in on cards: the rise of the acquirers</em><br><em>20.Live now, pay later: the allure of invisibility</em><br><em>21.The new oil? The importance of data</em><br><em>22.In code we trust: meeting the cryptocurrencies</em><br><em>23.BigTech and banks enter the fray</em><br><em>24.Crypto for grown-ups: central banks go digital</em><br><em>25.Open access or closed loops: how payment networks compete for customers</em><br><strong><em>PART VII: POLITICS AND REGULATION</em></strong><br><em>26.Who’s running the show? Rules and regulators</em><br><em>27.Europe gets a phone number: how EU regulators reshaped payments</em><br><em>28.How payments became weaponised</em><br><em>29.Follow the money: payment trails and the fight against financial crime</em><br><em>30.No way to pay: excluded from the payment system</em></p>
+<hr>
+<p class="toc1">For Belgian readers active in the space, Febelfin Academy hosts an <a href="https://www.febelfin-academy.be/en/trainings/trajectory-qualified-payments-expert">in-depth training course "Qualified Payments Expert"</a> which is well worth your time (and money).</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Zero-Knowledge Security Workshop by Veridise</title>
         <author>
             <name>Rey Olson</name>
@@ -496,32 +522,6 @@
 </figure>
 <hr>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ethereum Smart Contract Auditor&#x27;s 2023 Rewind by Patrick Drotleff</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/"/>
-        <id>https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-            <category term="Secureum"/>
-
-        <updated>2024-01-27T11:15:58+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/95/fran-xGB2xHQF_Aw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>It is that time of the year again! <a href="https://twitter.com/patrickd_de" target="_blank" rel="noopener noreferrer">@patrickd</a> published his recap of last year's noteworthy security incidents from the Ethereum sphere, without all the CT drama:</p>
-<p><a href="https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/">https://ventral.digital/posts/2024/1/19/ethereum-smart-contract-auditors-2023-rewind/</a></p>
-<p>He focuses on the technical details, in order for other researchers to learn about them and -especially- to make sure these vulnerabilites are spotted in future audits and reviews.</p>
-<p>What a benevolent person, he probably is the living incarnation of the "sharing is caring" attitude in the Web3 community (plus, ask him a technical question, and you always get an elaborate, yet to the point, answer).</p>
-<hr>
-<p>👉 Patrick's blog <a href="https://ventral.digital">https://ventral.digital</a> itself is a treasure trove filled with interesting content (incl. Secureum), make sure to check it out.</p>
-<p>Photo by <a href="https://unsplash.com/@francistogram?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Fran</a> on <a href="https://unsplash.com/photos/vehicles-wing-mirror-xGB2xHQF_Aw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
