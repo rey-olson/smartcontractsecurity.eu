@@ -54,6 +54,92 @@
         </content>
     </entry>
     <entry>
+        <title>EBA Guidelines on ICT and security risk management</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/eba-guidelines-on-ict-and-security-risk-management/"/>
+        <id>https://smartcontractsecurity.eu/eba-guidelines-on-ict-and-security-risk-management/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/109/EBA-logo.jpeg" medium="image" />
+            <category term="Regulation"/>
+
+        <updated>2024-10-01T20:51:18+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/109/EBA-logo.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Long before <a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/" target="_blank" rel="noopener noreferrer">Digital Operational Resilience Act (DORA)</a>, credit institutions (<em>aka banks</em>) and investment firms <em>(aka investment banks, hedge funds, PE &amp; VC firms, ...)</em>, but also PSPs (Payment Service Providers under Payments Services Directive 2 (PSD2) regulation) had to comply with these guidelines on ICT and security risk management.</p>
+<p>If you compare both DORA and these guidelines, you'll see that there is an approximate 100% overlap between the two. DORA entirely includes (and superseded) all of these <span style="text-decoration: line-through;">guidelines</span> requirements (and added more of them of course, alas).</p>
+<h3>Guidelines</h3>
+<ul>
+<li><strong>Governance and strategy</strong>
+<ul>
+<li><strong>Governance</strong></li>
+<li><strong>Strategy</strong></li>
+<li><strong>Use of third party providers</strong></li>
+</ul>
+</li>
+<li class="align-left"><strong>ICT and security risk management framework</strong>
+<ul>
+<li><strong>Organisation and objectives</strong></li>
+<li><strong>Identification of functions, processes and assets</strong></li>
+<li><strong>Classification and risk assessment</strong></li>
+<li class="align-left"><strong>Risk mitigation</strong></li>
+<li class="align-left"><strong>Reporting</strong></li>
+<li class="align-left"><strong>Audit</strong></li>
+</ul>
+</li>
+<li class="align-left"><strong>Information security</strong>
+<ul>
+<li class="align-left"><strong>Information security policy</strong></li>
+<li class="align-left"><strong>Logical security</strong></li>
+<li><strong>Physical security</strong></li>
+<li><strong>ICT operation security</strong></li>
+<li><strong>Security monitoring</strong></li>
+<li><strong>Information security reviews, assessment and testing</strong></li>
+<li><strong>Information security training and awareness</strong></li>
+</ul>
+</li>
+<li><strong>ICT operations management</strong>
+<ul>
+<li><strong>ICT incident and problem management</strong></li>
+</ul>
+</li>
+<li><strong>ICT project and change management</strong>
+<ul>
+<li><strong>ICT project management</strong></li>
+<li><strong>ICT systems acquisition and development</strong></li>
+<li><strong>ICT change management</strong></li>
+</ul>
+</li>
+<li><strong>Business continuity management</strong>
+<ul>
+<li><strong>Business impact analysis</strong></li>
+<li><strong>Business continuity planning</strong></li>
+<li><strong>Response and recovery plans</strong></li>
+<li><strong>Testing of plans</strong></li>
+<li><strong>Crisis communications</strong></li>
+</ul>
+</li>
+<li><strong>Payment service user relationship management</strong></li>
+</ul>
+<p>The last one is perhaps particular, but it explains what mitigating controls a PSP needs to provide to its customers, specifically with regard to payments. For example:</p>
+<ul>
+<li>Educate and assist customers: provide information and guidance about security risks associated with payment services.</li>
+<li>Keep information up-to-date: regularly update educational materials to reflect new threats and vulnerabilities.</li>
+<li>Allow for customization: give customers the option to disable specific payment functionalities if desired.</li>
+<li>Offer flexible spending limits: allow customers to adjust spending limits within agreed-upon parameters.</li>
+<li>Provide fraud alerts: notify customers of suspicious activity on their accounts.</li>
+<li>Communicate security updates: keep customers informed about changes in security procedures.</li>
+<li>Offer support: assist customers with any security-related questions or issues.</li>
+</ul>
+<p> </p>
+<hr>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Articles Series on Central Bank Digital Currencies (CBDCs)</title>
         <author>
             <name>Rey Olson</name>
@@ -222,7 +308,7 @@
 <ul>
 <li><a href="https://smartcontractsecurity.eu/network-and-information-security-directive-nis2/" target="_blank" rel="noopener noreferrer">(Revised) Network and Information Security Directive (NIS2) </a></li>
 <li><a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/" target="_blank" rel="noopener noreferrer">Digital Operational Resilience Act (DORA)</a> </li>
-<li>EBA Guidelines on ICT and security risk management </li>
+<li><a href="https://smartcontractsecurity.eu/eba-guidelines-on-ict-and-security-risk-management/" target="_blank" rel="noopener noreferrer">EBA Guidelines on ICT and security risk management </a></li>
 <li>EIOPA Guidelines on ICT security and governance </li>
 </ul>
 <h6>Overarching</h6>
@@ -250,20 +336,25 @@
 <ul>
 <li>CPMI-IOSCO - Guidance on cyber resilience for financial market infrastructures </li>
 <li>BCBS - Principles for operational resilience and sound management of operational risk, effective risk data aggegration and risk reporting</li>
+<li><a href="https://www.bis.org/bcbs/publ/d577.htm" target="_blank" rel="noopener noreferrer">BCBS - Principles for the sound management of third-party risk</a></li>
 </ul>
 <hr>
 <p><em>Acronyms used:</em></p>
 <ul>
-<li><em>IOSCO: International Organization of Securities Commission </em></li>
-<li><em>CPMI: Committee on Payments and Market Infrastructures</em></li>
-<li><em>FATF: The Financial Action Task Force</em></li>
 <li><em>BCBS: Basel Committee on Banking Supervision's</em></li>
+<li><em>CPMI: Committee on Payments and Market Infrastructures</em></li>
+<li><em>EBA: European Banking Authority</em></li>
+<li><em>EIOPA: European Insurance and Occupational Pensions Authority</em></li>
+<li><em>FATF: The Financial Action Task Force</em></li>
 <li><em>FSB: Financial Stability Board </em></li>
 <li><em>FSMA: Financial Services and Markets Authority</em></li>
+<li><em>IOSCO: International Organization of Securities Commission</em></li>
 </ul>
+<h3>Additional reading</h3>
 <p>Please also have a look the European Commission's <a href="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy">Blockchain Strategy</a> and the EC's vision of a <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain">legal and regulatory framework for blockchain</a>.</p>
 <p>Another interesting read: <a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</a></p>
-<p>I will make sure to also add relevant info with regard to the European Central Bank Digital Currency (CBDC), called the "Digital Euro".</p>
+<h3>Digital euro 💶</h3>
+<p>I am also compiling interesting content on a European central bank digital currency, called the "digital euro". Please refer to <a href="https://smartcontractsecurity.eu/articles-series-on-central-bank-digital-currencies-cbdcs/">Articles Series on Central Bank Digital Currencies (CBDCs)</a></p>
             ]]>
         </content>
     </entry>
@@ -369,34 +460,6 @@
 </ul>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@bullterriere?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Simon Hurry</a> on <a href="https://unsplash.com/photos/a-small-rock-in-the-middle-of-a-body-of-water-Lhx_5_DJajE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Smart Contract Phishing, Attack &amp; Defense by Tejaswa Rastogi</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/"/>
-        <id>https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-
-        <updated>2024-04-09T21:45:09+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/99/beth-macdonald-lr14z8wy430-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Tejaswa Rastogi (<a href="https://twitter.com/razzor_tweet">Razzor</a>) did a nice talk on smart contract phishing. He covers some interesting attack vectors, as well as defense mechanisms. </p>
-<ul>
-<li><strong>Homoglyph injections</strong>, e.g. employing look-alike characters for malicious functions. That fake deposit function is <em>not actually</em> depositing your funds...</li>
-<li><strong>Library sideloading</strong>, e.g. calling (malicious) external libraries through DELEGATECALL wich undoubtedly results in an unpleasant surprise (you lose your funds).</li>
-<li><strong>Metadata injections</strong>, e.g. hiding malicious functionality (backdoors) in smart contract metadata. Metadata apparently(?) is not included in the contract verification process of Etherscan.</li>
-</ul>
-<p>The more you know... 👀</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIweBz_6IsU?si=PPEifOtbxwjpetpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@elsbethcat?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Beth Macdonald</a> on <a href="https://unsplash.com/photos/woman-in-orange-t-shirt-holding-fish-lr14z8wy430?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
