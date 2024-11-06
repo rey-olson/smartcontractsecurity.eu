@@ -54,6 +54,40 @@
         </content>
     </entry>
     <entry>
+        <title>Security Recommendations by Officer CIA</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/security-recommendations-by-officer-cia/"/>
+        <id>https://smartcontractsecurity.eu/security-recommendations-by-officer-cia/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/110/annie-spratt-U11G7zXMjew-unsplash.jpg" medium="image" />
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2024-11-06T15:47:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/110/annie-spratt-U11G7zXMjew-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>I recently stumbled one of the many security guides of <a href="https://twitter.com/officer_cia">@officer_cia</a>, and I <em>-almost embarassingly-</em> realized that I had never mentioned him before in any of my articles. He is one of the OG's of crypto security on crypto twitter, so more than worth a mention.</p>
+<p>So here it goes, a post dedicated to his treasure trove of a GitHub reposity with <em>tons </em>of security related resources:</p>
+<p class="align-center"><a href="https://github.com/OffcierCia/"><strong>https://github.com/OffcierCia/</strong></a><strong> </strong></p>
+<p>He has published multiple guides, including:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span class="mr-2 flex-self-stretch"><a href="https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap">Crypto OpSec SelfGuard RoadMap</a>: in layman's term, this is a guide on how to protect yourself when managing your cryptocurrencies. Depending on the situation and circumstances you are in (e.g. are you a high-net-worth individual, a broke-ass degen, or somewhere in between), you can take different protection measures. If you are curious about whether there is anything else (with regard to security) you should do, then have a look.</span></li>
+<li><a href="https://github.com/OffcierCia/On-Chain-Investigations-Tools-List">Awesome On-Chain Investigations Handbook</a>: have you ever wanted to know how to investigate or track cryptocurrencies/tokens/...? Then this is your guide, it is filled with tools you can use, as well as guides on how to properly employ them. Think <a href="https://www.bellingcat.com/">BellingCat </a>(perhaps on steroids) for Web3. 😉</li>
+</ul>
+</li>
+</ul>
+<p>Beware that he has a tendency to add many hyperlinks in his texts, so brace yourself for a <em>very deep</em> rabbithole if you want to read through all of his material. I also noticed he dives deep into, as well as covers a broad set of, topics (clearly inspired by a military or intelligence agency mindset - hence his nickname). This is an great approach for security peers, but from a typical end-user perspective it gets rather quickly too complex. This is one of the many challenges we need to tackle as security specialists: to condense (seemingly infinitely) complex topics into clear and concise guidance. But I digress.</p>
+<hr>
+<p>Besides Twitter, you can also follow his blog <a href="https://officercia.mirror.xyz">officercia.mirror.xyz</a><a href="officercia.mirror.xyz" title="officercia.mirror.xyz"></a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>EBA Guidelines on ICT and security risk management</title>
         <author>
             <name>Rey Olson</name>
@@ -261,6 +295,7 @@
 <ul>
 <li><a href="https://zkintro.com/">zkintro</a> (introduction and practical programming course)</li>
 <li><a href="https://zk-learning.org/">zk-learning</a> (MOOC, spring 2023 - but the resources are still available online)</li>
+<li><a href="https://cryptohack.org/challenges/zkp/">ZKPs by CryptoHack</a> (</li>
 <li><a href="https://zksecurity.xyz/blog/">ZKSECURITY</a> (⚠️ watch out, this seems to be pretty advanced stuff)</li>
 <li><a href="https://github.com/matter-labs/awesome-zero-knowledge-proofs">Awesome zero knowledge proofs by Matter Labs</a> (yet another curated list 😅)</li>
 <li>Rareskills <a href="https://www.rareskills.io/zk-book">zk-book</a> &amp; <a href="https://www.rareskills.io/zk-bootcamp">zk-bootcamp</a> (⚠️ watch out, these are <em>not </em>free)</li>
@@ -396,7 +431,7 @@
         </content>
     </entry>
     <entry>
-        <title>Blockchains, Smart Contracts, And How To Secure Them (Dutch Webinar)</title>
+        <title>Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)</title>
         <author>
             <name>Rey Olson</name>
         </author>
@@ -418,48 +453,6 @@
 <p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>An Analysis Of Two Web3 Phishing Kits by Bernhard Mueller</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/"/>
-        <id>https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-            <category term="Ethereum"/>
-            <category term="DeFi"/>
-
-        <updated>2024-04-20T13:16:52+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--highlight   msg--info">I came across this article via <a href="https://newsletter.blockthreat.io/subscribe">BlockThreat - Week 14, 2024 (by Peter Kacherginsky)</a>, which is by far still the best blockchain security newsletter out there (go subscribe, now!)</p>
-<p><a href="https://muellerberndt.medium.com/">Bernhard </a>de-obfuscates and examines two popular crypto wallet drainers (both are, unsurprisingly, Javascript malware):</p>
-<ul>
-<li><a href="https://muellerberndt.medium.com/a-peek-inside-inferno-drainer-0a69647b85ca">A peek inside Inferno Drainer</a></li>
-<li><a href="https://muellerberndt.medium.com/a-brief-analysis-of-angel-drainer-1660d15c9248">A brief analysis of Angel Drainer</a></li>
-</ul>
-<p>Both are well crafted pieces of malware, capable of some clever tricks, for example:</p>
-<ul>
-<li>"Receiver addresses for regular and seaport transactions. Low-value assets are drained to these addresses, while high-value assets are drained to previously unused addresses.</li>
-<li>It is able to intelligently sort tokens and NFTs based on value, prioritizing the most lucrative assets for extraction.</li>
-<li>In most cases, Angel drainer asks the user to send an approval transaction or sign an ERC-2612 permit. If successful, the drainer then notifies its backend to withdraw the victim’s assets. A variety of methods are supported, including:
-<ul>
-<li>Unstaking and stealing stakes from popular projects like Apes, MAYC, BAYC, Potatoz, and Creepz</li>
-<li>Trading NFTs on Blur and OpenSea on behalf of the victim, allowing the attackers to liquidate valuable assets</li>
-<li>Stealing LP position NFTs from decentralized exchanges like PancakeSwap, Sushiswap, TraderJoe, and QuickSwap</li>
-<li>Withdrawing liquidity from Curve and Aave positions</li>
-<li>Generically stealing ERC20 tokens and NFTs sorted by value (including looking up valuations on DEXes/NFT exchanges). "</li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@bullterriere?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Simon Hurry</a> on <a href="https://unsplash.com/photos/a-small-rock-in-the-middle-of-a-body-of-water-Lhx_5_DJajE?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>

@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/a-quick-tour-on-ethereum-private-key-attacks/</loc>
-<lastmod>2022-11-14T20:23:14+01:00</lastmod>
+<lastmod>2024-11-06T16:15:16+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/30/ecdsa-priv-key.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -50,7 +50,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/</loc>
-<lastmod>2024-07-27T20:39:50+02:00</lastmod>
+<lastmod>2024-11-06T16:17:26+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/100/simon-hurry-Lhx_5_DJajE-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -110,7 +110,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/best-practices-for-smart-contract-development/</loc>
-<lastmod>2022-11-14T20:12:32+01:00</lastmod>
+<lastmod>2024-11-06T16:17:06+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/7/visual-auditor-screenshot.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -126,7 +126,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</loc>
-<lastmod>2024-10-01T10:18:38+02:00</lastmod>
+<lastmod>2024-11-06T16:17:41+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -434,7 +434,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/</loc>
-<lastmod>2022-11-14T20:12:57+01:00</lastmod>
+<lastmod>2024-11-06T16:16:37+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/8/danielle-macinnes-IuLgi9PWETU-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -470,7 +470,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/my-lightning-talk-annacon-2023/</loc>
-<lastmod>2024-06-08T21:45:45+02:00</lastmod>
+<lastmod>2024-11-06T16:13:43+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/103/mitchel-lensink-_g_SIRVc1l0-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -494,7 +494,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/nascents-simple-security-toolkit/</loc>
-<lastmod>2022-11-14T20:50:12+01:00</lastmod>
+<lastmod>2024-11-06T16:15:42+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/45/max-saeling-GFDNXpOsQjU-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -562,7 +562,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/sannys-solana-security-resources/</loc>
-<lastmod>2022-11-14T20:49:34+01:00</lastmod>
+<lastmod>2024-11-06T16:14:44+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/46/solanalogo2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -674,7 +674,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/</loc>
-<lastmod>2023-12-30T19:25:33+01:00</lastmod>
+<lastmod>2024-11-06T16:14:09+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/94/dom-fou-YRMWVcdyhmI-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -689,6 +689,14 @@
 </image:image>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/74/cantina-lg-75px.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://smartcontractsecurity.eu/security-recommendations-by-officer-cia/</loc>
+<lastmod>2024-11-06T16:13:29+01:00</lastmod>
+<image:image>
+<image:loc>https://smartcontractsecurity.eu/media/posts/110/annie-spratt-U11G7zXMjew-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -746,7 +754,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/</loc>
-<lastmod>2022-11-14T20:52:04+01:00</lastmod>
+<lastmod>2024-11-06T16:18:35+01:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/44/arny-mogensen-rRgO49i8w2s-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -830,7 +838,7 @@
 </url>
 <url>
 <loc>https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/</loc>
-<lastmod>2024-09-03T21:14:26+02:00</lastmod>
+<lastmod>2024-10-14T19:55:12+02:00</lastmod>
 <image:image>
 <image:loc>https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
