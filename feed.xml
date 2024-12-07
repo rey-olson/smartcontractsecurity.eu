@@ -54,6 +54,48 @@
         </content>
     </entry>
     <entry>
+        <title>Python and Vyper Smart Contract Development by Cyfrin</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/python-and-vyper-smart-contract-development-by-cyfrin/"/>
+        <id>https://smartcontractsecurity.eu/python-and-vyper-smart-contract-development-by-cyfrin/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/111/jeremy-smith-d8hfch9P-AA-unsplash.jpg" medium="image" />
+            <category term="ZK"/>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+            <category term="DeFi"/>
+
+        <updated>2024-12-07T10:45:53+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/111/jeremy-smith-d8hfch9P-AA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://www.cyfrin.io/" target="_blank" rel="noopener noreferrer">Cyfrin</a><sup>[1]</sup> launched a new smart contract development course that focuses on <strong>Vyper</strong>, a contract-oriented, Pythonic programming language that targets the Ethereum Virtual Machine (EVM). The instructors are Patrick Collins and <a href="https://twitter.com/ProgrammerSmart">Tasuku Nakamura</a> (the guy behind <a href="https://www.smartcontract.engineer">https://www.smartcontract.engineer</a>, another course platform).</p>
+<ul>
+<li><a href="https://updraft.cyfrin.io/courses/security">https://updraft.cyfrin.io/courses/intro-python-vyper-smart-contract-development</a></li>
+<li><a href="https://updraft.cyfrin.io/courses/intermediate-python-vyper-smart-contract-development">https://updraft.cyfrin.io/courses/intermediate-python-vyper-smart-contract-development</a> </li>
+</ul>
+<p>Other resources on Vyper:</p>
+<ul>
+<li><a href="https://docs.vyperlang.org/en/stable/">https://docs.vyperlang.org/en/stable/</a> (official Vyper documentation)</li>
+<li><a href="https://vyper-by-example.org/">https://vyper-by-example.org/</a> (also created and maintained by Cyfrin)</li>
+</ul>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The new course is hosted on their Updraft platform that aggregates all of their courses (all of them are open and free of charge). It covers the absolute basics of Python development and goes step-by-step into much more advanced topics such as building your own stablecoin, NFT's, ... </span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/111/vyper-lang-logo-3.svg" alt="" width="84" height="93"></figure>
+<p class="msg msg--info"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I think Vyper is an interesting alternative to Solidity (Ethereum's native programming language). Since it is based on Python, I reckon the barrier to entry is much lower (than learning an entirely new language such as Solidity, but YMMV). Apparently<a href="https://curve.fi/"> Curve Finance</a> is based on Vyper smart contracts, as well!</span></p>
+<hr>
+<p><sup>[1] </sup>Cyfrin is co-founded by Patrick Collins - that's right, the same Patrick that gave us:</p>
+<ul>
+<li><a href="https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/">Blockchain Developer, Solidity &amp; Foundry Course 2023 by Patrick Collins.</a></li>
+<li><a href="https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/">Security and Auditing Course by Cyfrin</a></li>
+</ul>
+<p>Photo by <a href="https://unsplash.com/@jydsmits?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">jeremy smith</a> on <a href="https://unsplash.com/photos/a-large-green-snake-is-on-a-branch-d8hfch9P-AA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Security Recommendations by Officer CIA</title>
         <author>
             <name>Rey Olson</name>
@@ -427,32 +469,6 @@
 <p> </p>
 <p> </p>
 <div class="container"> </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
-        <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-
-        <updated>2024-06-08T20:29:40+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) invited me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
-<blockquote>
-<p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
-</blockquote>
-<p>The recording (approx. 1 hour) and slides are paywalled, SAI members can view them <a href="https://www.sai.be/event/details/260/smart-contracts-blockchain-security/">here</a>.</p>
-<p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
