@@ -54,6 +54,50 @@
         </content>
     </entry>
     <entry>
+        <title>On Verifying Multi-Sig Wallet Signatures</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/on-verifying-multi-sig-wallet-signatures/"/>
+        <id>https://smartcontractsecurity.eu/on-verifying-multi-sig-wallet-signatures/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/113/markus-winkler-NNOScQobDXY-unsplash.jpg" medium="image" />
+            <category term="Security"/>
+
+        <updated>2025-04-05T10:09:57+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/113/markus-winkler-NNOScQobDXY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>I was intrigued by Cyfrin's article <a href="https://www.cyfrin.io/blog/verify-safe-multi-sig-wallet-signatures-radiant-capital-hack" target="_blank" rel="noopener noreferrer">How To Verify Safe Multi-Sig Wallet Signatures: The Radiant Capital Hack Fix - Learn This or Lose $50M</a>  (and accompanying video<sup>1</sup>, see below). And after reading about the post-mortem of ByBit's $1.5B hack even more so!</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/7lP_0h-PPvY?si=4zIQyUTTVhcxdvG3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p>However, after watching the video I cannot help to think <strong>how absurd the notion is that users should jump through these hoops to verify a transaction.</strong></p>
+<p>I understand the sentiment that if you handle (really) large amounts of money, then you should take the greatest care to verify if everything is okidoki. But these steps seem unreasonable to me, as an outsider looking in.</p>
+<p>The proposed approach probably works in practice (and perhaps it is the only reasonably secure way of working for now), but I reckon this is <strong>user experience hell</strong> in reality. Even for experienced users.</p>
+<p><em>(I like Patrick's suggestions to wallet providers to enhance the transaction verification flow, but it seems a moot point when zooming out)</em></p>
+<p>To give an example, lots of large organizations move (really) large amounts of money, and they generally rely on the (implicit perhaps) security of the tools they are using. When initiating, approving or executing transactions (often supported by multi-factor authentication combined with four-eye or even six-eye approval flows) they do not question whether what the application UI shows them is correct.</p>
+<p>Why should we worry about this then, when dealing with cryptocurrencies? <em>(Hint: because crypto security is still dubious? Yes I know, traditional finance and other industries are not necessarily doing any better).</em></p>
+<h4>Analogy time</h4>
+<p>As an analogy (considering we all agree human safety is pretty important): people do not verify if the firmware of their car has been tampered with before taking it for a drive (You <em>could </em>die, right? The worst possible outcome).</p>
+<p>Probably not the best analogy<sup>2</sup>, but I hope you get my point:</p>
+<ul>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">People constantly make </span><em style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">really </em><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">important trust assumptions. </span></li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Perhaps it is time for the crypto industry to live up to user's security expectations.</span></li>
+</ul>
+<p><strong style="font-family: var(--editor-font-family); font-size: inherit;">People deserve to be able to trust their crypto applications to be secure, and their funds to be safe.</strong></p>
+<h4>To (not) trust middleware</h4>
+<p>Idem dito with the hesitance of relying on middleware providers such as Metamask. I mean at some point in the flow you will <em>have to</em> rely on third-parties (and their security). If you use a certain wallet, you rely on the provider's secure implementation (cue the discussion on closed-source versus open-source). You also trust in the protocols, applications you are using, don't you?</p>
+<p>You can try to remove as many dependencies as possible, but often you are just moving / shifting your trust (boundaries). That is maybe a topic for another article.</p>
+<h4>End of rant</h4>
+<p>After consideration I realize this post has become a bit of rant. I admit it is easy to point out problems, but that it is much harder to come up with (great) solutions. I'll give it some more time to gather my thoughts, but everything starts with acknowledging there is a problem <em>and</em> what that problem is exactly.</p>
+<p> </p>
+<hr>
+<p><em><sup>[1]</sup> By the way Patrick, everyone: I genuinely dislike these click-baity video thumbnails with surprised faces on them. I know these drive engagement and traffic, but still. With such quality content, I'd hope these tactics are unnecessary.</em></p>
+<p><em><sup>[2]</sup> There are many different factors to consider: what is the threat model / risk scenario (loss of life versus loss of funds), car manufacturing is a regulated(!) industry, nascent versus established technology, etc.</em></p>
+<p>Photo by <a href="https://unsplash.com/@markuswinkler?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Markus Winkler</a> on <a href="https://unsplash.com/photos/a-yellow-sign-that-says-beware-of-bag-snatchers-NNOScQobDXY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Thoughts on the $1.5B Bybit hack</title>
         <author>
             <name>Rey Olson</name>
@@ -69,7 +113,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://smartcontractsecurity.eu/media/posts/112/frankie-cordoba-zxw1FUarR9c-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Forbes has a decent write-up on the latest (and sadly greatest) crypto heist that took place at Bybit on 21 February, 2025:</p>
+                <p class="msg msg--info"><strong>Update 5 Mar 2025:</strong> Cyfrin has imho <a href="https://www.cyfrin.io/blog/safe-wallet-hack-bybit-exploit">the clearest write-up on the hack</a> (updated with the latest info that Safe{Wallet} was the culprit and got rekt); <a href="https://research.checkpoint.com/2025/the-bybit-incident-when-research-meets-reality/">Check Point Research</a> also has another great write-up of the events. Even better, check out the incident reports by the digital forensics company <a href="https://www.sygnia.co">Sygnia</a> (and marvel at the beauty and simplicity of this hack): <a href="https://smartcontractsecurity.eu/Bybit Incident Investigation - Preliminary Report.pdf" target="_blank" rel="noopener noreferrer" download>Bybit Incident Investigation - Preliminary Report</a>, <a href="https://smartcontractsecurity.eu/Bybit Interim Investigation Report.pdf" target="_blank" rel="noopener noreferrer">Bybit Interim Investigation Report</a></p>
+<p>Forbes has a decent write-up on the latest (and sadly greatest) crypto heist that took place at Bybit on 21 February, 2025:</p>
 <p><a href="https://www.forbes.com/sites/digital-assets/2025/02/21/latest-on-the-bybit-record-breaking-14-billion-dollar-crypto-hack/">https://www.forbes.com/sites/digital-assets/2025/02/21/latest-on-the-bybit-record-breaking-14-billion-dollar-crypto-hack/</a> </p>
 <p>Here are some of my impressions after I learned about the news (I was on holiday casually scrolling through my newsletters on mobile, yikes)</p>
 <ol>
@@ -81,14 +126,14 @@
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/112/Screenshot-2025-02-24-210006-2.png" alt="" width="706" height="400" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/112/responsive/Screenshot-2025-02-24-210006-2-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/112/responsive/Screenshot-2025-02-24-210006-2-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/112/responsive/Screenshot-2025-02-24-210006-2-md.png 768w"></figure>
 <figcaption >Same here: DeFi seems to be decreasing, exchanges and other centralized services (bridges anyone?) increasing</figcaption>
 </figure>
-<p>There seems to be a down tick over the last couple of years (imho) in certain types of hacks, such as the "classic" crypto hacks due to smart contract vulnerabilities (at least, those with larger pay-outs). On the other hand: advanced targeted attacks, where (amongst others) private keys are stolen, with bigger pay-outs, seem to be on the rise. Bybit and WazirX (hacked in July 2024 for $230M) are prime examples of this. Caveat: the top 10 largest hacks according to <a href="https://rekt.news/leaderboard/">https://rekt.news/leaderboard/</a> are a mixed bag (i.e. targeted CEX hacks, DeFi hacks), so take my opinion with a grain of salt (I am no scientific researcher, just following my gut-feeling here).<br><br></p>
+<p>There seems to be a down tick over the last couple of years (imho) in certain types of hacks, such as the "classic" crypto hacks due to smart contract vulnerabilities (at least, those with larger pay-outs). On the other hand: advanced targeted attacks, where (amongst others) private keys are stolen, with bigger pay-outs, seem to be on the rise. Bybit and WazirX (hacked in July 2024 for $230M) are prime examples of this. Caveat: the top 10 largest hacks according to <a href="https://rekt.news/leaderboard/">https://rekt.news/leaderboard/</a> are a mixed bag (i.e. targeted CEX hacks, DeFi hacks), so take my opinion with a grain of salt (I am no scientist, just following my gut-feeling here).<br><br></p>
 </li>
-<li><strong>I was surprised to read about Safe{Wallet}'s involvement<br></strong>I <span style="text-decoration: line-through;">was</span> <em>am<sup>[1]</sup> </em>going to publish an article on Patrick Collins' guide on <a href="https://www.cyfrin.io/blog/verify-safe-multi-sig-wallet-signatures-radiant-capital-hack">Hardware Wallet Multi-Sig Verification</a>, that refers to Safe{Wallet}. I was under the impression Safe had their security pretty well under control <span style="text-decoration: line-through;">(and apparently they do: Safe claims their services were not compromised during the Bybit hack)</span> <em>Update: apparently they did not - the attack is confirmed to have been carried out through a compromised Safe{Wallet} developer machine, see <a href="https://x.com/safe/status/1894768522720350673">here (x.com)</a></em>. It is however a tad surprising to see them ship additional security improvements to their product within 72 hours after the incident... Seems like they needed this trigger to expedite the release of these security features - I wonder how those internal discussions went...<br><br>Anyway, proper cryptographic key management piques my interest (because it still seems like black magic to me) and if I don't understand something, I dive in deeper <em>(disclaimer: I do not work at a crypto company, nor do I have any hands-on experience whatsoever with "institutional grade" crypto custody solutions. I remain quite skeptical about all the sales mumbo jumbo that is thrown around - it is often nothing more than a word soup)<br><br></em></li>
+<li><strong>I was surprised to read about Safe{Wallet}'s involvement<br></strong>I <span style="text-decoration: line-through;">was</span> <em>am<sup>[1]</sup> </em>going to publish an article on Patrick Collins' guide on <a href="https://www.cyfrin.io/blog/verify-safe-multi-sig-wallet-signatures-radiant-capital-hack">Hardware Wallet Multi-Sig Verification</a>, that refers to Safe{Wallet}. I was under the impression Safe had their security pretty well under control <span style="text-decoration: line-through;">(and apparently they do: Safe claims their services were not compromised during the Bybit hack)</span> <em>Update: apparently they did not - the attack is confirmed to have been carried out through a compromised Safe{Wallet} developer machine, see <a href="https://x.com/safe/status/1894768522720350673">here (x.com)</a></em>. It is however a tad surprising to see them ship additional security improvements to their product within 72 hours after the incident... Seems like they needed this incident to expedite the release of these security features - I wonder how those internal discussions went...<br><br>Anyway, proper cryptographic key management piques my interest (because it still seems like black magic to me) and if I don't understand something, I dive in deeper <em>(disclaimer: I do not work at a crypto company, nor do I have any hands-on experience whatsoever with "institutional grade" crypto custody solutions. I remain quite skeptical about all the sales mumbo jumbo that is thrown around - it is often nothing more than a word soup)<br><br></em></li>
 <li><strong>I was (and was not) surprised to see the issue was at the authorization layer</strong><br>Implementing a fraud proof, least-privilege transaction approval mechanism with adequate seggregation-of-duties <span style="text-decoration: underline;">AND one that is practical</span> (i.e. it can be used by normal humans without driving them mad) is quite a challenge. Messing up is not unheard of, especially if your adversary is North-Korea and they are actively targetting you...<br><br></li>
 <li><strong>I was not surprised to see our North-Korea friends behind this attack</strong><br>These guys are no idiots. Why bother hacking traditional finance institutions (that usually have better than average security), when you can plunder wealhty crypto organizations/bros/... that have the security posture of a typical start-up (if any at all). I am not sure why other countries are not doing exactly the same (e.g. Iran has a massive cyber army, but I guess... they don't need crypto? Perhaps they have sufficient money or resources or other options to circumvent Western sanctions). I am also quite curious on how the attackers will manage to launder $1,500,000,000 clean. I will definitely read up on that aspect (Chainalysis' crypto crime report actually has some information on this!)</li>
 </ol>
 <hr>
-<p><em><sup>[1]</sup> There is so much stuff happening online, at such a ludicrous speed... it is insanity. I can not, will not ever be able to keep up (side note: I am also trying to keep up with AI developments). Besides, I am also reading (offline; physical books) much more lately, so that is why I have not come around to actually publish another article the past months. And of course, life also happens </em>🤷</p>
+<p><em><sup>[1]</sup> There is so much stuff happening online, at such a ludicrous speed... it borders on insanity. I can not, will not ever be able, to keep up (side note: I am also trying to keep up with AI developments). Besides, I am also reading (offline; physical books) much more lately, so that is why I have not come around to actually publish another article the past months. And of course, life also happens </em>🤷</p>
 <p>Photo by <a href="https://unsplash.com/@foulsterr?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Frankie Cordoba</a> on <a href="https://unsplash.com/photos/a-woman-sitting-on-the-ground-smoking-a-cigarette-zxw1FUarR9c?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
 <p>By the way, first post of 2025! Happy new year!</p>
             ]]>
@@ -171,92 +216,6 @@
         </content>
     </entry>
     <entry>
-        <title>EBA Guidelines on ICT and security risk management</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/eba-guidelines-on-ict-and-security-risk-management/"/>
-        <id>https://smartcontractsecurity.eu/eba-guidelines-on-ict-and-security-risk-management/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/109/EBA-logo.jpeg" medium="image" />
-            <category term="Regulation"/>
-
-        <updated>2024-10-01T20:51:18+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/109/EBA-logo.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>Long before <a href="https://smartcontractsecurity.eu/digital-operational-resilience-act-dora/" target="_blank" rel="noopener noreferrer">Digital Operational Resilience Act (DORA)</a>, credit institutions (<em>aka banks</em>) and investment firms <em>(aka investment banks, hedge funds, PE &amp; VC firms, ...)</em>, but also PSPs (Payment Service Providers under Payments Services Directive 2 (PSD2) regulation) had to comply with these guidelines on ICT and security risk management.</p>
-<p>If you compare both DORA and these guidelines, you'll see that there is an approximate 100% overlap between the two. DORA entirely includes (and superseded) all of these <span style="text-decoration: line-through;">guidelines</span> requirements (and added more of them of course, alas).</p>
-<h3>Guidelines</h3>
-<ul>
-<li><strong>Governance and strategy</strong>
-<ul>
-<li><strong>Governance</strong></li>
-<li><strong>Strategy</strong></li>
-<li><strong>Use of third party providers</strong></li>
-</ul>
-</li>
-<li class="align-left"><strong>ICT and security risk management framework</strong>
-<ul>
-<li><strong>Organisation and objectives</strong></li>
-<li><strong>Identification of functions, processes and assets</strong></li>
-<li><strong>Classification and risk assessment</strong></li>
-<li class="align-left"><strong>Risk mitigation</strong></li>
-<li class="align-left"><strong>Reporting</strong></li>
-<li class="align-left"><strong>Audit</strong></li>
-</ul>
-</li>
-<li class="align-left"><strong>Information security</strong>
-<ul>
-<li class="align-left"><strong>Information security policy</strong></li>
-<li class="align-left"><strong>Logical security</strong></li>
-<li><strong>Physical security</strong></li>
-<li><strong>ICT operation security</strong></li>
-<li><strong>Security monitoring</strong></li>
-<li><strong>Information security reviews, assessment and testing</strong></li>
-<li><strong>Information security training and awareness</strong></li>
-</ul>
-</li>
-<li><strong>ICT operations management</strong>
-<ul>
-<li><strong>ICT incident and problem management</strong></li>
-</ul>
-</li>
-<li><strong>ICT project and change management</strong>
-<ul>
-<li><strong>ICT project management</strong></li>
-<li><strong>ICT systems acquisition and development</strong></li>
-<li><strong>ICT change management</strong></li>
-</ul>
-</li>
-<li><strong>Business continuity management</strong>
-<ul>
-<li><strong>Business impact analysis</strong></li>
-<li><strong>Business continuity planning</strong></li>
-<li><strong>Response and recovery plans</strong></li>
-<li><strong>Testing of plans</strong></li>
-<li><strong>Crisis communications</strong></li>
-</ul>
-</li>
-<li><strong>Payment service user relationship management</strong></li>
-</ul>
-<p>The last one is perhaps particular, but it explains what mitigating controls a PSP needs to provide to its customers, specifically with regard to payments. For example:</p>
-<ul>
-<li>Educate and assist customers: provide information and guidance about security risks associated with payment services.</li>
-<li>Keep information up-to-date: regularly update educational materials to reflect new threats and vulnerabilities.</li>
-<li>Allow for customization: give customers the option to disable specific payment functionalities if desired.</li>
-<li>Offer flexible spending limits: allow customers to adjust spending limits within agreed-upon parameters.</li>
-<li>Provide fraud alerts: notify customers of suspicious activity on their accounts.</li>
-<li>Communicate security updates: keep customers informed about changes in security procedures.</li>
-<li>Offer support: assist customers with any security-related questions or issues.</li>
-</ul>
-<p> </p>
-<hr>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Articles Series on Central Bank Digital Currencies (CBDCs)</title>
         <author>
             <name>Rey Olson</name>
@@ -284,33 +243,6 @@
 </ul>
 <hr>
 <p>Photo of the European Central Bank (ECB) headquarters by <a href="https://unsplash.com/@k_26_?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Frankfurt Photographer</a> on <a href="https://unsplash.com/photos/a-boat-traveling-down-a-river-next-to-a-tall-building-EsxRor-HM-Q?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>CBDCs, Payment firms, and Geopolitics by Tobias Berg, Jan Keil, Felix Martini &amp; Manju Puri</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/cbdcs-payment-firms-and-geopolitics/"/>
-        <id>https://smartcontractsecurity.eu/cbdcs-payment-firms-and-geopolitics/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/107/paul-fiedler-8Vc-RuZgsQ0-unsplash.jpg" medium="image" />
-            <category term="CBDC"/>
-
-        <updated>2024-09-29T19:30:03+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/107/paul-fiedler-8Vc-RuZgsQ0-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Central Bank Digital Currencies (CBDCs) are still a hot topic, according the <a href="https://www.atlanticcouncil.org/cbdctracker/">Atlantic Council</a>: more than 100 countries, representing 98% of global GDP, are exploring central bank digital currencies.</p>
-<p>This <a href="http://www.nber.org/papers/w32857">working paper by the National Bureau of Economic Research (NBER)</a> explores the effects of a digital euro on the payment industry.</p>
-<p><em><strong>Abstract<br></strong></em><em>We analyze the effect of a major central bank digital currency (CBDC) – the digital euro – on the payment industry to find remarkably heterogeneous effects. Stock prices of U.S. payment firms decrease, while stock prices of European payment firms increase in response to positive announcements on the digital euro. Bank stocks do not react. We estimate a loss in market capitalization of USD 127 billion for U.S. payment firms, vis-à-vis a gain of USD 23 billion for European payment firms. Our results emphasize the medium-of-exchange function of CBDCs and point to a novel geopolitical dimension of CBDCs: enhanced autonomy in payments. </em></p>
-<p class="msg msg--info">The National Bureau of Economic Research (NBER) is a private, nonprofit organization that facilitates cutting-edge research on and analysis of major economic issues. It is nonpartisan and refrains from making policy recommendations, focusing instead on providing background studies and data that underlie decision-making in both the public and private sectors. (source <a href="https://www.nber.org/about-nber">nber.org</a>)</p>
-<p>The payment industry (cfr. <a href="https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/">The Pay Off book</a>) is notoriously dominated by U.S. incumbents, namely Visa and Mastercard. Even with large local players such as Adyen,  Klarna, Worldline, etc., EU citizens are largely dependent on these US payment networks to execute our global cross-border (card) payments.</p>
-<p>A digital euro (CBDC) is an 'obvious' solution to this problem; it entirely side-steps current card payment networks.</p>
-<p>Another initiative to bolster the autonomy of the European payment network(s) is the European Payments Initiative (EPI) with its digital wallet app Wero. You can find a great write-up about EPI and Wero  here: <a href="https://www.checkout.com/blog/wero-payments">Wero set to disrupt European payments (Checkout.com)</a></p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@paulfiedler?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Paul Fiedler</a> on <a href="https://unsplash.com/photos/high-rise-building-under-gray-sky-8Vc-RuZgsQ0?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
@@ -473,6 +405,32 @@
 <p>Another interesting read: <a href="https://smartcontractsecurity.eu/smart-contracts-a-law-and-technology-perspective/">Smart Contracts, a Law + Technology Perspective by Thibault Schrepel</a></p>
 <h3>Digital euro 💶</h3>
 <p>I am also compiling interesting content on a European central bank digital currency, called the "digital euro". Please refer to <a href="https://smartcontractsecurity.eu/articles-series-on-central-bank-digital-currencies-cbdcs/">Articles Series on Central Bank Digital Currencies (CBDCs)</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
+        <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" medium="image" />
+            <category term="Security"/>
+
+        <updated>2024-06-08T20:29:40+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) invited me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
+<blockquote>
+<p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
+</blockquote>
+<p>The recording (approx. 1 hour) and slides are paywalled, SAI members can view them <a href="https://www.sai.be/event/details/260/smart-contracts-blockchain-security/">here</a>.</p>
+<p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
