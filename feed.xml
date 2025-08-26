@@ -54,6 +54,42 @@
         </content>
     </entry>
     <entry>
+        <title>A Critical Look at PwC’s Digital Euro Cost Study</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/critical-look-at-pwc-digital-euro-cost-study/"/>
+        <id>https://smartcontractsecurity.eu/critical-look-at-pwc-digital-euro-cost-study/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/115/skyler-smith-PyC9jj2pNvc-unsplash1.jpg" medium="image" />
+            <category term="CBDC"/>
+
+        <updated>2025-08-26T21:35:58+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/115/skyler-smith-PyC9jj2pNvc-unsplash1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In June 2025 I came across this study by PwC <em>(note that it was commissioned by the European Association of Co-operative Banks (EACB), the European Banking Federation (EBF) and the European Savings and Retail Banking Group (ESBG) - so take it with a grain of salt</em>🧂<em>considering the interests of these organisations...):</em></p>
+<p><a href="https://www.pwc.de/de/finanzdienstleistungen/pwc-digital-euro-cost-study-2025.pdf">https://www.pwc.de/de/finanzdienstleistungen/pwc-digital-euro-cost-study-2025.pdf</a></p>
+<blockquote>
+<p><strong>Key Findings</strong></p>
+<p>The cost estimate depends largely on the size of the banks together with other characteristics such as their structure (centralised or decentralised), with <strong>average change cost estimated at 110 million euro per bank</strong>, excluding offline, multiple accounts and merchant acquiring (i.e., the cost for the processing of payments). In line with the scope of this study, this figure represents only a part of the total costs to be covered for the introduction of the digital euro. If the results of this study are extrapolated to the entire euro area, the total change cost for banks in the euro area could amount to 18 billion euro.<br>Main cost drivers relate to technical adjustments (e.g., intermediary applications, interfaces and ATM infrastructure), which account for around 75% of the estimated total costs of participating banks (&gt; 1.5 billion euro). Additionally, the introduction of the digital euro will not only entail considerable financial resources but also significant deployment of personnel from across various areas of expertise. On average, respondents assume that almost 46% of the resources with relevant skills would be tied up per year – some banks assume even higher capacities –which would materially limit the innovative ability of the banks.</p>
+</blockquote>
+<p>While I did not have empirical results to back up my claims: these figures seem highly exaggerated. I get that new implementations cost money (often a lot of money - yes, I am looking at you PSD2 regulation, that enacted Open Banking in the EU). But come on, €110M is a <em>shitload </em>of money. Let me break this down.</p>
+<p>PwC used a three layer model to structure the estimates for major digital euro<br>cost drivers: </p>
+<blockquote>
+<p><strong>1. Commercial layer</strong> focuses on the go-to-market approach and customer relationships;<br><strong>2. Technical layer</strong> covers technology and infrastructure including (mobile) banking applications, physical card, ATMs, branch networks, POS terminals, as well as functionalities the rulebook lists as liquidity and access management;<br><strong>3. Operational layer</strong> takes a closer look at core back-office processes, such as fee calculation, reporting, and payment statistics, to support the seamless integration of the digital euro.</p>
+</blockquote>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://smartcontractsecurity.eu/media/posts/115//Distribution-of-costs-across-the-PwC-Payment-Layer-Model.png" alt="" width="1114" height="445" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://smartcontractsecurity.eu/media/posts/115//responsive/Distribution-of-costs-across-the-PwC-Payment-Layer-Model-xs.png 300w ,https://smartcontractsecurity.eu/media/posts/115//responsive/Distribution-of-costs-across-the-PwC-Payment-Layer-Model-sm.png 480w ,https://smartcontractsecurity.eu/media/posts/115//responsive/Distribution-of-costs-across-the-PwC-Payment-Layer-Model-md.png 768w"></figure>
+<figcaption >Distribution of costs across the PwC Payment Layer Model (source: Digital Euro Cost Study by PwC)</figcaption>
+</figure>
+<p>75% of €110M = €82,5M. I understand large banks rely on ancient technology such as mainframes and need to integrate with ATM technolgy (which might even make the IBM zSeries look modern), but approx. € 80M to integrate some sort of new front-end wallet functionality in their online banking app, as well as a back-end integration? That seems far fetched - or just your common corporate bureaucratic bullshit camouflaged as a research report.</p>
+<p>/end of rant</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@skyler_tv?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Skyler Smith</a> on <a href="https://unsplash.com/photos/white-and-black-panda-graffiti-PyC9jj2pNvc?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Article Series on Cryptocurreny Regulation</title>
         <author>
             <name>Rey Olson</name>
@@ -325,6 +361,7 @@
 </ul>
 <h4>Digital euro</h4>
 <ul>
+<li><a href="https://smartcontractsecurity.eu/critical-look-at-pwc-digital-euro-cost-study/" target="_blank" rel="noopener noreferrer">Digital Euro Cost Study by PwC</a></li>
 <li><a href="https://smartcontractsecurity.eu/cbdcs-payment-firms-and-geopolitics/" target="_blank" rel="noopener noreferrer">CBDCs, Payment firms, and Geopolitics by Tobias Berg, Jan Keil, Felix Martini &amp; Manju Puri</a></li>
 <li><a href="https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/" target="_blank" rel="noopener noreferrer">The Pay Off: How Changing the Way We Pay Changes Everything by Gottfried Leibbrandt &amp; Natasha De Teran</a></li>
 <li><a href="https://smartcontractsecurity.eu/cbdc-architectures-financial-system-central-bank-future/" target="_blank" rel="noopener noreferrer">CBDC architectures, the financial system, and the central bank of the future by Rainer Böhme &amp; Raphael Auer</a></li>
@@ -407,32 +444,6 @@
 <h3>Additional reading by Veridise</h3>
 <p>There are more gems on the Veridise blog, for example <a href="https://medium.com/veridise/breakdown-of-100-security-audits-key-insights-from-1605-vulnerability-findings-0f12d830572e">Breakdown of 100 security audits: Key insights from 1605 vulnerability findings</a>.</p>
 <p>I think the views from the article align with my perception that, more recently, the larger losses stem from a) "old school" hacks (e.g. private key theft through social engineering attacks), b) business logic errors. I don't always closely follow the latest news with regards to exploits, but I have the impression that reentrancy attacks and so forth are not as popular as they were before. I guess due to projects improving their smart contract security game (higher code quality, more code audit(s) before go-live, ...)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
-        <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-
-        <updated>2024-06-08T20:29:40+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) invited me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
-<blockquote>
-<p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
-</blockquote>
-<p>The recording (approx. 1 hour) and slides are paywalled, SAI members can view them <a href="https://www.sai.be/event/details/260/smart-contracts-blockchain-security/">here</a>.</p>
-<p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
