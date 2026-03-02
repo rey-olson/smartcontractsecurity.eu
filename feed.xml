@@ -70,7 +70,7 @@
                     <p><img src="https://smartcontractsecurity.eu/media/posts/118/elisa-ventur-yjHh4JpZQT8-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--info">I accidentally resubscribed to Bankless Premium for another year (goddamn auto-renewals), so I actually made sure to get some value from my subscription this time. Enter their ad-free podcast stream!</p>
 <p>I have to admit, I wasn't much of a Bankless fan before - but I like their recent laser focus on Ethereum. I mostly listen(ed) to Anthony Sassano's The Daily Gwei, but since he's scaling back his episodes (good for him, I truly don't understand how some people can keep up with such an <em>insane</em> content schedule - must an <span style="text-decoration: line-through;">American</span> Australian thing), I am trying to keep up with the Bankless guys.</p>
-<p>Anyway, the episode is full of valuable sensible security advice:</p>
+<p>Anyway, the episode is full of sensible security advice:</p>
 <ul>
 <li>Use a password manager (e.g. no more reusing passwords, silly!)</li>
 <li>Enable strong authentication (e.g. passkeys, hardware keys such as Yubikeys)</li>
@@ -83,7 +83,8 @@
 <h3>Doomsday prepping</h3>
 <p>One thing I did notice, and it might be an <span style="text-decoration: line-through;">Australian</span> American thing, is the focus on the <em>worst</em> <em>case</em> scenario. One of the guests is ex-CIA, so I understand it's probably a bit of an occupational bias.</p>
 <p>They cover two main scenarios: 1) the most likely one (you get phished online) and 2) the worst case one (you get homejacked). I mean, the latter is technically correct, but I don't think that is the case most people should prepare for. I'm more in the camp that you should prepare for the <em>second</em> <em>most likely</em> scenario of disaster (and after that, maybe the third and fourth most likely scenarios). Namely, <strong>you screw up your own wallet and key management</strong>. I mean, using a centralized crypto exchange is not a bad idea per se. Most people in the developed world rely on banks to custody their funds, because managing everything yourself is... well kind of unrealistic / utopian / batshit crazy / ... But of course that goes against the 'going bankless' ethos.</p>
-<p>Folks, never forget: 'With great power comes great responsibility.'</p>
+<h3 class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Don't just point out the problem - offer a solution</strong></h3>
+<p>I know, I know, it's easy to criticize someone's work. I prepared some content in the past myself, but never got around to finishing it. For your entertainment, I just published my guide here (so as not to let the fruits of my hard labour go to waste): <a href="https://smartcontractsecurity.eu/get-started-with-crypto-securely/" target="_blank" rel="noopener noreferrer">Get started with crypto securely.</a></p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@elisa_ventur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Elisa Ventur</a> on <a href="https://unsplash.com/photos/woman-in-black-blazer-sitting-on-chair-yjHh4JpZQT8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
 <p> </p>
