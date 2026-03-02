@@ -54,6 +54,43 @@
         </content>
     </entry>
     <entry>
+        <title>Zero Crypto at Home: Bankless in the Age of Wrench Attacks and Phishing by Jameson Lopp and Beau (A Bankless podcast)</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/zero-crypto-at-home-bankless-in-the-age-of-wrench-attacks-and-phishing-by-jameson-lopp-and-beau-a-bankless-podcast/"/>
+        <id>https://smartcontractsecurity.eu/zero-crypto-at-home-bankless-in-the-age-of-wrench-attacks-and-phishing-by-jameson-lopp-and-beau-a-bankless-podcast/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/118/elisa-ventur-yjHh4JpZQT8-unsplash.jpg" medium="image" />
+            <category term="Security"/>
+
+        <updated>2026-03-02T21:09:05+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/118/elisa-ventur-yjHh4JpZQT8-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--info">I accidentally resubscribed to Bankless Premium for another year (goddamn auto-renewals), so I actually made sure to get some value from my subscription this time. Enter their ad-free podcast stream!</p>
+<p>I have to admit, I wasn't much of a Bankless fan before - but I like their recent laser focus on Ethereum. I mostly listen(ed) to Anthony Sassano's The Daily Gwei, but since he's scaling back his episodes (good for him, I truly don't understand how some people can keep up with such an <em>insane</em> content schedule - must an <span style="text-decoration: line-through;">American</span> Australian thing), I am trying to keep up with the Bankless guys.</p>
+<p>Anyway, the episode is full of valuable sensible security advice:</p>
+<ul>
+<li>Use a password manager (e.g. no more reusing passwords, silly!)</li>
+<li>Enable strong authentication (e.g. passkeys, hardware keys such as Yubikeys)</li>
+<li>Segregate your funds / wallets (e.g. cold versus hot wallet(s), multi-sig wallets)</li>
+<li>Enhance your privacy (e.g. privacy focused e-mail services such as Proton Mail)</li>
+<li>and much more!</li>
+</ul>
+<p>If you are too lazy to watch or listen to the entire episode, ask your favourite AI companion to summarize the <a href="https://www.bankless.com/podcast/zero-crypto-at-home-a-security-playbook-for-2026">transcription</a>. </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fw4gxyGl6qw?si=A9fUH7PsptLuXrdl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<h3>Doomsday prepping</h3>
+<p>One thing I did notice, and it might be an <span style="text-decoration: line-through;">Australian</span> American thing, is the focus on the <em>worst</em> <em>case</em> scenario. One of the guests is ex-CIA, so I understand it's probably a bit of an occupational bias.</p>
+<p>They cover two main scenarios: 1) the most likely one (you get phished online) and 2) the worst case one (you get homejacked). I mean, the latter is technically correct, but I don't think that is the case most people should prepare for. I'm more in the camp that you should prepare for the <em>second</em> <em>most likely</em> scenario of disaster (and after that, maybe the third and fourth most likely scenarios). Namely, <strong>you screw up your own wallet and key management</strong>. I mean, using a centralized crypto exchange is not a bad idea per se. Most people in the developed world rely on banks to custody their funds, because managing everything yourself is... well kind of unrealistic / utopian / batshit crazy / ... But of course that goes against the 'going bankless' ethos.</p>
+<p>Folks, never forget: 'With great power comes great responsibility.'</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@elisa_ventur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Elisa Ventur</a> on <a href="https://unsplash.com/photos/woman-in-black-blazer-sitting-on-chair-yjHh4JpZQT8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Article Series on Cryptocurrency Regulation</title>
         <author>
             <name>Rey Olson</name>
@@ -409,32 +446,6 @@
 <h3>Additional reading by Veridise</h3>
 <p>There are more gems on the Veridise blog, for example <a href="https://medium.com/veridise/breakdown-of-100-security-audits-key-insights-from-1605-vulnerability-findings-0f12d830572e">Breakdown of 100 security audits: Key insights from 1605 vulnerability findings</a>.</p>
 <p>I think the views from the article align with my perception that, more recently, the larger losses stem from a) "old school" hacks (e.g. private key theft through social engineering attacks), b) business logic errors. I don't always closely follow the latest news with regards to exploits, but I have the impression that reentrancy attacks and so forth are not as popular as they were before. I guess due to projects improving their smart contract security game (higher code quality, more code audit(s) before go-live, ...)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/"/>
-        <id>https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" medium="image" />
-            <category term="Security"/>
-
-        <updated>2024-06-08T20:29:40+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/102/jodie-cook-gmI5H2exWng-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p>The folks at <a href="https://www.sai.be">SAI</a> (a Belgian non-profit association for IT professionals and information scientists) invited me to present a webinar on the current state of blockchain and the security considerations for the technology.</p>
-<blockquote>
-<p>What is blockchain, what are smart contracts and why on earth should you use them anno 2024? We look at contemporary applications of some popular blockchain protocols and also consider what they can offer by business sector. Finally, we zoom in on the security aspects of blockchains and smart contracts; because as the Belgian financial watchdog FSMA so nicely puts it, “The only guarantee in crypto is risk”!</p>
-</blockquote>
-<p>The recording (approx. 1 hour) and slides are paywalled, SAI members can view them <a href="https://www.sai.be/event/details/260/smart-contracts-blockchain-security/">here</a>.</p>
-<p>If you are interested in a similar session, do not hesitate to reach out. I am always more than happy to share my insights!</p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@flipboo?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Philippe Bout</a> on <a href="https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
             ]]>
         </content>
     </entry>
