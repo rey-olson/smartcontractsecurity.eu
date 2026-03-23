@@ -1,0 +1,472 @@
+# Center for Blockchain & Smart Contract Security
+
+> A European resource hub for learning blockchain and smart contract security. Curated by Rey Olson, an information security specialist based in Belgium. Covers Ethereum, Solana, DeFi, bridge security, CBDCs, regulation, CTF challenges, and the Secureum bootcamp series. Licensed under CC BY 4.0.
+
+## About the Site
+
+The Center for Blockchain & Smart Contract Security (smartcontractsecurity.eu) was created in August 2021 by Rey Olson as a way to share curated resources about blockchain and smart contract security. Rey is an information security specialist based in Belgium, with a background in IT at a large bank and consulting at a Big Four firm. During the 2020 pandemic, he rediscovered cryptocurrencies and Ethereum, which led to this site. The site is built with Publii CMS, hosted on GitHub, and served via Cloudflare. All content is licensed under CC BY 4.0.
+
+Contact: https://twitter.com/ReyOlson4 | https://www.linkedin.com/in/rey-olson
+
+---
+
+## Main Pages
+
+### Home
+URL: https://smartcontractsecurity.eu/
+The homepage lists all articles in reverse chronological order. The site's mission is to help people learn how to keep digital assets safe and secure on blockchain technology and distributed ledger technology (DLT).
+
+### About
+URL: https://smartcontractsecurity.eu/about-2/
+Rey lives in Belgium with his wife and three children. He began his career in IT at a large bank, worked as a consultant at a Big Four company, and is currently an information security specialist in the financial sector. He created this website in August 2021 to share his love of blockchain and smart contract security.
+
+### Services
+URL: https://smartcontractsecurity.eu/security-audit-services/
+Rey does not offer professional security or audit services himself. For Web3 or Web2 security expertise, he refers visitors to Spearbit (world-class independent security researchers) and Cantina (the first marketplace for web3 security, incubated by Spearbit). For the traditional approach, he points to his curated list of audit firms.
+
+### Contact
+URL: https://smartcontractsecurity.eu/contact/
+
+---
+
+## Resource Categories
+
+### Secureum
+URL: https://smartcontractsecurity.eu/secureum/
+The Secureum bootcamp is a series on smart contract security auditing. The site covers all parts of the Secureum curriculum: Ethereum 101, Solidity 101, Solidity 201, Security Pitfalls & Best Practices 101 & 201, Audit Techniques & Tools 101, Audit Findings 101 & 201.
+
+### Capture The Flag
+URL: https://smartcontractsecurity.eu/capture-the-flag-challenges/
+CTF challenge resources for practicing smart contract security skills.
+
+### Ethereum
+URL: https://smartcontractsecurity.eu/tags/ethereum/
+
+### Solana
+URL: https://smartcontractsecurity.eu/tags/solana/
+
+### DeFi
+URL: https://smartcontractsecurity.eu/tags/defi/
+
+### Bridge Security
+URL: https://smartcontractsecurity.eu/tags/bridges/
+
+### Regulation
+URL: https://smartcontractsecurity.eu/tags/legislation/
+
+### CBDCs
+URL: https://smartcontractsecurity.eu/tags/cbdc/
+
+### ZK (Zero Knowledge)
+URL: https://smartcontractsecurity.eu/tags/zk/
+
+### Lists
+URL: https://smartcontractsecurity.eu/tags/list/
+
+---
+
+## Full Article Index
+
+### Zero Crypto at Home: Bankless in the Age of Wrench Attacks and Phishing
+URL: https://smartcontractsecurity.eu/zero-crypto-at-home-bankless-in-the-age-of-wrench-attacks-and-phishing-by-jameson-lopp-and-beau-a-bankless-podcast/
+Date: 2 March 2026
+Tags: Security
+A Bankless podcast episode by Jameson Lopp and Beau about reducing crypto exposure at home to protect against wrench attacks and phishing.
+
+### Article Series on Cryptocurrency Regulation
+URL: https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/
+Date: 28 September 2025
+Tags: Regulation
+
+### Articles Series on Central Bank Digital Currencies (CBDCs)
+URL: https://smartcontractsecurity.eu/articles-series-on-central-bank-digital-currencies-cbdcs/
+Date: 26 August 2025
+Tags: CBDC
+
+### On Verifying Multi-Sig Wallet Signatures
+URL: https://smartcontractsecurity.eu/on-verifying-multi-sig-wallet-signatures/
+Date: 5 April 2025
+Tags: Security
+
+### Thoughts on the $1.5B Bybit Hack
+URL: https://smartcontractsecurity.eu/thoughts-on-the-one-and-a-half-billion-bybit-hack/
+Date: 24 February 2025
+Tags: Ethereum
+
+### Python and Vyper Smart Contract Development by Cyfrin
+URL: https://smartcontractsecurity.eu/python-and-vyper-smart-contract-development-by-cyfrin/
+Date: 7 December 2024
+Tags: Ethereum
+
+### Security Recommendations by Officer CIA
+URL: https://smartcontractsecurity.eu/security-recommendations-by-officer-cia/
+Date: 6 November 2024
+Tags: Security
+
+### The Pay Off: How Changing the Way We Pay Changes Everything by Gottfried Leibbrandt & Natasha De Teran
+URL: https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/
+Date: 10 September 2024
+Tags: CBDC
+A book about how payment systems are changing and what that means for the global economy.
+
+### Zero-Knowledge Security Workshop by Veridise
+URL: https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/
+Date: 18 August 2024
+Tags: ZK
+
+### Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)
+URL: https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/
+Date: 8 June 2024
+Tags: Security
+
+### An Analysis of Two Web3 Phishing Kits by Bernhard Mueller
+URL: https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/
+Date: 20 April 2024
+Tags: Security
+
+### Smart Contract Phishing, Attack & Defense by Tejaswa Rastogi
+URL: https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/
+Date: 9 April 2024
+Tags: Security
+
+### Ethereum Smart Contract Auditor's 2023 Rewind by Patrick Drotleff
+URL: https://smartcontractsecurity.eu/ethereum-smart-contract-auditors-2023-rewind-by-patrick-drotleff/
+Date: 27 January 2024
+Tags: Security
+
+### Security and Auditing Course by Cyfrin
+URL: https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/
+Date: 30 December 2023
+Tags: Security
+
+### The True Origin Of Hacks & Top Web3 Vulnerabilities by Immunefi
+URL: https://smartcontractsecurity.eu/the-true-origin-of-hacks-and-top-web3-vulnerabilities-by-immunefi/
+Date: 24 November 2023
+Tags: Security
+
+### The Rekt Test
+URL: https://smartcontractsecurity.eu/the-rekt-test/
+Date: 24 November 2023
+Tags: Security
+A checklist/framework for evaluating the security posture of DeFi protocols.
+
+### My Lightning Talk @ ANNACON (2023)
+URL: https://smartcontractsecurity.eu/my-lightning-talk-annacon-2023/
+Date: 19 October 2023
+Tags: Security
+Rey's personal lightning talk at the ANNACON 2023 conference.
+
+### Cyber And Hacking In The Worlds Of Blockchain And Crypto by Oded Vanunu, Roman Zaikin & Dikla Barda
+URL: https://smartcontractsecurity.eu/cyber-and-hacking-in-the-worlds-of-blockchain-and-crypto/
+Date: 19 September 2023
+Tags: Security
+
+### Secureum TrustX @ Devconnect Istanbul (2023)
+URL: https://smartcontractsecurity.eu/secureum-trustx-devconnect-istanbul-2023/
+Date: 16 August 2023
+Tags: Secureum
+
+### Blockchain Developer, Solidity & Foundry Course 2023 by Patrick Collins
+URL: https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/
+Date: 24 June 2023
+Tags: Solidity
+
+### Open Standard Web3 Attack Reference (OSWAR)
+URL: https://smartcontractsecurity.eu/oswar-open-standard-web3-attack-reference/
+Date: 7 June 2023
+Tags: Security
+
+### Chainalysis Links Amsterdam 2023
+URL: https://smartcontractsecurity.eu/chainalysis-links-amsterdam-2023/
+Date: 7 June 2023
+Tags: Regulation
+
+### Cybersecurity Best Practices for Crypto Exchanges
+URL: https://smartcontractsecurity.eu/cybersecurity-best-practices-for-crypto-exchanges/
+Date: 14 April 2023
+Tags: Security
+
+### DeFi Security Summit 2023
+URL: https://smartcontractsecurity.eu/defi-security-summit-2023/
+Date: 12 April 2023
+Tags: DeFi
+
+### NEAR Smart Contract Security Course by Timur Guvenkaya
+URL: https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/
+Date: 26 March 2023
+Tags: NEAR
+
+### Ghosts of Epochs Past by Keyrxng
+URL: https://smartcontractsecurity.eu/ghosts-of-epochs-past-by-keyrxng/
+Date: 12 March 2023
+Tags: Secureum
+
+### Building Secure Smart Contracts by Trail of Bits
+URL: https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/
+Date: 27 February 2023
+Tags: Security
+
+### Awesome Account Abstraction by 4337 Mafia
+URL: https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/
+Date: 3 February 2023
+Tags: Lists
+
+### Security and Audit Services for Compound DAO
+URL: https://smartcontractsecurity.eu/security-and-audit-services-for-compound-dao/
+Date: 9 January 2023
+Tags: DeFi
+
+### Account Abstraction by Julien Niset (Argent)
+URL: https://smartcontractsecurity.eu/account-abstraction-by-julien-niset-argent/
+Date: 6 December 2022
+Tags: Security
+
+### Bridge Security Introduction by Spearbit
+URL: https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/
+Date: 5 December 2022
+Tags: Bridges
+
+### Smart Contract Auditor Roadmap by QuillAudit
+URL: https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/
+Date: 23 November 2022
+Tags: Lists
+
+### A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry
+URL: https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/
+Date: 11 November 2022
+Tags: Bridges
+
+### Yearn's Risk Based Approach to Security by storm0x
+URL: https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/
+Date: 29 October 2022
+Tags: DeFi
+
+### Understanding Bridge Security by Arjun Bhuptani (Connext)
+URL: https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/
+Date: 25 October 2022
+Tags: Bridges
+
+### Web3 Security Library by Immunefi
+URL: https://smartcontractsecurity.eu/web3-security-library-by-immunefi/
+Date: 24 October 2022
+Tags: Lists
+
+### DeFi Security Summit 2022 by Stanford
+URL: https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/
+Date: 13 September 2022
+Tags: DeFi
+
+### DAO Governance Attacks, and How to Avoid Them (a16z crypto)
+URL: https://smartcontractsecurity.eu/dao-governance-attacks-and-how-to-avoid-them-az16-crypto/
+Date: 29 July 2022
+Tags: Security
+
+### A Tool for Detecting Metamorphic Smart Contracts by Michael Blau (a16z crypto)
+URL: https://smartcontractsecurity.eu/a-tool-for-detecting-metamorphic-smart-contracts-by-michael-blau-a16z-crypto/
+Date: 29 July 2022
+Tags: Ethereum
+
+### Ethereum Smart Contract Security Best Practices by ConsenSys Diligence
+URL: https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/
+Date: 26 July 2022
+Tags: Ethereum
+
+### The Auditooor Grindset
+URL: https://smartcontractsecurity.eu/the-auditooor-grindset/
+Date: 30 May 2022
+Tags: Security
+Advice and mindset guidance for aspiring smart contract auditors.
+
+### Sanny's Solana Security Resources
+URL: https://smartcontractsecurity.eu/sannys-solana-security-resources/
+Date: 19 May 2022
+Tags: Solana
+
+### Nascent's Simple Security Toolkit
+URL: https://smartcontractsecurity.eu/nascents-simple-security-toolkit/
+Date: 19 May 2022
+Tags: Lists
+
+### The Anti-Ape on What's Wrong With Bridges
+URL: https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/
+Date: 26 April 2022
+Tags: Bridges
+
+### My Lightning Talk @ Secureum TrustX
+URL: https://smartcontractsecurity.eu/my-lightning-talk-secureum-trustx/
+Date: 22 April 2022
+Tags: Secureum
+Rey's personal lightning talk at the Secureum TrustX event.
+
+### Smart Contracts ft. Ransomware
+URL: https://smartcontractsecurity.eu/smart-contracts-and-ransomware/
+Date: 26 March 2022
+Tags: Security
+Exploration of the intersection of smart contracts and ransomware attacks.
+
+### Secureum TrustX @ Devconnect Amsterdam (2022)
+URL: https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/
+Date: 9 March 2022
+Tags: Ethereum
+
+### Enterprise Ethereum Alliance's Crosschain Security Guidelines (v1.0)
+URL: https://smartcontractsecurity.eu/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/
+Date: 26 February 2022
+Tags: Security
+
+### Newsletters Etcetera
+URL: https://smartcontractsecurity.eu/newsletters-a-selection-of/
+Date: 20 February 2022
+Tags: Lists
+A curated selection of newsletters related to blockchain and security.
+
+### Manifold Finance's DeFi Threat Matrix
+URL: https://smartcontractsecurity.eu/manifold-finances-defi-threat-matrix/
+Date: 9 February 2022
+Tags: DeFi
+
+### Patrick McCorry's Cryptocurrency Class 2022
+URL: https://smartcontractsecurity.eu/patrick-mccorrys-cryptocurrency-class-2022/
+Date: 4 February 2022
+Tags: Ethereum
+
+### Humble Book Bundle: Cybersecurity by Wiley
+URL: https://smartcontractsecurity.eu/humble-book-bundle-cybersecurity-by-wiley/
+Date: 2 February 2022
+Tags: Security
+
+### Devansh Batham's Genesis 0x00: A Series on Blockchain Security
+URL: https://smartcontractsecurity.eu/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/
+Date: 13 January 2022
+Tags: Security
+
+### 0xSleepy's Hacking the Blockchain: An Ultimate Guide
+URL: https://smartcontractsecurity.eu/hacking-the-blockchain-an-ultimate-guide-immunefi/
+Date: 13 January 2022
+Tags: Security
+A comprehensive guide to hacking and securing blockchain systems, originally published on Immunefi.
+
+### Shermin Voshmgir's Token Economy
+URL: https://smartcontractsecurity.eu/token-economy/
+Date: 10 January 2022
+Tags: DeFi
+Book covering the economics of tokenized systems and Web3.
+
+### Ben Kremer's Awesome Solidity
+URL: https://smartcontractsecurity.eu/awesome-solidity/
+Date: 2 January 2022
+Tags: Lists
+
+### Smart Contract Security Verification Standard (SCSVSv2)
+URL: https://smartcontractsecurity.eu/smart-contract-security-verification-standard-version-2-scsvsv2/
+Date: 2 January 2022
+Tags: Ethereum
+
+### Pierre Antoine on Ethereum Private Key Attacks
+URL: https://smartcontractsecurity.eu/a-quick-tour-on-ethereum-private-key-attacks/
+Date: 28 December 2021
+Tags: Ethereum
+A tour of common attacks on Ethereum private keys and how they happen.
+
+### Secureum Part 8: Audit Findings 201
+URL: https://smartcontractsecurity.eu/secureum-part-8-audit-findings-201/
+Date: 27 November 2021
+Tags: Secureum
+
+### Introduction to Ethereum Scaling & Layer 2's
+URL: https://smartcontractsecurity.eu/introduction-to-ethereum-scaling-and-layer-2s/
+Date: 21 November 2021
+Tags: Ethereum
+Overview of Ethereum scaling solutions including Layer 2 technologies.
+
+### Audit Firms: Or, The Seal of Approval
+URL: https://smartcontractsecurity.eu/audit-firms/
+Date: 21 November 2021
+Tags: Lists
+A curated list of smart contract audit firms.
+
+### yAcademy
+URL: https://smartcontractsecurity.eu/yacademy/
+Date: 15 November 2021
+Tags: Security
+Overview of yAcademy, a fellowship program for smart contract security auditors.
+
+### Gitcoin & KERNEL Fellowship
+URL: https://smartcontractsecurity.eu/gitcoin-and-kernel-fellowship/)
+Date: 15 November 2021
+Tags: Security
+
+### Secureum Part 7: Audit Findings 101
+URL: https://smartcontractsecurity.eu/secureum-part-7-audit-findings-101/
+Date: 14 November 2021
+Tags: Secureum
+
+### Capture The Flag (CTF)
+URL: https://smartcontractsecurity.eu/capture-the-flag-challenges/
+Date: 14 November 2021
+Tags: CTF
+A curated list of CTF challenges for practicing smart contract security and Ethereum hacking skills.
+
+### Secureum Part 6: Audit Techniques & Tools 101
+URL: https://smartcontractsecurity.eu/secureum-part-6-audit-techniques-and-tools-101/
+Date: 7 November 2021
+Tags: Secureum
+
+### Secureum Part 5: Security Pitfalls & Best Practices 201
+URL: https://smartcontractsecurity.eu/secureum-part-5-security-pitfalls-and-best-practices-201/
+Date: 7 November 2021
+Tags: Secureum
+
+### Ethereum EVM Illustrated
+URL: https://smartcontractsecurity.eu/ethereum-evm-illustrated/
+Date: 7 November 2021
+Tags: Ethereum
+Visual and illustrated guide to understanding the Ethereum Virtual Machine (EVM).
+
+### Secureum Bootcamp Part 4: Security Pitfalls & Best Practices 101
+URL: https://smartcontractsecurity.eu/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/
+Date: 30 October 2021
+Tags: Secureum
+
+### Secureum Bootcamp Part 3: Solidity 201
+URL: https://smartcontractsecurity.eu/secureum-bootcamp-part-3-solidity-201/
+Date: 27 October 2021
+Tags: Secureum
+
+### Secureum Bootcamp Part 2: Solidity 101
+URL: https://smartcontractsecurity.eu/secureum-bootcamp-part-1-solidity-101/
+Date: 26 October 2021
+Tags: Secureum
+
+### Mastering Ethereum
+URL: https://smartcontractsecurity.eu/mastering-ethereum/
+Date: 23 October 2021
+Tags: Ethereum
+The classic open-source book on Ethereum by Andreas M. Antonopoulos and Gavin Wood.
+
+### Non-blockchain Security Measures Still Matter
+URL: https://smartcontractsecurity.eu/common-cyber-security-still-matters/
+Date: 22 October 2021
+Tags: Ethereum
+Argument that traditional cybersecurity practices remain important even in the blockchain world.
+
+### Yos Riady's Best Practices For Smart Contract Development
+URL: https://smartcontractsecurity.eu/best-practices-for-smart-contract-development/
+Date: 22 October 2021
+Tags: Lists
+
+### Secureum Bootcamp Part 1: Ethereum 101
+URL: https://smartcontractsecurity.eu/secureum-bootcamp-part-1-ethereum-101/
+Date: 20 October 2021
+Tags: Ethereum
+
+### Tincho's Introduction to Smart Contract Security and Hacking in Ethereum
+URL: https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/
+Date: 19 October 2021
+Tags: Lists
+
+### Secureum Bootcamp for Smart Contract Security Auditing
+URL: https://smartcontractsecurity.eu/secureum/
+Date: 19 October 2021
+Tags: Secureum
+Overview and hub page for the Secureum bootcamp series on smart contract security auditing.

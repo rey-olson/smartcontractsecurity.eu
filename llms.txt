@@ -1,0 +1,97 @@
+# Center for Blockchain & Smart Contract Security
+
+> A European resource hub for learning blockchain and smart contract security. Curated by Rey Olson, an information security specialist based in Belgium. Covers Ethereum, Solana, DeFi, bridge security, CBDCs, regulation, CTF challenges, and the Secureum bootcamp series.
+
+## Main Pages
+
+- [Home](https://smartcontractsecurity.eu/): Landing page with all articles listed by date.
+- [About](https://smartcontractsecurity.eu/about-2/): About the author, Rey Olson — information security specialist, Ethereum enthusiast, based in Belgium.
+- [Services](https://smartcontractsecurity.eu/security-audit-services/): The site does not offer audit services directly; refers visitors to Spearbit and Cantina for professional Web3 security.
+- [Contact](https://smartcontractsecurity.eu/contact/): Contact form / get in touch.
+- [All Topics](https://smartcontractsecurity.eu/tags/): Full tag index.
+
+## Resource Categories
+
+- [Secureum](https://smartcontractsecurity.eu/secureum/): Secureum bootcamp series for smart contract security auditing.
+- [Capture The Flag](https://smartcontractsecurity.eu/capture-the-flag-challenges/): CTF challenge resources.
+- [Ethereum](https://smartcontractsecurity.eu/tags/ethereum/): Ethereum-focused security content.
+- [Solana](https://smartcontractsecurity.eu/tags/solana/): Solana security resources.
+- [DeFi](https://smartcontractsecurity.eu/tags/defi/): Decentralized finance security.
+- [Bridge Security](https://smartcontractsecurity.eu/tags/bridges/): Cross-chain bridge security.
+- [Regulation](https://smartcontractsecurity.eu/tags/legislation/): Cryptocurrency regulation articles.
+- [CBDCs](https://smartcontractsecurity.eu/tags/cbdc/): Central Bank Digital Currency resources.
+
+## Articles (Selected)
+
+- [Zero Crypto at Home: Bankless in the Age of Wrench Attacks and Phishing](https://smartcontractsecurity.eu/zero-crypto-at-home-bankless-in-the-age-of-wrench-attacks-and-phishing-by-jameson-lopp-and-beau-a-bankless-podcast/) (Mar 2026)
+- [Article Series on Cryptocurrency Regulation](https://smartcontractsecurity.eu/article-series-on-cryptocurrency-regulation/) (Sep 2025)
+- [Articles Series on Central Bank Digital Currencies (CBDCs)](https://smartcontractsecurity.eu/articles-series-on-central-bank-digital-currencies-cbdcs/) (Aug 2025)
+- [On Verifying Multi-Sig Wallet Signatures](https://smartcontractsecurity.eu/on-verifying-multi-sig-wallet-signatures/) (Apr 2025)
+- [Thoughts on the $1.5B Bybit Hack](https://smartcontractsecurity.eu/thoughts-on-the-one-and-a-half-billion-bybit-hack/) (Feb 2025)
+- [Python and Vyper Smart Contract Development by Cyfrin](https://smartcontractsecurity.eu/python-and-vyper-smart-contract-development-by-cyfrin/) (Dec 2024)
+- [Security Recommendations by Officer CIA](https://smartcontractsecurity.eu/security-recommendations-by-officer-cia/) (Nov 2024)
+- [The Pay Off: How Changing the Way We Pay Changes Everything](https://smartcontractsecurity.eu/the-pay-off-how-changing-the-way-we-pay-changes-everything/) (Sep 2024)
+- [Zero-Knowledge Security Workshop by Veridise](https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/) (Aug 2024)
+- [Blockchains, Smart Contracts, and How To Secure Them (Dutch Webinar)](https://smartcontractsecurity.eu/blockchains-smart-contracts-and-how-to-secure-them/) (Jun 2024)
+- [An Analysis of Two Web3 Phishing Kits by Bernhard Mueller](https://smartcontractsecurity.eu/an-analysis-of-two-web3-phishing-kits-by-bernhard-mueller/) (Apr 2024)
+- [Smart Contract Phishing, Attack & Defense by Tejaswa Rastogi](https://smartcontractsecurity.eu/smart-contract-phishing-attack-and-defense-by-tejaswa-rastogi/) (Apr 2024)
+- [Security and Auditing Course by Cyfrin](https://smartcontractsecurity.eu/security-and-auditing-course-by-cyfrin/) (Dec 2023)
+- [The True Origin Of Hacks & Top Web3 Vulnerabilities by Immunefi](https://smartcontractsecurity.eu/the-true-origin-of-hacks-and-top-web3-vulnerabilities-by-immunefi/) (Nov 2023)
+- [The Rekt Test](https://smartcontractsecurity.eu/the-rekt-test/) (Nov 2023)
+- [My Lightning Talk @ ANNACON (2023)](https://smartcontractsecurity.eu/my-lightning-talk-annacon-2023/) (Oct 2023)
+- [Cyber And Hacking In The Worlds Of Blockchain And Crypto](https://smartcontractsecurity.eu/cyber-and-hacking-in-the-worlds-of-blockchain-and-crypto/) (Sep 2023)
+- [Secureum TrustX @ Devconnect Istanbul (2023)](https://smartcontractsecurity.eu/secureum-trustx-devconnect-istanbul-2023/) (Aug 2023)
+- [Blockchain Developer, Solidity & Foundry Course 2023 by Patrick Collins](https://smartcontractsecurity.eu/blockchain-developer-solidity-foundry-full-course-2023/) (Jun 2023)
+- [Open Standard Web3 Attack Reference (OSWAR)](https://smartcontractsecurity.eu/oswar-open-standard-web3-attack-reference/) (Jun 2023)
+- [Chainalysis Links Amsterdam 2023](https://smartcontractsecurity.eu/chainalysis-links-amsterdam-2023/) (Jun 2023)
+- [Cybersecurity Best Practices for Crypto Exchanges](https://smartcontractsecurity.eu/cybersecurity-best-practices-for-crypto-exchanges/) (Apr 2023)
+- [DeFi Security Summit 2023](https://smartcontractsecurity.eu/defi-security-summit-2023/) (Apr 2023)
+- [NEAR Smart Contract Security Course by Timur Guvenkaya](https://smartcontractsecurity.eu/near-smart-contract-security-course-by-timur-guvenkaya/) (Mar 2023)
+- [Building Secure Smart Contracts by Trail of Bits](https://smartcontractsecurity.eu/building-secure-smart-contracts-by-trail-of-bits/) (Feb 2023)
+- [Awesome Account Abstraction by 4337 Mafia](https://smartcontractsecurity.eu/awesome-account-abstraction-by-4337-mafia/) (Feb 2023)
+- [Bridge Security Introduction by Spearbit](https://smartcontractsecurity.eu/bridge-security-introduction-by-spearbit/) (Dec 2022)
+- [Smart Contract Auditor Roadmap by QuillAudit](https://smartcontractsecurity.eu/smart-contract-auditor-roadmap-by-quillaudit/) (Nov 2022)
+- [A Better Mental Model for Rollups, Plasma, and Validating Bridges by Patrick McCorry](https://smartcontractsecurity.eu/a-better-mental-model-for-rollups-plasma-and-validating-bridges-by-patrick-mccorry/) (Nov 2022)
+- [Yearn's Risk Based Approach to Security by storm0x](https://smartcontractsecurity.eu/yearns-risk-based-approach-to-security-by-storm0x/) (Oct 2022)
+- [Understanding Bridge Security by Arjun Bhuptani (Connext)](https://smartcontractsecurity.eu/understanding-bridge-security-by-arjun-bhuptani-connext/) (Oct 2022)
+- [Web3 Security Library by Immunefi](https://smartcontractsecurity.eu/web3-security-library-by-immunefi/) (Oct 2022)
+- [DeFi Security Summit 2022 by Stanford](https://smartcontractsecurity.eu/defi-security-summit-2022-by-stanford/) (Sep 2022)
+- [DAO Governance Attacks, and How to Avoid Them (a16z crypto)](https://smartcontractsecurity.eu/dao-governance-attacks-and-how-to-avoid-them-az16-crypto/) (Jul 2022)
+- [A Tool for Detecting Metamorphic Smart Contracts by Michael Blau (a16z crypto)](https://smartcontractsecurity.eu/a-tool-for-detecting-metamorphic-smart-contracts-by-michael-blau-a16z-crypto/) (Jul 2022)
+- [Ethereum Smart Contract Security Best Practices by ConsenSys Diligence](https://smartcontractsecurity.eu/ethereum-smart-contract-security-best-practices-by-consensys-diligence/) (Jul 2022)
+- [The Auditooor Grindset](https://smartcontractsecurity.eu/the-auditooor-grindset/) (May 2022)
+- [Sanny's Solana Security Resources](https://smartcontractsecurity.eu/sannys-solana-security-resources/) (May 2022)
+- [Nascent's Simple Security Toolkit](https://smartcontractsecurity.eu/nascents-simple-security-toolkit/) (May 2022)
+- [The Anti-Ape on What's Wrong With Bridges](https://smartcontractsecurity.eu/the-anti-ape-on-whats-wrong-with-bridges/) (Apr 2022)
+- [My Lightning Talk @ Secureum TrustX](https://smartcontractsecurity.eu/my-lightning-talk-secureum-trustx/) (Apr 2022)
+- [Smart Contracts ft. Ransomware](https://smartcontractsecurity.eu/smart-contracts-and-ransomware/) (Mar 2022)
+- [Secureum TrustX @ Devconnect Amsterdam (2022)](https://smartcontractsecurity.eu/secureum-trustx-devconnect-amsterdam-2022/) (Mar 2022)
+- [Enterprise Ethereum Alliance's Crosschain Security Guidelines (v1.0)](https://smartcontractsecurity.eu/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/) (Feb 2022)
+- [Manifold Finance's DeFi Threat Matrix](https://smartcontractsecurity.eu/manifold-finances-defi-threat-matrix/) (Feb 2022)
+- [Patrick McCorry's Cryptocurrency Class 2022](https://smartcontractsecurity.eu/patrick-mccorrys-cryptocurrency-class-2022/) (Feb 2022)
+- [Devansh Batham's Genesis 0x00: A Series on Blockchain Security](https://smartcontractsecurity.eu/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/) (Jan 2022)
+- [0xSleepy's Hacking the Blockchain: An Ultimate Guide](https://smartcontractsecurity.eu/hacking-the-blockchain-an-ultimate-guide-immunefi/) (Jan 2022)
+- [Shermin Voshmgir's Token Economy](https://smartcontractsecurity.eu/token-economy/) (Jan 2022)
+- [Ben Kremer's Awesome Solidity](https://smartcontractsecurity.eu/awesome-solidity/) (Jan 2022)
+- [Smart Contract Security Verification Standard (SCSVSv2)](https://smartcontractsecurity.eu/smart-contract-security-verification-standard-version-2-scsvsv2/) (Jan 2022)
+- [Pierre Antoine on Ethereum Private Key Attacks](https://smartcontractsecurity.eu/a-quick-tour-on-ethereum-private-key-attacks/) (Dec 2021)
+- [Secureum Part 8: Audit Findings 201](https://smartcontractsecurity.eu/secureum-part-8-audit-findings-201/) (Nov 2021)
+- [Introduction to Ethereum Scaling & Layer 2's](https://smartcontractsecurity.eu/introduction-to-ethereum-scaling-and-layer-2s/) (Nov 2021)
+- [Audit Firms: Or, The Seal of Approval](https://smartcontractsecurity.eu/audit-firms/) (Nov 2021)
+- [yAcademy](https://smartcontractsecurity.eu/yacademy/) (Nov 2021)
+- [Gitcoin & KERNEL Fellowship](https://smartcontractsecurity.eu/gitcoin-and-kernel-fellowship/) (Nov 2021)
+- [Secureum Part 7: Audit Findings 101](https://smartcontractsecurity.eu/secureum-part-7-audit-findings-101/) (Nov 2021)
+- [Capture The Flag (CTF)](https://smartcontractsecurity.eu/capture-the-flag-challenges/) (Nov 2021)
+- [Secureum Part 6: Audit Techniques & Tools 101](https://smartcontractsecurity.eu/secureum-part-6-audit-techniques-and-tools-101/) (Nov 2021)
+- [Secureum Part 5: Security Pitfalls & Best Practices 201](https://smartcontractsecurity.eu/secureum-part-5-security-pitfalls-and-best-practices-201/) (Nov 2021)
+- [Ethereum EVM Illustrated](https://smartcontractsecurity.eu/ethereum-evm-illustrated/) (Nov 2021)
+- [Secureum Bootcamp Part 4: Security Pitfalls & Best Practices 101](https://smartcontractsecurity.eu/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/) (Oct 2021)
+- [Secureum Bootcamp Part 3: Solidity 201](https://smartcontractsecurity.eu/secureum-bootcamp-part-3-solidity-201/) (Oct 2021)
+- [Secureum Bootcamp Part 2: Solidity 101](https://smartcontractsecurity.eu/secureum-bootcamp-part-1-solidity-101/) (Oct 2021)
+- [Mastering Ethereum](https://smartcontractsecurity.eu/mastering-ethereum/) (Oct 2021)
+- [Non-blockchain Security Measures Still Matter](https://smartcontractsecurity.eu/common-cyber-security-still-matters/) (Oct 2021)
+- [Yos Riady's Best Practices For Smart Contract Development](https://smartcontractsecurity.eu/best-practices-for-smart-contract-development/) (Oct 2021)
+- [Secureum Bootcamp Part 1: Ethereum 101](https://smartcontractsecurity.eu/secureum-bootcamp-part-1-ethereum-101/) (Oct 2021)
+- [Tincho's Introduction to Smart Contract Security and Hacking in Ethereum](https://smartcontractsecurity.eu/introduction-to-smart-contract-security-and-hacking-in-ethereum/) (Oct 2021)
+- [Secureum Bootcamp for Smart Contract Security Auditing](https://smartcontractsecurity.eu/secureum/) (Oct 2021)
+- [Newsletters Etcetera](https://smartcontractsecurity.eu/newsletters-a-selection-of/) (Feb 2022)
