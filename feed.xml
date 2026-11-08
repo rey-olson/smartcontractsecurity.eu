@@ -54,6 +54,38 @@
         </content>
     </entry>
     <entry>
+        <title>Still Here (Mostly)</title>
+        <author>
+            <name>Rey Olson</name>
+        </author>
+        <link href="https://smartcontractsecurity.eu/still-here-mostly/"/>
+        <id>https://smartcontractsecurity.eu/still-here-mostly/</id>
+        <media:content url="https://smartcontractsecurity.eu/media/posts/120/filipe-resmini-KUZY2Vcr9ZA-unsplash.jpg" medium="image" />
+
+        <updated>2026-11-08T22:23:47+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://smartcontractsecurity.eu/media/posts/120/filipe-resmini-KUZY2Vcr9ZA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p dir="ltr">Dear (hundreds of) bots and the occasional human reader,</p>
+<p dir="ltr">An update on why things have been so quiet around here.</p>
+<p dir="ltr">First of all, I took on a new position where I constantly come into contact with confidential information, at times crypto-related. Information I’m not allowed to share, because if I do, I literally go to jail. No exaggeration. I’m also working full-time again, instead of my old 80% regime (Yay Europe! Awesome employee rights when it comes to parental leave), so work taxes (lol, a typo for “takes”, but I’m leaving it) most of my waking time (Nay Europe! Cries in a tax rate of over 50%).</p>
+<p dir="ltr">A second reason is family life, which requires so much of my time, attention... and energy. Energy, or rather the lack thereof, was the word I was looking for, because oh my, life is not always easy. Throw in three kids and, yeah, it gets pretty brutal at times. Life is not a pony camp, as someone around here famously said on TV.</p>
+<p dir="ltr">I’ve also noticed that people don’t seem to share as much as they used to. In the few hours I spent scrolling through X, I didn’t come across much valuable or insightful info. It’s probably related to the hype cycle: in a bull market everything goes great, there’s plenty of attention, and it’s attractive to ride that wave. In the current bear market, that ship has failed. Same for some (most?) audit shops. They seem to be bunkering down and just doing the work, without boasting much about it on X. And speaking of X: what the fucking fucker’s fuckfest volume fuck. If you’re wondering why the world is going to shit, look no further. What an endless cesspit it still is... &lt;insert “always has been” meme&gt;</p>
+<p dir="ltr">A couple of months ago I pointed Claude (Opus, on the free model credits when it first became available) to this website and asked what a good way forward would be content-wise. And, I shit you not, it came back with something like: “Your skills are in the perfect triangle of security, blockchain and regulation, blablabla”. I can’t look it up since I canceled my Pro subscription, but sycophancy much? Besides, I’m not going to publish content I don’t feel is genuinely valuable to you as a reader. <span style="font-size: inherit;">It’s something I’ve always tried: every post should have a nugget of knowledge in it. I read the resource I’m sharing first, and I learn something, aka it adds a wrinkle to my smooth brain (as the $GME apes would phrase it on Reddit). </span>So no, I’m not keeping this site running as a “platform” to “leverage” for job opportunities if I ever leave my job. No thank you. The site stays up, though, and I’ll post when I have something worth sharing.</p>
+<p dir="ltr">Which brings me to who I did want to point out today: Peter Kacherginsky and his newsletter <a href="https://blockthreat.com/" target="_blank" rel="noopener noreferrer">BlockThreat</a>. He keeps going at it, curating the worst (or best, you decide) hacks every week, and he’s turned it (maybe it always was, forgive me) into a source of original, valuable personal insight on security. Great to witness. I’m guilty of mostly referring to and/or rehashing other people’s content, since I’m not fit to start pumping out original content on blockchain security, but hey, it’s honest work, and nobody minds a genuine referral.</p>
+<p dir="ltr">On the AI front (inevitable, I know!): the folks at Cantina built <a href="https://www.cantina.security/apex" target="_blank" rel="noopener noreferrer">Apex</a>, an AI pentesting and code security solution trained specifically on finding code bugs (enter the great debate: general vs specific models), and supposedly it’s surprisingly effective. That smart contract audits are trending towards AI-assisted workflows isn’t surprising, but that it works in practice, kinda is. I’ll leave it there, but it’s something to ponder. On the other hand, a lot of hacks keep coming down to improper infrastructure setups and so forth (“Web2 security”, as we used to call it), and I’m not so sure that gets fixed as easily by an agent scanning a code repository and/or spinning up a node to simulate some stuff.</p>
+<p dir="ltr">Anyway, I’m calling it quits for now. I hope that clears up the state of this website. See you (or hear from you) later, and don’t hesitate to reach out.</p>
+<p dir="ltr">Best regards,</p>
+<p dir="ltr">Rey</p>
+<hr>
+<p dir="ltr"><em>Disclaimer: this was originally typed on my phone on the train during my morning commute, so forgive my scattered thoughts. I cleaned it up with the help of Claude (Oh Laaaawd).</em></p>
+<p dir="ltr">Photo by <a href="https://unsplash.com/@firesmini?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Filipe Resmini</a> on <a href="https://unsplash.com/photos/silhouette-photography-of-person-KUZY2Vcr9ZA?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+<p dir="ltr"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Zero Crypto at Home: Bankless in the Age of Wrench Attacks and Phishing by Jameson Lopp and Beau (A Bankless podcast)</title>
         <author>
             <name>Rey Olson</name>
@@ -396,57 +428,6 @@
 <p><strong><em>PART I: MOVING MONEY</em></strong><br><em>1.What’s a payment, anyway?</em><br><em>2.If money doesn’t move, how does it make the world go round?</em><br><em>3.Not so simple: the fundamental challenges of payment</em><br><strong><em>PART II: HISTORY</em></strong><br><em>4.The enigma of cash</em><br><em>5.The war on cash</em><br><em>6.Fantastic plastic: the advent of cards</em><br><em>7.The mother of invention: advances in card technology</em><br><em>8.Minting plastic: from credit to debit cards</em><br><strong><em>PART III: GEOGRAPHY</em></strong><br><em>9.Prisoners of geography: why our payment habits are national</em><br><em>10.Starting from scratch: how payments went mobile in China and Kenya</em><br><em>11.Incredible India: the instant payment revolution</em><br><strong><em>PART IV: ECONOMICS</em></strong><br><em>12.Paying to pay: the hidden costs of payments</em><br><em>13.Making money by moving money: who profits from payments?</em><br><strong><em>PART V: BIG MONEY</em></strong><br><em>14.How to steal a billion: fraud and theft</em><br><em>15.Invisible plumbing: the mechanics behind payments</em><br><em>16.How to move a trillion (or why we need central banks)</em><br><em>17.If money never moves, how do you send it abroad?</em><br><strong><em>PART VI: THE TECH REVOLUTION</em></strong><br><em>18.Crashing the party: challenging the role of banks</em><br><em>19.Cashing in on cards: the rise of the acquirers</em><br><em>20.Live now, pay later: the allure of invisibility</em><br><em>21.The new oil? The importance of data</em><br><em>22.In code we trust: meeting the cryptocurrencies</em><br><em>23.BigTech and banks enter the fray</em><br><em>24.Crypto for grown-ups: central banks go digital</em><br><em>25.Open access or closed loops: how payment networks compete for customers</em><br><strong><em>PART VII: POLITICS AND REGULATION</em></strong><br><em>26.Who’s running the show? Rules and regulators</em><br><em>27.Europe gets a phone number: how EU regulators reshaped payments</em><br><em>28.How payments became weaponised</em><br><em>29.Follow the money: payment trails and the fight against financial crime</em><br><em>30.No way to pay: excluded from the payment system</em></p>
 <hr>
 <p class="toc1">For Belgian readers active in the space, Febelfin Academy hosts an <a href="https://www.febelfin-academy.be/en/trainings/trajectory-qualified-payments-expert">in-depth training course "Qualified Payments Expert"</a> which is well worth your time (and money).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Zero-Knowledge Security Workshop by Veridise</title>
-        <author>
-            <name>Rey Olson</name>
-        </author>
-        <link href="https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/"/>
-        <id>https://smartcontractsecurity.eu/zero-knowledge-security-workshop-by-veridise/</id>
-        <media:content url="https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg" medium="image" />
-            <category term="ZK"/>
-            <category term="Security"/>
-            <category term="Secureum"/>
-            <category term="Ethereum"/>
-
-        <updated>2024-08-18T22:41:00+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://smartcontractsecurity.eu/media/posts/101/tra-nguyen-TVSRWmnW8Us-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--info">Veridise's <a href="https://www.mikkoikola.com/" target="_blank" rel="noopener noreferrer">Mikko Ikola</a> reached out to me to ask if I could list <a href="https://veridise.com" target="_blank" rel="noopener noreferrer">Veridise</a>, the company, to my published list of <a href="https://smartcontractsecurity.eu/audit-firms/" target="_blank" rel="noopener noreferrer">audit firms</a>. Which of course, I did. When I browsed their website, I stumbled upon this magnificient zero-knowledge ("ZK") security workshop they organised together with <a href="https://smartcontractsecurity.eu/secureum/" target="_blank" rel="noopener noreferrer">Secureum </a>in October-November 2023 👇</p>
-<h4 class="align-center"><a href="https://medium.com/veridise/zk-security-workshop-recap-winners-and-presentations-9c105dfab7de" target="_blank" rel="noopener noreferrer">ZK Security Workshop recap: Winners and presentations</a><br><br></h4>
-<p data-selectable-paragraph="">Especially helpful are the lecture slides, all provided by Veridise:</p>
-<ul>
-<li>An Intro to ZK languages and Frameworks (Kostas Ferles, CRO)</li>
-<li>Abstracting ZK Circuits with Graphs (Daniel Dominguez, Security Engineer)</li>
-<li>Static Analysis for ZK Circuits (Kostas Ferles, CRO)</li>
-<li>Underconstrained circuits and the Picus tool (Shankara Pailoor, Research Scientist)</li>
-</ul>
-<p>As well as the guest presentation recordings:</p>
-<ul>
-<li>Lessons Learned from Securing Scroll zkEVM (Haichen Shen, Scroll co-founder)</li>
-<li>Circuit Techniques for Scaling Data Access on Ethereum (Yi Sun, Axiom co-founder)</li>
-<li>Tips for safe Circom circuits (Blockdev, Ethereum Foundation’s PSE team, software engineer)</li>
-</ul>
-<h3>Curious about zero-knowledge technology?</h3>
-<p>Before diving into the security implications of zero-knowledge tech, I suggest you start with the basics. The <a href="https://ethereum.org/en/zero-knowledge-proofs/">Ethereum Foundation</a> has a nice introduction on zero-knowledge proofs, as well as <a href="https://academy.binance.com/en/articles/what-is-zero-knowledge-proof-and-how-does-it-impact-blockchain">Binance Academy</a> <em>(don't shoot me for linking to Binance, it is an informative article, written by Kenny Li, co-founder of Manta Network).</em></p>
-<h5>For more resources on zk tech feel free to check-out:</h5>
-<ul>
-<li><a href="https://zkintro.com/">zkintro</a> (introduction and practical programming course)</li>
-<li><a href="https://zk-learning.org/">zk-learning</a> (MOOC, spring 2023 - but the resources are still available online)</li>
-<li><a href="https://cryptohack.org/challenges/zkp/">ZKPs by CryptoHack</a> (</li>
-<li><a href="https://zksecurity.xyz/blog/">ZKSECURITY</a> (⚠️ watch out, this seems to be pretty advanced stuff)</li>
-<li><a href="https://github.com/matter-labs/awesome-zero-knowledge-proofs">Awesome zero knowledge proofs by Matter Labs</a> (yet another curated list 😅)</li>
-<li>Rareskills <a href="https://www.rareskills.io/zk-book">zk-book</a> &amp; <a href="https://www.rareskills.io/zk-bootcamp">zk-bootcamp</a> (⚠️ watch out, these are <em>not </em>free)</li>
-</ul>
-<hr>
-<h3>Additional reading by Veridise</h3>
-<p>There are more gems on the Veridise blog, for example <a href="https://medium.com/veridise/breakdown-of-100-security-audits-key-insights-from-1605-vulnerability-findings-0f12d830572e">Breakdown of 100 security audits: Key insights from 1605 vulnerability findings</a>.</p>
-<p>I think the views from the article align with my perception that, more recently, the larger losses stem from a) "old school" hacks (e.g. private key theft through social engineering attacks), b) business logic errors. I don't always closely follow the latest news with regards to exploits, but I have the impression that reentrancy attacks and so forth are not as popular as they were before. I guess due to projects improving their smart contract security game (higher code quality, more code audit(s) before go-live, ...)</p>
             ]]>
         </content>
     </entry>
